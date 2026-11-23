@@ -72,9 +72,12 @@ class PlayerConnection(
         private const val TAG = "PlayerConnection"
         private const val PLAYER_INIT_TIMEOUT_MS = 5000L
         private const val VideoLyricsSyncDelayMs = 1_500L
-        private const val AutoSyncSettleMs = 6_000L
+        // just long enough that skipping through songs never listens to ones that were passed over
+        private const val AutoSyncSettleMs = 600L
         private const val AutoSyncPrefs = "lyrics_auto_sync"
         private const val AutoSyncDone = "done"
+        // the offset the auto sync itself saved for a song, so it can tell its own offset from one set by hand
+        private const val AutoSyncOffsetPrefix = "offset_"
         private const val AutoSyncRemember = 3_000
     }
 
@@ -241,7 +244,13 @@ class PlayerConnection(
         val prefs = context.getSharedPreferences(AutoSyncPrefs, Context.MODE_PRIVATE)
         val key = "$songId:${rawLyrics.hashCode()}"
         if (prefs.getStringSet(AutoSyncDone, emptySet())?.contains(key) == true) return
-        if ((database.song(songId).first()?.song?.lyricsOffset ?: 0) != 0) return
+        val savedOffset = database.song(songId).first()?.song?.lyricsOffset ?: 0
+        if (savedOffset != 0) {
+            // an offset set by hand is left alone; one the auto sync saved belonged to the lyrics of the
+            // source that was showing then, so for another source's lyrics it's cleared and worked out again
+            if (savedOffset != prefs.getInt(AutoSyncOffsetPrefix + songId, 0)) return
+            database.query { updateLyricsOffset(songId, 0) }
+        }
         val lines = LyricsUtils.parseLyrics(rawLyrics).takeIf { it.isNotEmpty() && !LyricsUtils.isUnsynced(it) } ?: return
         // it listens to the stream that is playing, so wait until this song really is
         isPlaying.first { it }

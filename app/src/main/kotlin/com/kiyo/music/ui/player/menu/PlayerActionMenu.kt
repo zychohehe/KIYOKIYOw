@@ -25,6 +25,7 @@ import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
@@ -410,6 +411,37 @@ fun PlayerActionMenu(
                         onClick = {
                             onDismiss()
                             onEqualizer()
+                        },
+                    )
+                }
+
+                // Where the lyrics showing now came from, to look at. Opened from the lyrics page the
+                // "Lyrics provider" row above already says it, so it's only here for the player's menu.
+                if (!fromLyrics) {
+                    Spacer(modifier = Modifier.height(SectionGap))
+                    val lyricsProvider = lyricsEntity?.provider
+                    val lyricsText = lyricsEntity?.lyrics
+                    val hasLyrics = lyricsProvider != null && !lyricsText.isNullOrBlank() &&
+                        lyricsText != com.kiyo.music.db.entities.LyricsEntity.LYRICS_NOT_FOUND
+                    val sourceLabel = when {
+                        !hasLyrics -> stringResource(R.string.ps_lyrics_not_found)
+                        lyricsProvider == com.kiyo.music.lyrics.EmbeddedLyrics.Provider -> stringResource(R.string.pc_lyrics_song_file)
+                        lyricsProvider == com.kiyo.music.viewmodels.LyricsMenuViewModel.USER_EDITED -> stringResource(R.string.pc_lyrics_your_edit)
+                        else -> com.kiyo.music.lyrics.LyricsProviderRegistry.getDisplayName(lyricsProvider!!)
+                    }
+                    MenuRow(
+                        icon = R.drawable.lyrics,
+                        title = stringResource(R.string.ps_menu_lyrics_source),
+                        onClick = { showLyricsProvider = true },
+                        trailing = {
+                            Text(
+                                text = sourceLabel,
+                                color = Color.White.copy(alpha = 0.55f),
+                                fontSize = 13.sp,
+                                maxLines = 1,
+                                overflow = TextOverflow.Ellipsis,
+                                modifier = Modifier.widthIn(max = 160.dp),
+                            )
                         },
                     )
                 }

@@ -37,6 +37,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import com.kiyo.music.R
+import com.kiyo.music.importer.account.AccountService
+import com.kiyo.music.ui.screens.settings.importsync.accountImportRoute
 import com.kiyo.music.ui.screens.settings.importsync.YouTubeSyncRoute
 import com.kiyo.music.ui.screens.settings.integrations.backup.BackupRoute
 import com.kiyo.music.ui.theme.InterFontFamily
@@ -72,7 +74,7 @@ internal fun ProfileSectionTitle(text: String) {
     )
 }
 
-/** Discord, YouTube Music and Backup as one tidy block, a hairline between the rows. */
+/** Discord, YouTube Music, Spotify and Backup as one tidy block, a hairline between the rows. */
 @Composable
 internal fun ProfileIntegrations(navController: NavController) {
     Column(Modifier.fillMaxWidth()) {
@@ -83,6 +85,13 @@ internal fun ProfileIntegrations(navController: NavController) {
             icon = R.drawable.provider_youtube_music,
             iconBackground = YouTubeMusicRed,
             onClick = { navController.navigate(YouTubeSyncRoute) },
+        )
+        // Spotify's sign-in and playlist picker, moved here from the Import page
+        IntegrationLine(
+            name = AccountService.SPOTIFY.label,
+            description = stringResource(R.string.import_provider_spotify_desc),
+            icon = R.drawable.provider_spotify,
+            onClick = { navController.navigate(accountImportRoute(AccountService.SPOTIFY)) },
         )
         IntegrationLine(
             name = stringResource(R.string.integration_backup_name),

@@ -626,7 +626,11 @@ class MusicService :
     val lyricsAutoSync by lazy {
         com.kiyo.music.lyrics.LyricsAutoSync(
             dataSourceFactory = { createDataSourceFactory() },
-            saveOffset = { songId, offsetMs -> database.query { updateLyricsOffset(songId, offsetMs) } },
+            saveOffset = { songId, offsetMs ->
+                // remembered as the auto sync's own, so a later source change can tell it from an offset set by hand
+                getSharedPreferences("lyrics_auto_sync", MODE_PRIVATE).edit().putInt("offset_$songId", offsetMs).apply()
+                database.query { updateLyricsOffset(songId, offsetMs) }
+            },
             onUnwatchedResult = ::announceLyricsSync,
         )
     }

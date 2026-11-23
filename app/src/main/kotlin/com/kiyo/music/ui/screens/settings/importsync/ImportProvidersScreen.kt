@@ -19,7 +19,6 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavController
 import com.kiyo.music.R
 import com.kiyo.music.importer.LinkSource
-import com.kiyo.music.importer.account.AccountService
 import com.kiyo.music.ui.component.SettingsGroup
 import com.kiyo.music.ui.component.SettingsGroupStyle
 import com.kiyo.music.ui.component.SettingsItem
@@ -43,29 +42,6 @@ fun ImportProvidersScreen(
         title = stringResource(R.string.import_sync_import_title),
         onBack = { navController.navigateUp() },
     ) {
-        SettingsGroup(
-            title = stringResource(R.string.import_providers_signin_header),
-            style = SettingsGroupStyle.Grouped,
-            items =
-                listOf(
-                    AccountService.SPOTIFY to stringResource(R.string.import_provider_spotify_desc),
-                    AccountService.APPLE_MUSIC to stringResource(R.string.import_provider_apple_music_desc),
-                    AccountService.YOUTUBE_MUSIC to stringResource(R.string.import_provider_ytm_desc),
-                    AccountService.TIDAL to stringResource(R.string.import_provider_tidal_desc),
-                ).map { (service, description) ->
-                    SettingsItem(
-                        title = { Text(service.label) },
-                        highlightKey = "${service.label} account",
-                        descriptionText = description,
-                        icon = painterResource(R.drawable.login),
-                        iconShape = CircleShape,
-                        onClick = { navController.navigate(accountImportRoute(service)) },
-                    )
-                },
-        )
-
-        Spacer(Modifier.height(16.dp))
-
         SettingsGroup(
             title = stringResource(R.string.import_providers_link_header),
             style = SettingsGroupStyle.Grouped,

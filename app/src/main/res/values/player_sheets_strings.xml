@@ -341,4 +341,5 @@
         <item quantity="one">%1$d line selected</item>
         <item quantity="other">%1$d lines selected</item>
     </plurals>
+    <string name="ps_menu_lyrics_source">Lyrics source</string>
 </resources>
