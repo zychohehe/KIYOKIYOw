@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="car_tab_home">Beranda</string>
+    <string name="car_tab_remote">Remote</string>
+    <string name="car_tab_recent">Terbaru</string>
+    <string name="car_tab_library">Pustaka</string>
+    <string name="car_quick_picks">Pilihan cepat</string>
+    <string name="car_categories">Kategori</string>
+    <string name="car_home_empty">Putar beberapa lagu di ponselmu dan pilihanmu muncul di sini!</string>
+    <string name="car_recent_songs">Lagu</string>
+    <string name="car_recent_lists">Album dan playlist</string>
+    <string name="car_recent_empty">Lagu yang kamu putar muncul di sini.</string>
+    <string name="car_liked">Lagu yang disukai</string>
+    <string name="car_downloaded">Terunduh</string>
+    <string name="car_playlists">Playlist</string>
+    <string name="car_albums">Album</string>
+    <string name="car_artists">Artis</string>
+    <string name="car_list_empty">Belum ada isinya.</string>
+    <string name="car_couldnt_load">Gagal memuat. Periksa koneksimu lalu coba lagi.</string>
+    <string name="car_shuffle">Acak</string>
+    <string name="car_lyrics">Lirik</string>
+    <string name="car_lyrics_on_player">Di pemutar</string>
+    <string name="car_lyrics_none">Tidak ada lirik untuk lagu ini.</string>
+    <string name="car_lyrics_player_on">lirik sekarang bisa tampil di pemutar saat kamu menyetir, ini masih beta ya!</string>
+    <string name="car_lyrics_player_off">Lirik di pemutar dimatikan.</string>
+    <string name="car_pair_code">Kode pemasangan</string>
+    <string name="car_pair_status">Status</string>
+    <string name="car_pair_how">Cara memasangkan</string>
+    <string name="car_pair_steps">Di ponsel lain, buka Kiyo lalu masuk ke Pengaturan › Integrasi perangkat › Tambah perangkat, kemudian ketik kode ini. Kedua ponsel harus memakai Wi-Fi yang sama.</string>
+    <string name="car_pair_waiting">Tidak terhubung. Menunggu ponsel untuk dipasangkan.</string>
+    <string name="car_pair_connected">Terhubung ke %1$s</string>
+    <string name="car_pair_getting_code">Menyiapkan kode…</string>
+    <plurals name="car_pair_connected_more">
+        <item quantity="other">Terhubung ke %1$s dan %2$d ponsel lainnya</item>
+    </plurals>
+</resources>

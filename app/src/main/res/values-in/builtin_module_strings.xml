@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="builtin_module_apple_description">Memutar langganan Apple Music-mu di Kiyo, dalam AAC 256, dengan semua efek Audio Lab</string>
+    <string name="builtin_module_monochrome_description">FLAC lossless untuk setiap lagu di Monochrome, tanpa akun, dengan semua efek Audio Lab</string>
+    <string name="builtin_module_jiosaavn_description">Katalog JioSaavn dalam AAC hingga 320 kbps, tanpa akun. Terkuat untuk musik India</string>
+    <string name="builtin_module_stream">Streaming</string>
+    <string name="builtin_module_apple_aac_description">Streaming stereo standar Apple Music</string>
+    <string name="builtin_module_apple_he_description">Seperempat data, untuk jaringan lambat atau terbatas</string>
+    <string name="builtin_module_saavn_320_description">Terbaik dari JioSaavn, 160 untuk lagu yang tidak punya 320</string>
+    <string name="builtin_module_saavn_160_description">Separuh data, tetap jernih</string>
+    <string name="builtin_module_saavn_96_description">Untuk jaringan lambat atau terbatas</string>
+    <string name="builtin_module_region">Wilayah</string>
+    <string name="builtin_module_account_region">Wilayah akunmu</string>
+    <string name="builtin_module_account_region_description">Mencari di katalog negara akun Apple-mu</string>
+    <string name="builtin_module_region_description">Mencari di katalog %1$s. Lagu yang tidak dilisensikan di negara akunmu mungkin tetap ditolak</string>
+</resources>

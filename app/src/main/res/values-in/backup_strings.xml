@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="integration_backup_name">Cadangan</string>
+    <string name="integration_backup_desc">Jaga pustaka dan statistikmu tetap aman di cloud milikmu sendiri</string>
+    <string name="backup_page_subtitle">Playlist, suka, statistik mendengarkan, rekap, profil, dan pengaturanmu, disimpan di cloud milikmu sendiri. Lagu tidak ikut, jadi cadangan tetap kecil.</string>
+    <string name="backup_group_where">Cadangkan ke</string>
+    <string name="backup_dropbox_desc">Masuk dengan akun Dropbox-mu</string>
+    <string name="backup_onedrive_desc">Masuk dengan akun Microsoft-mu</string>
+    <string name="backup_webdav_desc">Nextcloud, pCloud, Koofr, NAS, dan lainnya</string>
+    <string name="backup_not_set_up">Belum disiapkan di build ini</string>
+    <string name="backup_signed_in_as">Masuk sebagai %1$s</string>
+    <string name="backup_webdav_connected">Mencadangkan ke %1$s</string>
+    <string name="backup_waiting_browser">Selesaikan proses masuk di browsermu</string>
+    <string name="backup_finishing_sign_in">Sedang masuk…</string>
+    <string name="backup_no_browser">Tidak ada browser di ponsel ini untuk masuk.</string>
+    <string name="backup_dropbox_notice">Cadangan Dropbox masih dalam pengujian. Hanya 500 orang pertama yang bisa terhubung, dan Dropbox bisa menghentikan proses masuk baru lebih awal sampai Kiyo disetujui. Jika Dropbox tidak mengizinkanmu masuk, WebDAV tidak punya batas.</string>
+    <string name="backup_disconnect">Putuskan</string>
+    <string name="backup_disconnect_desc">Berhenti mencadangkan ke %1$s. Cadangan yang sudah ada tetap tersimpan.</string>
+    <string name="backup_connected_toast">Terhubung. Cadanganmu sekarang dikirim ke %1$s.</string>
+    <string name="backup_group_backups">Cadangan</string>
+    <string name="backup_now">Cadangkan sekarang</string>
+    <string name="backup_last">Cadangan terakhir %1$s · %2$s</string>
+    <string name="backup_never">Belum ada cadangan</string>
+    <string name="backup_connect_first">Hubungkan cloud di atas dulu</string>
+    <string name="backup_packing">Mengemas… %1$d%%</string>
+    <string name="backup_uploading">Mengunggah… %1$d%%</string>
+    <string name="backup_downloading">Mengunduh… %1$d%%</string>
+    <string name="backup_unpacking">Membuka kemasan… %1$d%%</string>
+    <string name="backup_restored">Dipulihkan. Kiyo dimulai ulang…</string>
+    <string name="backup_done_toast">Dicadangkan ke %1$s</string>
+    <string name="backup_last_failed">Cadangan otomatis terakhir tidak berhasil. %1$s</string>
+    <string name="backup_restore_title">Pulihkan cadangan</string>
+    <string name="backup_restore_desc">Kembalikan pustaka, statistik, dan pengaturanmu dari cloud</string>
+    <string name="backup_auto_title">Cadangkan otomatis</string>
+    <string name="backup_auto_desc">Berjalan di latar belakang setiap ada koneksi, dan dilewati saat tidak ada yang berubah</string>
+    <string name="backup_every">Seberapa sering</string>
+    <string name="backup_keep">Simpan di cloud</string>
+    <string name="backup_keep_note">Setelah setiap pencadangan, cadangan tertua dari ponsel ini dihapus sehingga hanya sejumlah ini yang tersisa. Cadangan dari ponsel lain tidak disentuh.</string>
+    <string name="backup_restore_body">Pilih satu. Pustaka, statistik, dan pengaturanmu diganti dengan yang ada di dalamnya, lalu Kiyo dimulai ulang. Lagu yang sudah diunduh tetap seperti semula.</string>
+    <string name="backup_restore_loading">Mencari di cloudmu…</string>
+    <string name="backup_restore_empty">Belum ada cadangan di sana.</string>
+    <string name="backup_restore_item">%1$s · %2$s</string>
+    <string name="backup_restore_this">Pulihkan dan mulai ulang</string>
+    <string name="backup_try_again">Coba lagi</string>
+    <string name="webdav_title">Hubungkan server WebDAV</string>
+    <string name="webdav_body">Cadangan masuk ke folder Kiyo Backups di alamat ini. Kata sandimu tetap di ponsel ini dan tidak pernah masuk ke cadangan.</string>
+    <string name="webdav_address">Alamat server</string>
+    <string name="webdav_address_hint">https://cloud.example.com/remote.php/dav/files/you/</string>
+    <string name="webdav_username_hint">Nama penggunamu</string>
+    <string name="webdav_password_hint">Kata sandimu, atau kata sandi aplikasi</string>
+    <string name="webdav_connect">Hubungkan</string>
+    <string name="webdav_connecting">Memeriksa…</string>
+    <string name="cloud_problem_offline">Tidak dapat menjangkau cloud. Periksa koneksimu lalu coba lagi.</string>
+    <string name="cloud_problem_signed_out">Kiyo tidak lagi masuk di sana. Masuk lagi untuk terus mencadangkan.</string>
+    <string name="cloud_problem_wrong_login">Server menolak nama pengguna atau kata sandi itu.</string>
+    <string name="cloud_problem_bad_address">Itu tidak terlihat seperti alamat server.</string>
+    <string name="cloud_problem_not_found">Folder itu tidak ditemukan di server. Periksa alamatnya.</string>
+    <string name="cloud_problem_not_webdav">Alamat itu tidak merespons seperti server WebDAV. Periksa lalu coba lagi.</string>
+    <string name="cloud_problem_full">Cloudmu penuh. Kosongkan sedikit ruang di sana lalu coba lagi.</string>
+    <string name="cloud_problem_no_room">Gagal mengemas cadangan. Pastikan ponsel ini punya ruang kosong lalu coba lagi.</string>
+    <string name="cloud_problem_busy">Cloud sedang bermasalah. Coba lagi sebentar lagi.</string>
+    <string name="cloud_problem_denied">Kamu menolak di halaman masuk, jadi tidak ada yang terhubung.</string>
+    <string name="cloud_problem_expired">Tautan masuk itu sudah kedaluwarsa. Coba masuk lagi.</string>
+    <plurals name="backup_every_minutes">
+        <item quantity="other">Setiap %d menit</item>
+    </plurals>
+    <plurals name="backup_every_hours">
+        <item quantity="other">Setiap %d jam</item>
+    </plurals>
+    <plurals name="backup_every_days">
+        <item quantity="other">Setiap %d hari</item>
+    </plurals>
+    <plurals name="backup_every_weeks">
+        <item quantity="other">Setiap %d minggu</item>
+    </plurals>
+    <plurals name="backup_keep_count">
+        <item quantity="other">%d cadangan</item>
+    </plurals>
+</resources>

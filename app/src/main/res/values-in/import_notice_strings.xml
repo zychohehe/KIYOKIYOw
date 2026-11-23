@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_notice_channel">Impor musik</string>
+    <string name="import_notice_finished">Impor selesai</string>
+    <string name="import_notice_matched">Cocok %1$d dari %2$d lagu</string>
+    <string name="import_notice_resync_failed">Gagal menyinkronkan ulang “%1$s”. %2$s</string>
+    <string name="import_notice_up_to_date">“%1$s” sudah yang terbaru</string>
+    <string name="import_notice_many_added">Lagu baru ditambahkan: %1$d; playlist diperbarui: %2$d</string>
+    <string name="import_notice_many_failed">Gagal menyinkronkan ulang %1$s</string>
+    <string name="import_notice_preview_failed">Gagal menampilkan pratinjau file CSV</string>
+    <string name="media_info_copied">%1$s disalin</string>
+    <string name="update_notice_available">Kiyo %1$s telah rilis</string>
+    <string name="update_notice_details">Ketuk untuk melihat yang baru.</string>
+    <plurals name="import_notice_added_missing">
+        <item quantity="other">%1$d lagu baru ditambahkan ke “%2$s”. %3$d lagi tidak ditemukan di YouTube Music</item>
+    </plurals>
+    <plurals name="import_notice_added">
+        <item quantity="other">%1$d lagu baru ditambahkan ke “%2$s”</item>
+    </plurals>
+    <plurals name="import_notice_missing">
+        <item quantity="other">%1$d lagu baru tidak ditemukan di YouTube Music</item>
+    </plurals>
+    <plurals name="import_notice_many_current">
+        <item quantity="other">%1$d playlist impormu sudah yang terbaru</item>
+    </plurals>
+</resources>

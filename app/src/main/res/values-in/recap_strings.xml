@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rc_stats_done">Selesai</string>
+    <string name="rc_stats_title">Statistik</string>
+    <string name="rc_stats_year_recap_link">"Re'cap %1$d  &gt;"</string>
+    <string name="rc_stats_year_recap">Re\'cap %1$d</string>
+    <string name="rc_stats_collapse_all">Ciutkan semua</string>
+    <string name="rc_stats_expand_all">Luaskan semua</string>
+    <string name="rc_stats_empty_title">Belum ada yang diputar di %1$s.</string>
+    <string name="rc_stats_empty_hint">Putar beberapa lagu dan ini terisi sendiri.</string>
+    <string name="rc_stats_often">Mari lihat seberapa sering kamu suka mendengarkan musik</string>
+    <string name="rc_stats_privacy">Semua yang ada di sini dikumpulkan dari pemakaianmu di aplikasi ini dan TIDAK AKAN PERNAH DIKIRIM ke server acak mana pun! (Genre dicari hanya berdasarkan nama artis.)</string>
+    <string name="rc_stats_cd_profile">Profil</string>
+    <string name="rc_stats_cd_collapse">Ciutkan</string>
+    <string name="rc_stats_cd_expand">Luaskan</string>
+    <string name="rc_stats_total_month">Bulan ini, kamu sudah mendengarkan selama</string>
+    <string name="rc_stats_total_year">Tahun ini, kamu sudah mendengarkan selama</string>
+    <string name="rc_stats_every_day">Setiap hari di %1$s</string>
+    <string name="rc_stats_every_month">Setiap bulan di %1$d</string>
+    <string name="rc_stats_dominant_genre">Genre Dominan</string>
+    <string name="rc_stats_genre_loading">Memilah genremu…</string>
+    <string name="rc_stats_genre_unavailable">Belum bisa menyebutkan genremu sekarang - ini memerlukan koneksi untuk pertama kalinya.</string>
+    <string name="rc_stats_artist_love">Kamu benar-benar suka mendengarkan artis ini</string>
+    <string name="rc_stats_song_number_one">Dan tanpa sadar, lagu ini jadi nomor 1-mu</string>
+    <string name="rc_stats_song_from">%1$s dari %2$s</string>
+    <string name="rc_stats_weekday_month">Bulan ini, kamu suka mendengarkan musik setiap hari</string>
+    <string name="rc_stats_weekday_year">Tahun ini, kamu suka mendengarkan musik setiap hari</string>
+    <string name="rc_stats_totaling_hours">total %1$s jam</string>
+    <string name="rc_stats_hour_morning">Dan kamu suka mendengarkan di pagi hari tepat sekitar pukul</string>
+    <string name="rc_stats_hour_afternoon">Dan kamu suka mendengarkan di siang hari tepat sekitar pukul</string>
+    <string name="rc_stats_hour_evening">Dan kamu suka mendengarkan di sore hari tepat sekitar pukul</string>
+    <string name="rc_stats_hour_night">Dan kamu suka mendengarkan di malam hari tepat sekitar pukul</string>
+    <string name="rc_stats_totaling_hours_time">total %1$s jam pada waktu ini!</string>
+    <string name="rc_stats_vs_more">↑ %1$d%% lebih banyak dari %2$s</string>
+    <string name="rc_stats_vs_less">↓ %1$d%% lebih sedikit dari %2$s</string>
+    <string name="rc_stats_vs_same">Hampir sama dengan %1$s</string>
+    <string name="rc_stats_vs_more_so_far">↑ %1$d%% lebih banyak dari %2$s pada titik ini</string>
+    <string name="rc_stats_vs_less_so_far">↓ %1$d%% lebih sedikit dari %2$s pada titik ini</string>
+    <string name="rc_stats_vs_same_so_far">Hampir sama dengan %1$s pada titik ini</string>
+    <string name="rc_stats_repeat_title">Kamu tidak bisa berhenti memutar yang satu ini</string>
+    <string name="rc_stats_new_title">Kamu menemukan musik baru di sepanjang jalan</string>
+    <string name="rc_stats_new_share">%1$d%% dari yang kamu dengarkan adalah musik yang belum pernah kamu putar sebelumnya</string>
+    <string name="rc_stats_new_best">Temuan baru terbaik</string>
+    <string name="rc_stats_habits_title">Kebiasaan mendengarkanmu</string>
+    <string name="rc_stats_habit_days">Hari kamu mendengarkan</string>
+    <string name="rc_stats_habit_days_value">%1$d dari %2$d</string>
+    <string name="rc_stats_habit_days_average">Sekitar %1$s sehari</string>
+    <string name="rc_stats_habit_streak">Rentetan terpanjang</string>
+    <string name="rc_stats_habit_streak_hint">Hari berturut-turut dengan musik</string>
+    <string name="rc_stats_habit_session">Sesi terpanjang</string>
+    <string name="rc_stats_habit_biggest">Hari terbesar</string>
+    <string name="rc_stats_date_at_time">%1$s pukul %2$s</string>
+    <string name="rc_stats_show_by">Tampilkan per</string>
+    <string name="rc_stats_kind_month">Bulan</string>
+    <string name="rc_stats_kind_year">Tahun</string>
+    <string name="rc_stats_selected">Dipilih</string>
+    <string name="rc_stats_what_year">Tahun berapa?</string>
+    <string name="rc_stats_what_month">Bulan apa?</string>
+    <string name="rc_stats_this_month_tag">(bulan ini)</string>
+    <string name="rc_story_hey">hai, %1$s!</string>
+    <string name="rc_story_journey_started">%1$s kamu memulai perjalananmu di Kiyo pada</string>
+    <string name="rc_story_journey_listening">dan kamu sudah mendengarkan musik dengan total waktu</string>
+    <string name="rc_story_journey_bye">sampai jumpa, kawan-kawan!</string>
+    <string name="rc_story_tap">KETUK!</string>
+    <string name="rc_story_month_is">%1$s adalah</string>
+    <string name="rc_story_out_of_100">dari 100%</string>
+    <string name="rc_story_weekday_at_this_time">dan pada waktu ini,</string>
+    <string name="rc_story_weekday_favourite">adalah hari favoritmu untuk mendengarkan musik</string>
+    <string name="rc_story_more_than_second">lebih banyak dari peringkat 2-mu!</string>
+    <string name="rc_story_nothing_close">tidak ada yang mendekati!</string>
+    <string name="rc_story_again">Lagi\ndan\nlagi</string>
+    <string name="rc_story_this_artist">artis\nini..</string>
+    <string name="rc_story_recognize_artist">Kenal\nartis ini?</string>
+    <string name="rc_story_favorite_artist">itu favoritmu bulan ini!</string>
+    <string name="rc_story_x_plays">x Putar</string>
+    <string name="rc_story_plays_bang">Putaran!</string>
+    <string name="rc_story_might_recognize">Mungkin kamu\nkenal ini!</string>
+    <string name="rc_story_which_one">hmm, yang mana ya...</string>
+    <string name="rc_story_hear_melody">Dengarkan\nmelodinya..</string>
+    <string name="rc_story_title_by">%1$s oleh\n%2$s</string>
+    <string name="rc_story_favourite_song">Lagu favoritmu\nbulan ini!!!</string>
+    <string name="rc_story_bill">Mari lihat tagihanmu</string>
+    <string name="rc_story_receipt_recap">Rekap %1$s</string>
+    <string name="rc_story_receipt_printed">dicetak pada %1$s/%2$s</string>
+    <string name="rc_story_receipt_top_artist">Artis Teratas</string>
+    <string name="rc_story_receipt_top_music">Musik Teratas</string>
+    <string name="rc_story_receipt_total">Total : %1$s waktu putar</string>
+    <string name="rc_story_receipt_counts">%1$d putaran · %2$d lagu · %3$d artis</string>
+    <string name="rc_story_receipt_end">AKHIR BARIS</string>
+    <string name="rc_story_there_you_go">Ini dia</string>
+    <string name="rc_story_thats_your">Itu rekap\n%1$s-mu!</string>
+    <string name="rc_story_tap_finish">KETUK UNTUK SELESAI</string>
+    <plurals name="rc_stats_fact_songs">
+        <item quantity="other">%1$d Lagu</item>
+    </plurals>
+    <plurals name="rc_stats_fact_artists">
+        <item quantity="other">%1$d Artis</item>
+    </plurals>
+    <plurals name="rc_stats_fact_albums">
+        <item quantity="other">%1$d Album</item>
+    </plurals>
+    <plurals name="rc_stats_fact_plays">
+        <item quantity="other">%1$d putaran</item>
+    </plurals>
+    <plurals name="rc_stats_artist_row">
+        <item quantity="other">%1$s · %2$d putaran</item>
+    </plurals>
+    <plurals name="rc_stats_artist_summary">
+        <item quantity="other">%1$s waktu putar dan %2$d putaran dari %3$s</item>
+    </plurals>
+    <plurals name="rc_stats_song_row">
+        <item quantity="other">%1$s · %2$d putaran · %3$s</item>
+    </plurals>
+    <plurals name="rc_stats_song_summary">
+        <item quantity="other">%1$s waktu putar dan %2$d putaran</item>
+    </plurals>
+    <plurals name="rc_stats_repeat_times">
+        <item quantity="other">%1$d kali di %2$s</item>
+    </plurals>
+    <plurals name="rc_stats_new_songs">
+        <item quantity="other">%1$d lagu baru</item>
+    </plurals>
+    <plurals name="rc_stats_habit_streak_value">
+        <item quantity="other">%1$d hari</item>
+    </plurals>
+    <plurals name="rc_story_hours">
+        <item quantity="other">jam</item>
+    </plurals>
+    <plurals name="rc_story_minutes">
+        <item quantity="other">menit</item>
+    </plurals>
+    <plurals name="rc_story_plays">
+        <item quantity="other">%1$d putaran</item>
+    </plurals>
+</resources>

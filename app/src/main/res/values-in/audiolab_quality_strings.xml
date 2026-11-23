@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aq_title_first">Kualitas</string>
+    <string name="aq_title_second">Audio</string>
+    <string name="aq_nothing_on">Tidak ada yang aktif</string>
+    <string name="aq_turn_provider_on">Aktifkan sebuah penyedia</string>
+    <string name="aq_youtube_tier">YouTube · %1$s</string>
+    <string name="aq_section_streaming">Streaming</string>
+    <string name="aq_section_download">Unduhan</string>
+    <string name="aq_section_provider">Penyedia</string>
+    <string name="aq_youtube_status_on">Memutar lagu yang tidak dimiliki penyedia lain</string>
+    <string name="aq_youtube_status_off_none">Mati, dan tidak ada yang lain aktif, jadi lagu tidak akan diputar</string>
+    <string name="aq_youtube_status_off">Mati: lagu yang tidak dimiliki penyedia lain dilewati</string>
+    <string name="aq_quality_auto">Otomatis</string>
+    <string name="aq_quality_high">Tinggi</string>
+    <string name="aq_quality_medium">Sedang</string>
+    <string name="aq_quality_low">Rendah</string>
+    <string name="aq_quality_lossless">Lossless</string>
+    <string name="aq_desc_auto">Tinggi saat Wi-Fi, Sedang saat data seluler</string>
+    <string name="aq_desc_high">Yang terbaik dari penyedia: kompresi lebih sedikit, data lebih banyak</string>
+    <string name="aq_desc_medium">Sekitar 128 kbps, hemat data</string>
+    <string name="aq_desc_low">Streaming terkecil, untuk koneksi lambat</string>
+    <string name="aq_fmt_adaptive">Adaptif</string>
+    <string name="aq_fmt_high">~160 kbps · Opus</string>
+    <string name="aq_fmt_medium">~128 kbps · AAC</string>
+    <string name="aq_fmt_low">~50–70 kbps · Opus</string>
+    <string name="aq_desc_monochrome_lossless">FLAC seperti yang dimiliki Monochrome: kualitas CD atau lebih baik</string>
+    <string name="aq_module_settings">Pengaturan %1$s</string>
+    <string name="aq_dl_desc_high">Yang terbaik dari YouTube: ~160 kbps Opus</string>
+    <string name="aq_dl_desc_medium">Sekitar 128 kbps, separuh ruang</string>
+    <string name="aq_dl_desc_low">File terkecil, ~50–70 kbps</string>
+    <string name="aq_status_sign_in">Masuk untuk memutar dari sini</string>
+    <string name="aq_status_sign_in_again">Masuk lagi</string>
+    <string name="aq_status_on">Aktif</string>
+    <string name="aq_status_off_tap">Mati, ketuk untuk mengaktifkan</string>
+    <string name="aq_status_not_installed">Belum terpasang</string>
+</resources>

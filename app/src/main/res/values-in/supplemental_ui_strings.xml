@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="supplemental_support_enjoying">Suka dengan Kiyo Music?</string>
+    <string name="supplemental_support_title">Dukung pengembangan Kiyo!</string>
+    <string name="supplemental_support_body">terima kasih sudah mencoba! btw, Kiyo Music akan selalu gratis, selamanya milikmu! &lt;3\n\nAkan sangat membantu kami kalau kamu mendukung pengembangnya, sekecil apa pun itu!! &lt;3\nmengikuti TikTok developer saja sudah cukup. dan terima kasih lagi!</string>
+    <string name="supplemental_support_donate">Gabung channel!</string>
+    <string name="supplemental_support_star">Ikuti TikTok!</string>
+    <string name="supplemental_support_dismiss">usir para pengemis ini, Tidak!</string>
+    <string name="supplemental_coming_soon">Segera Hadir</string>
+    <string name="supplemental_coming_soon_detail">%1$s masih dalam pengerjaan.</string>
+    <string name="supplemental_adding">Menambahkan…</string>
+    <string name="supplemental_search_all_songs">Cari semua lagu</string>
+    <string name="supplemental_playlist_recommended">Direkomendasikan untuk playlist ini</string>
+    <string name="supplemental_in_library">Ada di pustaka</string>
+    <string name="supplemental_online_search_failed">Gagal mencari secara online. Periksa koneksimu lalu coba lagi.</string>
+    <string name="supplemental_search_nothing">Tidak menemukan apa pun untuk “%1$s”.</string>
+    <string name="supplemental_playlist_suggestions_empty">Tambahkan beberapa lagu dulu, nanti kami sarankan yang lebih cocok.</string>
+    <string name="supplemental_playlist_suggestions_failed">Belum ada saran saat ini. Periksa koneksimu, atau cari lagu di atas.</string>
+    <string name="supplemental_library_search_empty">Pustakamu kosong. Cari di atas untuk menemukan lagu apa saja.</string>
+    <string name="supplemental_add_songs_failed">Gagal menambahkan lagu-lagu itu. Coba lagi.</string>
+    <string name="supplemental_update_personal">Pembaruan tersedia, %1$s!</string>
+    <string name="supplemental_update_changes">Yang berubah di %1$s</string>
+    <string name="supplemental_update_install_target">Akan Dipasang -</string>
+    <string name="supplemental_update_downloading">Mengunduh… %1$d%%</string>
+    <string name="supplemental_update_no_apk">Tidak ada APK di rilis ini</string>
+    <string name="supplemental_install_here">Pasang di sini</string>
+    <string name="supplemental_update_open_web">Buka web</string>
+    <string name="supplemental_update_snooze">ingatkan nanti</string>
+    <string name="supplemental_install_permission">Izinkan \"Pasang aplikasi tidak dikenal\" untuk kiyo, lalu ketuk Pasang di sini lagi.</string>
+    <string name="supplemental_featured_playlist">Playlist Pilihan</string>
+    <string name="supplemental_featured_songs">Lagu pilihan</string>
+    <string name="supplemental_artist_new_releases">Rilis baru mereka</string>
+    <string name="supplemental_nothing_here">Belum ada yang ditampilkan</string>
+    <string name="supplemental_start_of_line">AWAL BARISAN</string>
+    <string name="supplemental_artist_top_songs">%1$s lagu teratas</string>
+    <string name="supplemental_artist_category">%1$s %2$s</string>
+    <string name="supplemental_kind_songs">lagu</string>
+    <string name="supplemental_kind_albums">album</string>
+    <string name="supplemental_kind_videos">video</string>
+    <string name="supplemental_kind_playlists">playlist</string>
+    <string name="supplemental_kind_artists">artis</string>
+    <string name="supplemental_count_songs">%1$s lagu</string>
+    <string name="supplemental_count_albums">%1$s album</string>
+    <string name="supplemental_count_videos">%1$s video</string>
+    <string name="supplemental_count_playlists">%1$s playlist</string>
+    <string name="supplemental_count_artists">%1$s artis</string>
+    <string name="supplemental_items_retry">Gagal memuat halaman ini. Ketuk untuk mencoba lagi</string>
+    <plurals name="supplemental_add_song_count">
+        <item quantity="other">Tambah %1$d lagu</item>
+    </plurals>
+    <plurals name="supplemental_song_count">
+        <item quantity="other">%1$d lagu</item>
+    </plurals>
+    <string name="update_downloading_title">Mengunduh Kiyo %1$s</string>
+    <string name="update_ready_title">Kiyo %1$s siap dipasang</string>
+    <string name="update_ready_text">Ketuk untuk memasang pembaruan</string>
+    <string name="update_skip_version">lewati versi ini</string>
+</resources>

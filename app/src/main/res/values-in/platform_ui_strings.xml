@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="platform_generated_empty">Tidak ada yang cocok dengan \"%1$s\"</string>
+    <string name="platform_duration_hours_minutes">%1$d j %2$d m</string>
+    <string name="platform_duration_minutes">%1$d m</string>
+    <string name="platform_stats_pair">%1$s · %2$s</string>
+    <string name="platform_artist_subscribers">%1$s subscriber</string>
+    <string name="platform_artist_monthly_listeners">%1$s pendengar bulanan</string>
+    <string name="platform_artist_see_all">Lihat semua</string>
+    <string name="platform_stats_ruler_description">Menampilkan %1$s. Geser untuk memilih yang lain.</string>
+    <string name="platform_volume_level">Tingkat volume</string>
+    <string name="platform_audio_available">Tersedia</string>
+    <string name="platform_device_connected">Terhubung</string>
+    <string name="platform_external_speaker">Speaker eksternal</string>
+    <string name="platform_audio_load_failed">Gagal memuat perangkat: %1$s</string>
+    <string name="platform_cast_play_first">Putar lagu dulu untuk melakukan cast</string>
+    <string name="platform_cast_stop">Hentikan cast</string>
+    <string name="platform_cast_active">Sedang cast</string>
+    <string name="platform_cast_target">Cast ke</string>
+    <string name="platform_cast_none">Tidak ada perangkat Cast ditemukan</string>
+    <string name="platform_cast_same_wifi">Pastikan perangkatmu ada di jaringan Wi-Fi yang sama</string>
+</resources>

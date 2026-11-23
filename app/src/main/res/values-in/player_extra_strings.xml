@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="playback_logs_clip_label">Log pemutaran</string>
+    <string name="storage_manage_sort_by">Urutkan berdasarkan - </string>
+    <string name="storage_manage_sort_size">ukuran</string>
+    <string name="storage_manage_sort_name">nama</string>
+    <string name="storage_manage_sort_recent">terbaru diunduh</string>
+    <string name="storage_manage_sort_most_played">paling sering diputar</string>
+    <string name="storage_manage_sort_least_played">paling jarang diputar</string>
+    <string name="storage_manage_done">Selesai</string>
+    <string name="storage_manage_remove_one">Hapus 1 lagu · %1$s</string>
+    <string name="storage_manage_remove_many">Hapus %1$d lagu · %2$s</string>
+    <string name="storage_manage_confirm_remove_one">Hapus unduhan ini?</string>
+    <string name="storage_manage_confirm_remove_many">Hapus %1$d unduhan?</string>
+    <string name="storage_manage_confirm_message">Lagu dihapus dari ponsel ini tetapi tetap ada di pustakamu, dan di-streaming lagi saat kamu memutarnya.</string>
+    <string name="storage_manage_confirm_action">Hapus</string>
+    <string name="storage_manage_search_placeholder">Cari unduhanmu</string>
+    <string name="storage_manage_song_single">lagu</string>
+    <string name="storage_manage_song_plural">lagu</string>
+    <string name="storage_manage_empty_note">Belum ada yang diunduh. Lagu yang kamu unduh muncul di sini.</string>
+    <string name="storage_manage_no_match">Tidak ada unduhan yang cocok dengan \"%1$s\".</string>
+    <string name="storage_manage_shelf_biggest">Terbesar</string>
+    <string name="storage_manage_shelf_less_listened">Jarang didengar</string>
+    <string name="storage_manage_shelf_less_listened_sub">Diunduh sudah lama dan hampir tidak diputar</string>
+    <string name="storage_manage_all">Semua</string>
+    <string name="storage_manage_unpick">Batal pilih</string>
+    <string name="storage_manage_pick_all">Pilih semua</string>
+    <string name="sheet_label_recents">terbaru</string>
+    <string name="sheet_label_results">hasil</string>
+    <string name="sheet_label_all">semua</string>
+    <string name="ps_device_usb_audio">Audio USB</string>
+    <string name="ps_device_usb_dac">DAC USB</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="origin_card_queue_empty">Tidak ada antrean</string>
+    <string name="origin_card_queue_empty_hint">Putar sesuatu di Kiyo</string>
+    <string name="origin_card_liked_empty">Belum ada lagu yang disukai</string>
+    <string name="origin_card_liked_empty_hint">Lagu yang kamu sukai di Kiyo muncul di sini</string>
+    <string name="origin_card_local_empty">Belum ada unduhan</string>
+    <string name="origin_card_local_empty_hint">Lagu yang kamu unduh di Kiyo muncul di sini</string>
+</resources>

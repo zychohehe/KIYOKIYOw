@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_nothing_found">Tidak menemukan apa pun untuk “%1$s”. Coba ucapkan dengan cara lain.</string>
+    <string name="voice_nothing_to_play">Belum ada yang bisa diputar. Minta sebuah lagu, artis, atau playlist.</string>
+    <string name="voice_offline">Tidak dapat terhubung ke YouTube Music. Periksa koneksimu lalu coba lagi.</string>
+</resources>

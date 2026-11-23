@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="local_already_on_phone">Lagu ini sudah ada di ponselmu</string>
+    <string name="local_error_file_gone">File lagu ini sudah tidak ada di ponselmu. Mungkin sudah dipindahkan atau dihapus.</string>
+    <string name="local_error_access_lost">Kiyo tidak bisa membuka file ini lagi. Tambahkan lagi folder-nya dari Pustaka untuk memulihkannya.</string>
+    <string name="local_error_permission">Kiyo memerlukan izin membaca musikmu untuk memutar lagu ini</string>
+    <string name="local_error_format">Kiyo belum bisa memutar jenis file ini</string>
+    <string name="local_error_damaged">File ini tampaknya rusak sehingga tidak bisa diputar</string>
+    <string name="local_import_folder_cap">Folder itu berisi lebih dari %1$d lagu, jadi hanya %1$d lagu pertama yang masuk. Tambahkan folder-nya satu per satu untuk sisanya.</string>
+    <string name="local_import_pick_folder_hint">Untuk lagu sebanyak ini, tambahkan foldernya saja. Android hanya menyimpan akses untuk sekitar 500 file satuan, lalu yang terlama berhenti bisa diputar.</string>
+    <string name="local_missing_remove">Hapus</string>
+    <plurals name="local_import_skipped_formats">
+        <item quantity="other">%1$d file yang belum bisa diputar Kiyo dilewati (WMA, AIFF, APE, WavPack, atau DSD)</item>
+    </plurals>
+    <plurals name="local_missing_files">
+        <item quantity="other">File dari %1$d lagu sudah tidak ada di ponselmu</item>
+    </plurals>
+</resources>

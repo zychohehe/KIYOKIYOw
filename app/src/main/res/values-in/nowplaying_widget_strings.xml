@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_np_2x2">Sedang diputar 2×2</string>
+    <string name="widget_np_4x1">Sedang diputar 4×1</string>
+    <string name="widget_np_4x2">Sedang diputar 4×2</string>
+    <string name="widget_np_description">Kartu sedang diputar dengan tombol sebelumnya, putar, dan berikutnya</string>
+    <string name="widget_np_pill_description">Pil ramping sedang diputar dengan kontrol suka, pemutaran, dan ulangi</string>
+    <string name="widget_np_preview_title">Judul lagu</string>
+    <string name="widget_np_preview_artist">Artis</string>
+    <string name="widget_np_preview_title_artist">Judul lagu - Artis</string>
+    <string name="widget_np_previous">Sebelumnya</string>
+    <string name="widget_np_next">Berikutnya</string>
+    <string name="widget_np_repeat">Ulangi</string>
+    <string name="widget_np_lyrics_unavailable">Lirik tidak tersedia</string>
+    <string name="widget_np_lyrics_loading">Mencari lirik…</string>
+    <string name="widget_np_lyrics_not_synced">Lirik lagu ini tidak tersinkron</string>
+    <string name="widget_np_time_zero">00:00</string>
+</resources>
