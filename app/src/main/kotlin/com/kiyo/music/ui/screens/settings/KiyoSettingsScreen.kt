@@ -515,7 +515,7 @@ fun KiyoSettingsScreen(navController: NavController, pane: SettingsPane? = null)
                 Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
                     Icon(
                         painter = painterResource(R.drawable.ic_kiyo_mark),
-                        contentDescription = "Kiyo",
+                        contentDescription = "FIZY",
                         tint = Color.White,
                         modifier = Modifier.size(SettingsMarkSize),
                     )

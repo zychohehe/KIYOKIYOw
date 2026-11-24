@@ -289,7 +289,7 @@
     <string name="enable_scrobbling">تمكين سكروبلينج</string>
     <string name="lastfm_now_playing">إرسال المُشغله حاليا</string>
     <string name="last_fm_send_likes">إرسال الإعجابات/إلغاء الإعجابات</string>
-    <string name="last_fm_send_likes_description">عندما تعجبك أغنية أو تلغي إعجابك بها في kiyo سيتم تلقائيًا وضع علامة (أحببت) أو (غير محبوب) على نفس الأغنية في Last.fm</string>
+    <string name="last_fm_send_likes_description">عندما تعجبك أغنية أو تلغي إعجابك بها في FIZY سيتم تلقائيًا وضع علامة (أحببت) أو (غير محبوب) على نفس الأغنية في Last.fm</string>
     <string name="logging_in">جارٍ تسجيل الدخول…</string>
     <string name="scrobbling_configuration">تكوين سكروبلينج</string>
     <string name="scrobble_min_track_duration">أغاني سكرابل أطول من</string>
@@ -349,7 +349,7 @@
     <string name="wrapped_total_artists_subtitle">فنانون فريدون</string>
     <string name="wrapped_total_songs_title">انت استمعت إلى</string>
     <string name="wrapped_total_songs_subtitle">أغاني فريدة</string>
-    <string name="wrapped_intro_title">kiyo</string>
+    <string name="wrapped_intro_title">FIZY</string>
     <string name="wrapped_intro_subtitle">حان الوقت لمعرفة ما كنت تستمع إليه</string>
     <string name="wrapped_intro_button">هيا بنا!</string>
     <string name="wrapped_end_thanks">شكرًا لاستماعكم مع متروليست !</string>
@@ -398,7 +398,7 @@
     <string name="progress_percent">التقدم %s%%</string>
     <string name="listening_to_kiyo">الاستماع إلى متروليست</string>
     <string name="listen_on_youtube_music">استمع عبر يوتيوب ميوزك</string>
-    <string name="visit_kiyo">قم بزيارة kiyo</string>
+    <string name="visit_kiyo">قم بزيارة FIZY</string>
     <string name="open">فتح</string>
     <string name="failed_to_create_image">فشل إنشاء الصورة: %s</string>
     <string name="copied_title">العنوان منسوخ</string>
@@ -417,7 +417,7 @@
     <string name="next">التالي</string>
     <string name="like">اعجاب</string>
     <string name="not_playing">لا يتم تشغيل أي أغنية</string>
-    <string name="tap_to_play">اضغط لفتح kiyo</string>
+    <string name="tap_to_play">اضغط لفتح FIZY</string>
     <string name="widget_description">أداة تشغيل الموسيقى مع عناصر تحكم التشغيل</string>
     <string name="queue_widget_description">مشغل موسيقى مع معاينة قائمة التشغيل</string>
     <string name="turntable_widget_description">أداة موسيقى دائرية تحتوي على أزرار التشغيل والإعجاب</string>
@@ -518,7 +518,7 @@
     <string name="crash_description">حدث خطأ غير متوقع يرجى مشاركة تقرير العطل لمساعدتنا في حل المشكلة.</string>
     <string name="crash_share_logs">مشاركة السجلات</string>
     <string name="crash_share_title">مشاركة تقرير التعطل</string>
-    <string name="crash_report_subject">تقرير تعطل تطبيق kiyo</string>
+    <string name="crash_report_subject">تقرير تعطل تطبيق FIZY</string>
     <string name="crash_close">إغلاق</string>
     <string name="crash_no_log">لا يوجد سجل أعطال متاح</string>
     <string name="palette_dynamic">ديناميكي</string>
@@ -564,7 +564,7 @@
     <string name="delete_from_history">حذف من السجل</string>
     <string name="re_listen">إعادة الاستماع</string>
     <string name="hold_to_recognize">اضغط مطولاً على أيقونة البحث للتعرف على الموسيقى</string>
-    <string name="play_on_app">تشغيل على kiyo</string>
+    <string name="play_on_app">تشغيل على FIZY</string>
     <string name="recognized_track">المسار المعروف</string>
     <string name="map_csv_columns">تعيين خانات CSV</string>
     <string name="first_row_is_header">الصف الأول هو عنوان</string>
@@ -599,9 +599,9 @@
     <string name="discord_rpc_preview">معاينة الحالة الغنية</string>
     <string name="discord_presence">التواجد</string>
     <string name="discord_connect_description">سجّل الدخول باستخدام Discord للمشاركة ما تستمع إليه</string>
-    <string name="discord_playing_kiyo">تشغيل kiyo</string>
-    <string name="discord_watching_kiyo">مشاهدة kiyo</string>
-    <string name="discord_competing_kiyo">التنافس في kiyo</string>
+    <string name="discord_playing_kiyo">تشغيل FIZY</string>
+    <string name="discord_watching_kiyo">مشاهدة FIZY</string>
+    <string name="discord_competing_kiyo">التنافس في FIZY</string>
     <string name="discord_activity_name">اسم النشاط</string>
     <string name="discord_activity_name_description">اسم مخصص للنشاط (اتركه فارغًا للافتراضي)</string>
     <string name="discord_advanced_mode">الوضع المتقدم</string>

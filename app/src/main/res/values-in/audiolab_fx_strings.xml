@@ -31,7 +31,7 @@
     <string name="fx_mono_title">Audio mono</string>
     <string name="fx_mono_sub">Kedua telinga mendengar seluruh mix: untuk satu earbud, atau pendengaran satu telinga</string>
     <string name="fx_atmos_title">Dolby Atmos &amp; surround</string>
-    <string name="fx_atmos_sub">Memutar 5.1, 7.1, dan Atmos sebagai suara 3D di headphone apa pun, dengan model kepala Kiyo, bukan dilipat menjadi stereo. Mulai dari lagu berikutnya.</string>
+    <string name="fx_atmos_sub">Memutar 5.1, 7.1, dan Atmos sebagai suara 3D di headphone apa pun, dengan model kepala FIZY, bukan dilipat menjadi stereo. Mulai dari lagu berikutnya.</string>
     <string name="fx_atmos_decoder">Dekoder Atmos</string>
     <string name="fx_atmos_spatializer">Spatializer Android</string>
     <string name="fx_atmos_yes">Ya</string>
@@ -61,7 +61,7 @@
     <string name="fx_curve_steep">Curam</string>
     <string name="fx_curve">Kurva</string>
     <string name="fx_volume_limit">Batas volume</string>
-    <string name="fx_volume_note">Membentuk volume milik Kiyo sendiri (slider pemutar, fade, dan ducking). Batas ini membatasi seberapa keras aplikasi memutar suara.</string>
+    <string name="fx_volume_note">Membentuk volume milik FIZY sendiri (slider pemutar, fade, dan ducking). Batas ini membatasi seberapa keras aplikasi memutar suara.</string>
     <string name="fx_reverb_title">Reverb</string>
     <string name="fx_reverb_sub">Beri reverb pada musik</string>
     <string name="fx_reverb_room">Ruangan</string>

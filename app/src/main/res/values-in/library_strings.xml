@@ -33,7 +33,7 @@
     <string name="lib_manage_imports_pill">Kelola impor</string>
     <string name="lib_manage_local_pill">Kelola lokal</string>
     <string name="lib_local_or">Atau</string>
-    <string name="lib_local_let_read">Izinkan Kiyo membaca penyimpananmu untuk menemukan semua lagumu</string>
+    <string name="lib_local_let_read">Izinkan FIZY membaca penyimpananmu untuk menemukan semua lagumu</string>
     <string name="lib_local_import_here">Impor musik lokalmu di sini</string>
     <string name="lib_local_imported_from_local">Diimpor dari lokal</string>
     <string name="lib_import_banner_title">Impor musikmu di sini!</string>
@@ -43,7 +43,7 @@
     <string name="lib_import_adding_from">Menambahkan %1$d dari %2$d trek dari %3$s</string>
     <string name="lib_import_adding">Menambahkan %1$d dari %2$d trek</string>
     <string name="lib_import_still_running">Sebuah impor masih berjalan. Coba lagi setelah selesai.</string>
-    <string name="lib_local_no_access">Kiyo tidak bisa melihat musikmu tanpa akses</string>
+    <string name="lib_local_no_access">FIZY tidak bisa melihat musikmu tanpa akses</string>
     <string name="lib_local_no_new_songs">Tidak ada lagu baru di folder musikmu</string>
     <string name="lib_transfer_download_title">Progres unduhan</string>
     <string name="lib_transfer_download_idle">Tidak ada yang sedang diunduh saat ini.</string>

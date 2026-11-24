@@ -9,7 +9,7 @@
     <string name="import_notice_many_failed">Gagal menyinkronkan ulang %1$s</string>
     <string name="import_notice_preview_failed">Gagal menampilkan pratinjau file CSV</string>
     <string name="media_info_copied">%1$s disalin</string>
-    <string name="update_notice_available">Kiyo %1$s telah rilis</string>
+    <string name="update_notice_available">FIZY %1$s telah rilis</string>
     <string name="update_notice_details">Ketuk untuk melihat yang baru.</string>
     <plurals name="import_notice_added_missing">
         <item quantity="other">%1$d lagu baru ditambahkan ke “%2$s”. %3$d lagi tidak ditemukan di YouTube Music</item>

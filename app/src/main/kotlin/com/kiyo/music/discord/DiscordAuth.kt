@@ -124,7 +124,7 @@ class DiscordAuth @Inject constructor(
         if (code == null) {
             _login.value = DiscordLogin.Failed(
                 if (redirect.getQueryParameter("error") == "access_denied") {
-                    "You said no on Discord's page, so Kiyo isn't connected."
+                    "You said no on Discord's page, so FIZY isn't connected."
                 } else {
                     "Discord didn't let the sign-in through. Try again."
                 },

@@ -14,7 +14,7 @@
     <string name="module_origin_web">링크에서 추가 · v%1$s</string>
     <string name="module_origin_file">파일에서 추가 · v%1$s</string>
     <string name="modules_find_more">더 많은 제공처 찾기</string>
-    <string name="modules_bar">Kiyo’s Bar에서 더 많은 모듈 찾기 &lt;3</string>
+    <string name="modules_bar">FIZY’s Bar에서 더 많은 모듈 찾기 &lt;3</string>
     <string name="modules_third_party">모듈은 다른 사람이 제작합니다. 타사 모듈의 문제 보고는 처리하지 않습니다. 직접 만들고 싶으신가요?</string>
     <string name="modules_third_party_docs">문서 보기</string>
     <string name="modules_looks">모양 모듈</string>
@@ -59,7 +59,7 @@
     <string name="module_pages">페이지</string>
     <string name="module_pages_off">모듈을 켜면 해당 페이지를 열 수 있습니다.</string>
     <string name="module_page_missing">더 이상 사용할 수 없는 페이지입니다. 모듈을 다시 켜거나 추가하세요.</string>
-    <string name="module_servers_body">작동하지 않으면 Kiyo 개발팀이 아닌 서버 운영자에게 보고하세요. 반드시 서버 운영자에게 문의해 주세요.</string>
+    <string name="module_servers_body">작동하지 않으면 FIZY 개발팀이 아닌 서버 운영자에게 보고하세요. 반드시 서버 운영자에게 문의해 주세요.</string>
     <string name="module_server_built_in">기본 제공</string>
     <string name="module_server_remove">%1$s 제거</string>
     <string name="module_server_add">서버 추가</string>
@@ -134,8 +134,8 @@
     <string name="module_items_nothing">%1$s에서 사용할 수 있는 항목이 없습니다.</string>
     <string name="module_items_broken">내용이 손상되어 실행할 수 없습니다. 제작자에게 수정된 파일을 요청하세요.</string>
     <string name="module_items_too_big">%1$s에서 처리하기에는 너무 큽니다.</string>
-    <string name="modules_file_not_signed">이 모듈은 자체 코드를 실행하므로 Kiyo와 같은 키로 서명해야 하지만 이 파일의 서명은 일치하지 않습니다. 현재 Kiyo 빌드용 모듈을 받으세요.</string>
-    <string name="modules_code_broken">모듈 코드를 시작하지 못했습니다. 다른 Kiyo 버전용으로 제작되었을 수 있습니다.</string>
+    <string name="modules_file_not_signed">이 모듈은 자체 코드를 실행하므로 Kiyo와 같은 키로 서명해야 하지만 이 파일의 서명은 일치하지 않습니다. 현재 FIZY 빌드용 모듈을 받으세요.</string>
+    <string name="modules_code_broken">모듈 코드를 시작하지 못했습니다. 다른 FIZY 버전용으로 제작되었을 수 있습니다.</string>
     <string name="modules_github_no_release">해당 GitHub 프로젝트에 아직 릴리즈가 없습니다. 제작자에게 모듈의 .zip을 첨부한 릴리즈 게시를 요청하세요.</string>
     <string name="modules_github_no_module">최신 릴리즈에 모듈이 없습니다. Kiyo는 glass.kiyomodule.zip처럼 이름에 \"kiyomodule\"이 포함된 .zip을 찾습니다.</string>
     <string name="skin_customise_row">%1$s 맞춤 설정</string>
@@ -177,20 +177,20 @@
     <string name="module_browser_by_version">제작: %1$s · %2$s</string>
     <string name="module_browser_account">%1$s 계정으로 로그인됨</string>
     <string name="module_browser_sign_in_title">Discord로 로그인</string>
-    <string name="module_browser_sign_in_body">이 모듈은 Discord의 Kiyo\'s Bar에서 제공합니다. 모듈을 보려면 로그인하고 서버에 참여해야 합니다.</string>
+    <string name="module_browser_sign_in_body">이 모듈은 Discord의 FIZY\'s Bar에서 제공합니다. 모듈을 보려면 로그인하고 서버에 참여해야 합니다.</string>
     <string name="module_browser_sign_in">Discord로 로그인</string>
     <string name="module_browser_no_browser">로그인할 브라우저를 열지 못했습니다.</string>
-    <string name="module_browser_join_title">먼저 Kiyo\'s Bar에 참여하세요</string>
-    <string name="module_browser_join_body">아직 Kiyo\'s Bar에 참여하지 않았습니다. 참여한 뒤 돌아와 다시 확인하세요.</string>
-    <string name="module_browser_join_body_named">%1$s 계정으로 로그인했지만 아직 Kiyo\'s Bar에 참여하지 않았습니다. 참여한 뒤 돌아와 다시 확인하세요.</string>
-    <string name="module_browser_join">Kiyo\'s Bar 참여</string>
+    <string name="module_browser_join_title">먼저 FIZY\'s Bar에 참여하세요</string>
+    <string name="module_browser_join_body">아직 FIZY\'s Bar에 참여하지 않았습니다. 참여한 뒤 돌아와 다시 확인하세요.</string>
+    <string name="module_browser_join_body_named">%1$s 계정으로 로그인했지만 아직 FIZY\'s Bar에 참여하지 않았습니다. 참여한 뒤 돌아와 다시 확인하세요.</string>
+    <string name="module_browser_join">FIZY\'s Bar 참여</string>
     <string name="module_browser_check_again">참여했어요. 다시 확인</string>
-    <string name="module_browser_warming">탐색기가 Kiyo\'s Bar를 처음 읽고 있습니다. 잠시 기다려 주세요.</string>
+    <string name="module_browser_warming">탐색기가 FIZY\'s Bar를 처음 읽고 있습니다. 잠시 기다려 주세요.</string>
     <string name="module_browser_offline">모듈 탐색기에 연결하지 못했습니다. 연결을 확인한 뒤 다시 시도하세요.</string>
     <string name="module_browser_try_again">다시 시도</string>
     <string name="module_browser_not_set_up">이 빌드에는 모듈 탐색기가 아직 설정되지 않았습니다.</string>
     <string name="module_browser_nothing">아직 일치하는 항목이 없습니다.</string>
     <string name="module_browser_fetch_failed">%1$s을(를) 다운로드하지 못했습니다. 잠시 후 다시 시도하세요.</string>
-    <string name="module_browser_locked_note">%1$s은(는) 유료 모듈입니다. Kiyo\'s Bar에서 구매한 뒤 돌아와 추가하세요.</string>
+    <string name="module_browser_locked_note">%1$s은(는) 유료 모듈입니다. FIZY\'s Bar에서 구매한 뒤 돌아와 추가하세요.</string>
     <string name="module_browser_sign_out">탐색기에서 로그아웃</string>
 </resources>

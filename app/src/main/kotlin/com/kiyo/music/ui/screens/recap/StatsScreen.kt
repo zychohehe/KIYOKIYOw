@@ -374,7 +374,7 @@ fun StatsScreen(navController: NavController) {
             Box(contentAlignment = Alignment.CenterStart) {
                 Icon(
                     painter = painterResource(R.drawable.ic_kiyo_mark),
-                    contentDescription = "Kiyo",
+                    contentDescription = "FIZY",
                     tint = Color.White,
                     modifier =
                         Modifier

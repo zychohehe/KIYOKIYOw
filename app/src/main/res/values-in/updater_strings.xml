@@ -35,7 +35,7 @@
     <string name="mobile_network_warning">Mengunduh pembaruan melalui jaringan seluler atau saat roaming dapat menimbulkan biaya tambahan.</string>
     <string name="update_size">Ukuran pembaruan: %1$s MB</string>
     <string name="check_internet_connection">Periksa koneksi internet dan coba lagi.</string>
-    <string name="kiyo_music_version">kiyo MUSIC versi %1$s</string>
+    <string name="kiyo_music_version">FIZY MUSIC versi %1$s</string>
     <string name="last_checked">Terakhir diperiksa: %1$s</string>
     <string name="install">Instal</string>
     <string name="check_for_update">Periksa pembaruan</string>
@@ -51,7 +51,7 @@
     <string name="update_notifications_subtitle">Tampilkan notifikasi saat pembaruan baru ditemukan</string>
     <string name="settings_check_updates_title">Periksa pembaruan</string>
     <string name="later">Nanti</string>
-    <string name="kiyo_music_title">kiyo MUSIC</string>
+    <string name="kiyo_music_title">FIZY MUSIC</string>
     <string name="developer_section">PENGEMBANG</string>
     <string name="collaborator_section">KOLABORATOR</string>
     <string name="app_info_section">INFO APLIKASI</string>
@@ -90,5 +90,5 @@
     <string name="channel_release_warning">Kamu akan menerima rilis berikutnya sebagai pembaruan, dan nightly tidak akan muncul lagi.</string>
     <string name="channel_yes">Ya</string>
     <string name="channel_no">Tidak</string>
-    <string name="update_allow_unknown_apps">Izinkan Kiyo memasang aplikasi tidak dikenal di Pengaturan, lalu kembali dan tekan Pasang di sini lagi.</string>
+    <string name="update_allow_unknown_apps">Izinkan FIZY memasang aplikasi tidak dikenal di Pengaturan, lalu kembali dan tekan Pasang di sini lagi.</string>
 </resources>

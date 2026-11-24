@@ -61,9 +61,9 @@
     <string name="stage_output_hdmi">TV atau HDMI</string>
     <string name="stage_kind_headphones">Headphone</string>
     <string name="stage_kind_speaker">Speaker</string>
-    <string name="stage_output_guessed">Kiyo menebak ini dari perangkatnya. Salah? Pilih yang benar.</string>
+    <string name="stage_output_guessed">FIZY menebak ini dari perangkatnya. Salah? Pilih yang benar.</string>
     <string name="stage_output_set">Kamu memilih ini untuk perangkat ini.</string>
-    <string name="stage_output_reset">Biarkan Kiyo menebak</string>
+    <string name="stage_output_reset">Biarkan FIZY menebak</string>
     <string name="stage_on_speakers">Di speaker</string>
     <string name="stage_speakers_off">Mati</string>
     <string name="stage_speakers_stereo">Stereo biasa</string>

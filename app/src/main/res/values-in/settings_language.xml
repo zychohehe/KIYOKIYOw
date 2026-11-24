@@ -45,7 +45,7 @@
     <string name="playback_keep_playing_detail">Lanjutkan pemutaran di latar belakang saat aplikasi dihapus dari daftar terbaru</string>
     <string name="playback_mix_other_apps">Putar bersama aplikasi lain</string>
     <string name="playback_mix_other_apps_desc">Tetap putar saat aplikasi lain mengeluarkan suara</string>
-    <string name="playback_mix_other_apps_detail">Kiyo tidak berhenti saat video, game, atau aplikasi musik lain mulai diputar, dan tidak menghentikan mereka juga. Musik tetap dijeda saat ada panggilan telepon dan lanjut lagi setelah panggilan selesai.</string>
+    <string name="playback_mix_other_apps_detail">FIZY tidak berhenti saat video, game, atau aplikasi musik lain mulai diputar, dan tidak menghentikan mereka juga. Musik tetap dijeda saat ada panggilan telepon dan lanjut lagi setelah panggilan selesai.</string>
     <string name="playback_save_state">Simpan keadaan terakhir pemutar</string>
     <string name="playback_save_state_desc">Jika nonaktif, lagu yang telah diputar akan dihapus saat aplikasi ditutup</string>
     <string name="playback_save_state_detail">Jika dinonaktifkan, lagu yang telah diputar akan dihapus saat aplikasi ditutup</string>
@@ -112,7 +112,7 @@
     <string name="spotify_canvas_row_off">Mati</string>
     <string name="spotify_canvas_subtitle">Video artis di balik lagumu</string>
     <string name="spotify_canvas_what_title">Apa ini?</string>
-    <string name="spotify_canvas_what">Spotify Canvas adalah video pendek berulang yang dipasang artis pada lagu mereka. Masuk ke Spotify dan Kiyo bisa mencarinya di sana juga, di posisi yang kamu berikan untuk Spotify pada Urutan canvas. Lagu tanpa canvas tetap memakai sampulnya.</string>
+    <string name="spotify_canvas_what">Spotify Canvas adalah video pendek berulang yang dipasang artis pada lagu mereka. Masuk ke Spotify dan FIZY bisa mencarinya di sana juga, di posisi yang kamu berikan untuk Spotify pada Urutan canvas. Lagu tanpa canvas tetap memakai sampulnya.</string>
     <string name="spotify_canvas_use">Pakai Spotify Canvas</string>
     <string name="spotify_canvas_use_desc">Cari canvas di Spotify juga</string>
     <string name="spotify_canvas_account">Akun</string>
@@ -120,18 +120,18 @@
     <string name="spotify_canvas_signed_out">Belum masuk</string>
     <string name="spotify_canvas_sign_in">Masuk ke Spotify</string>
     <string name="spotify_canvas_sign_out">Keluar</string>
-    <string name="spotify_canvas_sign_in_subtitle">Di halaman milik Spotify sendiri. Kiyo hanya memakainya untuk mencari canvas</string>
-    <string name="spotify_canvas_note">Loginmu tetap di Kiyo pada ponsel ini, dan impor Spotify memakai login yang sama. Spotify secara resmi tidak mengizinkan ini, jadi gunakan dengan risiko sendiri.</string>
+    <string name="spotify_canvas_sign_in_subtitle">Di halaman milik Spotify sendiri. FIZY hanya memakainya untuk mencari canvas</string>
+    <string name="spotify_canvas_note">Loginmu tetap di FIZY pada ponsel ini, dan impor Spotify memakai login yang sama. Spotify secara resmi tidak mengizinkan ini, jadi gunakan dengan risiko sendiri.</string>
     <string name="playback_resume_bluetooth">Lanjutkan saat Bluetooth terhubung</string>
     <string name="playback_resume_bluetooth_desc">Lanjutkan lagu yang dijeda saat headphone atau mobil terhubung</string>
     <string name="pause_music_when_muted_desc">Jeda saat volume mencapai nol, lanjutkan saat dinaikkan</string>
     <string name="settings_albums_from_likes">Album dari lagu yang disukai</string>
     <string name="settings_albums_from_likes_desc">Menyukai lagu juga menambahkan albumnya</string>
-    <string name="settings_albums_from_likes_detail">Beginilah cara Kiyo bekerja dulu: setiap lagu yang kamu sukai membawa albumnya ke Album. Saat dimatikan, Album bekerja seperti Apple Music dan menampilkan album yang kamu simpan, ditambah album dari lagu yang kamu tambahkan, impor, atau simpan di ponsel ini.</string>
+    <string name="settings_albums_from_likes_detail">Beginilah cara FIZY bekerja dulu: setiap lagu yang kamu sukai membawa albumnya ke Album. Saat dimatikan, Album bekerja seperti Apple Music dan menampilkan album yang kamu simpan, ditambah album dari lagu yang kamu tambahkan, impor, atau simpan di ponsel ini.</string>
     <string name="settings_pause_search_history_desc">Berhenti menyimpan yang kamu cari</string>
     <string name="proxy_status_off">Mati</string>
     <string name="proxy_status_on">Aktif, lewat %1$s</string>
-    <string name="proxy_intro">Kirim lalu lintas YouTube milik Kiyo lewat server lain. Berguna saat YouTube memblokir jaringanmu, atau saat YouTube Music tidak tersedia di tempatmu tinggal.</string>
+    <string name="proxy_intro">Kirim lalu lintas YouTube milik FIZY lewat server lain. Berguna saat YouTube memblokir jaringanmu, atau saat YouTube Music tidak tersedia di tempatmu tinggal.</string>
     <string name="proxy_use">Pakai proxy</string>
     <string name="proxy_use_desc">Lagu, video, unduhan, dan permintaan YouTube melewatinya</string>
     <string name="proxy_use_needs_address">Tambahkan alamat proxy dulu</string>
@@ -188,10 +188,10 @@
     <string name="settings_rec_devices">Putar di TV atau ponsel lain</string>
     <string name="customise_reset">Kembalikan ke bawaan</string>
     <string name="customise_icons">Ikon</string>
-    <string name="customise_icons_caption">Layar utamamu mungkin butuh beberapa detik untuk menampilkan ikon baru. Membuka Kiyo darinya juga dimulai dari ikon itu.</string>
-    <string name="app_icon_family_mark">Kiyo</string>
-    <string name="app_icon_family_outline">Kiyo outline</string>
-    <string name="app_icon_family_anime">Kiyo Anime</string>
+    <string name="customise_icons_caption">Layar utamamu mungkin butuh beberapa detik untuk menampilkan ikon baru. Membuka FIZY darinya juga dimulai dari ikon itu.</string>
+    <string name="app_icon_family_mark">FIZY</string>
+    <string name="app_icon_family_outline">FIZY outline</string>
+    <string name="app_icon_family_anime">FIZY Anime</string>
     <string name="app_icon_default">Bawaan</string>
     <string name="app_icon_white">Putih</string>
     <string name="app_icon_black">Hitam</string>
@@ -202,10 +202,10 @@
     <string name="app_icon_outline_black">Hitam</string>
     <string name="app_icon_outline_material">Material u</string>
     <string name="app_icon_outline_transparent">Transparan</string>
-    <string name="app_icon_anime_white">Kiyo putih</string>
-    <string name="app_icon_anime_dark">Kiyo gelap</string>
-    <string name="app_icon_anime_material">Kiyo material u</string>
-    <string name="app_icon_anime_transparent">Kiyo transparan</string>
+    <string name="app_icon_anime_white">FIZY putih</string>
+    <string name="app_icon_anime_dark">FIZY gelap</string>
+    <string name="app_icon_anime_material">FIZY material u</string>
+    <string name="app_icon_anime_transparent">FIZY transparan</string>
     <string name="customise_icons_show_all">Tampilkan semua ikon</string>
     <string name="customise_icons_show_less">Tampilkan lebih sedikit ikon</string>
     <string name="app_icon_customize">Sesuaikan</string>
@@ -238,5 +238,5 @@
     <string name="customise_lyrics_preview_translation">si je suis une pierre</string>
     <string name="settings_floating_lyrics">Lirik melayang</string>
     <string name="settings_floating_lyrics_desc">Tampilkan baris yang sedang dinyanyikan dalam gelembung kecil di atas aplikasi lain</string>
-    <string name="settings_floating_lyrics_detail">Ketuk sampul untuk putar dan jeda, atau tahan untuk membuka Kiyo. Seret dan gelembung menempel ke tepi terdekat. Jatuhkan di Tutup untuk menyembunyikannya sampai kamu kembali ke Kiyo, atau di Jangan tampilkan lagi untuk mematikannya.</string>
+    <string name="settings_floating_lyrics_detail">Ketuk sampul untuk putar dan jeda, atau tahan untuk membuka FIZY. Seret dan gelembung menempel ke tepi terdekat. Jatuhkan di Tutup untuk menyembunyikannya sampai kamu kembali ke FIZY, atau di Jangan tampilkan lagi untuk mematikannya.</string>
 </resources>

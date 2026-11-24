@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="builtin_module_apple_description">Memutar langganan Apple Music-mu di Kiyo, dalam AAC 256, dengan semua efek Audio Lab</string>
+    <string name="builtin_module_apple_description">Memutar langganan Apple Music-mu di FIZY, dalam AAC 256, dengan semua efek Audio Lab</string>
     <string name="builtin_module_monochrome_description">FLAC lossless untuk setiap lagu di Monochrome, tanpa akun, dengan semua efek Audio Lab</string>
     <string name="builtin_module_jiosaavn_description">Katalog JioSaavn dalam AAC hingga 320 kbps, tanpa akun. Terkuat untuk musik India</string>
     <string name="builtin_module_stream">Streaming</string>

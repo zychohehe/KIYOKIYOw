@@ -13,7 +13,7 @@
     <string name="devices_status_controlling">Dikontrol dari sini</string>
     <string name="devices_status_connected_detail">Kalian bisa saling mengontrol</string>
     <string name="devices_stay_reachable">Tetap terjangkau di latar belakang</string>
-    <string name="devices_stay_reachable_detail">Perangkatmu bisa menyinkronkan, streaming, dan mengontrol bahkan saat Kiyo ditutup. Menampilkan notifikasi yang tenang.</string>
+    <string name="devices_stay_reachable_detail">Perangkatmu bisa menyinkronkan, streaming, dan mengontrol bahkan saat FIZY ditutup. Menampilkan notifikasi yang tenang.</string>
     <string name="devices_in_player_menu">Tampilkan perangkatku di menu pemutar</string>
     <string name="devices_in_player_menu_detail">Putar di perangkat itu, antrekan lagu di sana, atau kontrol dari menu pemutar</string>
     <string name="devices_notification_title">Perangkatmu bisa menjangkau ponsel ini</string>
@@ -27,7 +27,7 @@
     <string name="devices_remote_control_tv_detail">Putar, lewati, dan ubah pengaturannya dari ponsel ini</string>
     <string name="devices_remote_control_phone_detail">Putar, lewati, dan ubah pengaturan satu sama lain dari ponsel mana pun</string>
     <string name="devices_auto_control">Ambil kontrol saat terhubung</string>
-    <string name="devices_auto_control_detail">Begitu Kiyo terbuka di sana, ponsel ini menjadi remote-nya</string>
+    <string name="devices_auto_control_detail">Begitu FIZY terbuka di sana, ponsel ini menjadi remote-nya</string>
     <string name="devices_stream_local">Streaming lokal dari perangkat ini</string>
     <string name="devices_stream_local_detail">Unduhan dan file lagumu diputar di sana langsung dari ponsel ini</string>
     <string name="devices_override_library">Timpa pustaka perangkat</string>
@@ -39,7 +39,7 @@
     <string name="devices_pairing_code">Kode mode pemasangan</string>
     <string name="devices_detected">Terdeteksi</string>
     <string name="devices_looking">Mencari perangkat…</string>
-    <string name="devices_looking_detail">Buka Tambah perangkat di ponsel lainmu, atau halaman ponsel di Kiyo pada TV-mu</string>
+    <string name="devices_looking_detail">Buka Tambah perangkat di ponsel lainmu, atau halaman ponsel di FIZY pada TV-mu</string>
     <string name="devices_connect">Hubungkan</string>
     <string name="devices_or">Atau</string>
     <string name="devices_enter_code">Masukkan kode</string>
@@ -49,13 +49,13 @@
     <string name="devices_wrong_code">Kode itu tidak cocok. Periksa layar yang lain dan coba lagi.</string>
     <string name="devices_pair_full">Salah satu dari kalian sudah punya 10 perangkat. Putuskan satu dulu.</string>
     <string name="devices_pair_failed">Tidak bisa menjangkaunya. Pastikan keduanya di Wi-Fi yang sama.</string>
-    <string name="devices_pair_outdated">Perangkat itu memakai Kiyo versi lama. Perbarui, lalu coba kodenya lagi</string>
+    <string name="devices_pair_outdated">Perangkat itu memakai FIZY versi lama. Perbarui, lalu coba kodenya lagi</string>
     <string name="remote_controlling">Mengontrol %1$s</string>
     <string name="remote_stop">Berhenti mengontrol</string>
     <string name="remote_playing">Memutar</string>
     <string name="remote_paused">Dijeda</string>
     <string name="remote_connecting">Menanyakan apa yang sedang diputar…</string>
-    <string name="remote_unreachable">Tidak bisa menjangkaunya sekarang. Apakah Kiyo terbuka di sana?</string>
+    <string name="remote_unreachable">Tidak bisa menjangkaunya sekarang. Apakah FIZY terbuka di sana?</string>
     <string name="remote_up_next">Berikutnya</string>
     <string name="remote_hand_over">Putar antrean ponsel ini di %1$s</string>
     <string name="remote_queued_on">Ditambahkan ke antrean di %1$s</string>
@@ -67,7 +67,7 @@
     <string name="remote_remove_from_queue">Hapus dari antrean</string>
     <string name="remote_settings_on">Pengaturan di %1$s</string>
     <string name="remote_settings_loading">Mengambil pengaturannya…</string>
-    <string name="remote_settings_failed">Gagal mengambil pengaturannya. Pastikan Kiyo terbuka di sana dan mengizinkan ponsel ini mengontrolnya.</string>
+    <string name="remote_settings_failed">Gagal mengambil pengaturannya. Pastikan FIZY terbuka di sana dan mengizinkan ponsel ini mengontrolnya.</string>
     <string name="remote_settings_retry">Coba lagi</string>
     <string name="remote_setting_failed">Gagal mengubahnya di %1$s</string>
     <string name="remote_seconds">%1$d dtk</string>

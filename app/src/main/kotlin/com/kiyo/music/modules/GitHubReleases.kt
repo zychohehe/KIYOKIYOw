@@ -71,7 +71,7 @@ internal object GitHubReleases {
         }
         val target = File(folder, release.asset.replace(Regex("[^A-Za-z0-9._-]"), "-"))
         return try {
-            client.newCall(Request.Builder().url(release.url).header("User-Agent", "Kiyo").build()).execute().use { response ->
+            client.newCall(Request.Builder().url(release.url).header("User-Agent", "FIZY").build()).execute().use { response ->
                 if (!response.isSuccessful) throw IOException("HTTP ${response.code}")
                 copyCapped(response.body.byteStream(), target)
             }
@@ -103,7 +103,7 @@ internal object GitHubReleases {
     private fun apiRequest(url: String) = Request.Builder()
         .url(url)
         .header("Accept", "application/vnd.github+json")
-        .header("User-Agent", "Kiyo")
+        .header("User-Agent", "FIZY")
         .build()
 
     // a release asset can be anything, so stop reading once it's past what a module zip could ever be

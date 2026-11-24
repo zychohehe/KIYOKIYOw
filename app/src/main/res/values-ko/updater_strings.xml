@@ -35,7 +35,7 @@
     <string name="mobile_network_warning">모바일 네트워크 또는 로밍 중에 업데이트를 다운로드하면 추가 요금이 발생할 수 있습니다.</string>
     <string name="update_size">업데이트 크기: %1$s MB</string>
     <string name="check_internet_connection">인터넷 연결을 확인하고 다시 시도하세요.</string>
-    <string name="kiyo_music_version">kiyo MUSIC 버전 %1$s</string>
+    <string name="kiyo_music_version">FIZY MUSIC 버전 %1$s</string>
     <string name="last_checked">마지막 확인: %1$s</string>
     <string name="install">설치</string>
     <string name="check_for_update">업데이트 확인</string>
@@ -51,7 +51,7 @@
     <string name="update_notifications_subtitle">새 업데이트를 찾으면 알림 표시</string>
     <string name="settings_check_updates_title">업데이트 확인</string>
     <string name="later">나중에</string>
-    <string name="kiyo_music_title">kiyo MUSIC</string>
+    <string name="kiyo_music_title">FIZY MUSIC</string>
     <string name="developer_section">개발자</string>
     <string name="collaborator_section">협력자</string>
     <string name="app_info_section">앱 정보</string>

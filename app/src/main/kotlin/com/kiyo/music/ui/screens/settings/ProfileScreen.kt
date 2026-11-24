@@ -676,7 +676,7 @@ fun ProfileScreen(navController: NavController) {
             // ---- logo, and the greeting sliding into the bar beside it ----
             Icon(
                 painter = painterResource(R.drawable.ic_kiyo_mark),
-                contentDescription = "Kiyo",
+                contentDescription = "FIZY",
                 tint = Color.White,
                 modifier = Modifier
                     .padding(start = HomeContentInset, top = statusBarTop + TopBarLogoTop)

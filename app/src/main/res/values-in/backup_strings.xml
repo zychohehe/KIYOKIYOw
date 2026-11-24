@@ -13,7 +13,7 @@
     <string name="backup_waiting_browser">Selesaikan proses masuk di browsermu</string>
     <string name="backup_finishing_sign_in">Sedang masuk…</string>
     <string name="backup_no_browser">Tidak ada browser di ponsel ini untuk masuk.</string>
-    <string name="backup_dropbox_notice">Cadangan Dropbox masih dalam pengujian. Hanya 500 orang pertama yang bisa terhubung, dan Dropbox bisa menghentikan proses masuk baru lebih awal sampai Kiyo disetujui. Jika Dropbox tidak mengizinkanmu masuk, WebDAV tidak punya batas.</string>
+    <string name="backup_dropbox_notice">Cadangan Dropbox masih dalam pengujian. Hanya 500 orang pertama yang bisa terhubung, dan Dropbox bisa menghentikan proses masuk baru lebih awal sampai FIZY disetujui. Jika Dropbox tidak mengizinkanmu masuk, WebDAV tidak punya batas.</string>
     <string name="backup_disconnect">Putuskan</string>
     <string name="backup_disconnect_desc">Berhenti mencadangkan ke %1$s. Cadangan yang sudah ada tetap tersimpan.</string>
     <string name="backup_connected_toast">Terhubung. Cadanganmu sekarang dikirim ke %1$s.</string>
@@ -26,7 +26,7 @@
     <string name="backup_uploading">Mengunggah… %1$d%%</string>
     <string name="backup_downloading">Mengunduh… %1$d%%</string>
     <string name="backup_unpacking">Membuka kemasan… %1$d%%</string>
-    <string name="backup_restored">Dipulihkan. Kiyo dimulai ulang…</string>
+    <string name="backup_restored">Dipulihkan. FIZY dimulai ulang…</string>
     <string name="backup_done_toast">Dicadangkan ke %1$s</string>
     <string name="backup_last_failed">Cadangan otomatis terakhir tidak berhasil. %1$s</string>
     <string name="backup_restore_title">Pulihkan cadangan</string>
@@ -36,14 +36,14 @@
     <string name="backup_every">Seberapa sering</string>
     <string name="backup_keep">Simpan di cloud</string>
     <string name="backup_keep_note">Setelah setiap pencadangan, cadangan tertua dari ponsel ini dihapus sehingga hanya sejumlah ini yang tersisa. Cadangan dari ponsel lain tidak disentuh.</string>
-    <string name="backup_restore_body">Pilih satu. Pustaka, statistik, dan pengaturanmu diganti dengan yang ada di dalamnya, lalu Kiyo dimulai ulang. Lagu yang sudah diunduh tetap seperti semula.</string>
+    <string name="backup_restore_body">Pilih satu. Pustaka, statistik, dan pengaturanmu diganti dengan yang ada di dalamnya, lalu FIZY dimulai ulang. Lagu yang sudah diunduh tetap seperti semula.</string>
     <string name="backup_restore_loading">Mencari di cloudmu…</string>
     <string name="backup_restore_empty">Belum ada cadangan di sana.</string>
     <string name="backup_restore_item">%1$s · %2$s</string>
     <string name="backup_restore_this">Pulihkan dan mulai ulang</string>
     <string name="backup_try_again">Coba lagi</string>
     <string name="webdav_title">Hubungkan server WebDAV</string>
-    <string name="webdav_body">Cadangan masuk ke folder Kiyo Backups di alamat ini. Kata sandimu tetap di ponsel ini dan tidak pernah masuk ke cadangan.</string>
+    <string name="webdav_body">Cadangan masuk ke folder FIZY Backups di alamat ini. Kata sandimu tetap di ponsel ini dan tidak pernah masuk ke cadangan.</string>
     <string name="webdav_address">Alamat server</string>
     <string name="webdav_address_hint">https://cloud.example.com/remote.php/dav/files/you/</string>
     <string name="webdav_username_hint">Nama penggunamu</string>
@@ -51,7 +51,7 @@
     <string name="webdav_connect">Hubungkan</string>
     <string name="webdav_connecting">Memeriksa…</string>
     <string name="cloud_problem_offline">Tidak dapat menjangkau cloud. Periksa koneksimu lalu coba lagi.</string>
-    <string name="cloud_problem_signed_out">Kiyo tidak lagi masuk di sana. Masuk lagi untuk terus mencadangkan.</string>
+    <string name="cloud_problem_signed_out">FIZY tidak lagi masuk di sana. Masuk lagi untuk terus mencadangkan.</string>
     <string name="cloud_problem_wrong_login">Server menolak nama pengguna atau kata sandi itu.</string>
     <string name="cloud_problem_bad_address">Itu tidak terlihat seperti alamat server.</string>
     <string name="cloud_problem_not_found">Folder itu tidak ditemukan di server. Periksa alamatnya.</string>

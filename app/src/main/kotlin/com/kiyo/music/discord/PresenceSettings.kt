@@ -38,7 +38,7 @@ enum class PresenceImage(val label: String, val forLargeImage: Boolean) {
     ARTWORK("Music artwork", true),
     ARTIST("Artist artwork", true),
     PLAYBACK_STATUS("Playback status", false),
-    APP_LOGO("Kiyo logo", true),
+    APP_LOGO("FIZY logo", true),
     SPINNING_ARTIST("Rotating artist artwork", false),
     SPINNING_ARTWORK("Rotating music artwork", false),
     // a picture from the phone, put on a free host for discord like the rotating ones
@@ -69,7 +69,7 @@ enum class PresenceButtonTarget(val label: String, @DrawableRes val icon: Int) {
     SPOTIFY("Spotify", R.drawable.provider_spotify),
     APPLE_MUSIC("Apple Music", R.drawable.provider_apple_music),
     TIDAL("Tidal", R.drawable.provider_tidal),
-    KIYO("Kiyo on GitHub", R.drawable.github),
+    KIYO("FIZY on GitHub", R.drawable.github),
 }
 
 data class PresenceButton(val text: String, val target: PresenceButtonTarget)
@@ -90,7 +90,7 @@ data class PresenceSettings(
     val largeImage: PresenceImage = PresenceImage.ARTWORK,
     val smallImage: PresenceImage = PresenceImage.PLAYBACK_STATUS,
     val button1: PresenceButton = PresenceButton("See on YouTube Music", PresenceButtonTarget.YOUTUBE_MUSIC),
-    val button2: PresenceButton = PresenceButton("Open Kiyo", PresenceButtonTarget.KIYO),
+    val button2: PresenceButton = PresenceButton("Open FIZY", PresenceButtonTarget.KIYO),
     /** how long one full turn of the rotating artwork takes */
     val spinSeconds: Int = DefaultSpinSeconds,
     /** frames per second of the rotating artwork's GIF, one of [SpinFpsSteps] */

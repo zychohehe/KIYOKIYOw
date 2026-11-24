@@ -627,7 +627,7 @@ private fun LikedSourceSeparator(source: ImportSource?, modifier: Modifier = Mod
         }
         Spacer(Modifier.width(6.dp))
         Text(
-            text = source?.label?.replaceFirstChar { it.uppercase() } ?: "Kiyo",
+            text = source?.label?.replaceFirstChar { it.uppercase() } ?: "FIZY",
             style = PlaylistStatsStyle,
             color = Color.White.copy(alpha = 0.62f),
             maxLines = 1,

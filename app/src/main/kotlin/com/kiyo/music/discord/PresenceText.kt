@@ -4,7 +4,7 @@ package com.kiyo.music.discord
 
 /** The words the user can drop into any status line or button, and Discord's length rules. */
 object PresenceText {
-    const val AppName = "Kiyo"
+    const val AppName = "FIZY"
 
     /** the placeholder, and what it means, in the order the Discord page lists them */
     val Placeholders = listOf(

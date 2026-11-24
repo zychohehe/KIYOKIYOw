@@ -184,7 +184,7 @@
     <string name="pc_stat_speed">속도</string>
     <string name="pc_stat_pitch">음높이</string>
     <string name="pc_stat_semitones">%1$s반음</string>
-    <string name="pc_stat_rs_kiyo">Kiyo 하이파이, 윈도 sinc (Kaiser)</string>
+    <string name="pc_stat_rs_kiyo">FIZY 하이파이, 윈도 sinc (Kaiser)</string>
     <string name="pc_stat_passband">통과 대역</string>
     <string name="pc_stat_flat_to">%1$s까지 평탄</string>
     <string name="pc_stat_stopband">저지 대역 −%1$d dB, 32비트 부동소수점</string>

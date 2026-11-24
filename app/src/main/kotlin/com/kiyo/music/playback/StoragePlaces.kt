@@ -41,7 +41,7 @@ data class StoragePlace(
 object StoragePlaces {
     private const val Tag = "StoragePlaces"
     private const val LeftoversName = "storage_leftovers.json"
-    private const val PickedFolderName = "Kiyo"
+    private const val PickedFolderName = "FIZY"
     private const val ExternalStorageAuthority = "com.android.externalstorage.documents"
 
     private fun markerOf(context: Context, kind: StoredKind) = File(context.noBackupFilesDir, "storage_place_${kind.folder}.txt")

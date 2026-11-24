@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="storage_overall">전체</string>
-    <string name="storage_legend_kiyo">Kiyo</string>
+    <string name="storage_legend_kiyo">FIZY</string>
     <string name="storage_legend_yours">내 저장공간</string>
     <string name="storage_free">%1$s 사용 가능</string>
     <string name="storage_measuring">Kiyo가 사용하는 공간을 계산하는 중…</string>
     <string name="storage_uses">Kiyo가 저장공간 %1$s(%2$s)를 사용하고 있습니다. 사용 내역:</string>
     <string name="storage_uses_drives">Kiyo가 드라이브 %2$d개에서 %1$s를 사용하고 있습니다. 사용 내역:</string>
-    <string name="storage_breakdown_title">Kiyo 앱 데이터 사용량</string>
+    <string name="storage_breakdown_title">FIZY 앱 데이터 사용량</string>
     <string name="storage_legend_cache">캐시</string>
     <string name="storage_legend_downloads">다운로드한 음악 및 로컬 파일</string>
     <string name="storage_legend_database">데이터베이스</string>
@@ -43,9 +43,9 @@
     <string name="storage_place_sheet_cache">캐시 저장 위치</string>
     <string name="storage_place_note_downloads">다운로드한 모든 곡과 가사를 함께 이동합니다. 완료하려면 Kiyo가 한 번 다시 시작됩니다.</string>
     <string name="storage_place_note_cache">새 위치에서 캐시를 새로 생성합니다. 완료하려면 Kiyo가 한 번 다시 시작됩니다.</string>
-    <string name="storage_place_card_note">메모리 카드에서는 Kiyo 전용 폴더에 저장합니다. 앱을 제거하면 Android가 이 폴더를 삭제합니다.</string>
+    <string name="storage_place_card_note">메모리 카드에서는 FIZY 전용 폴더에 저장합니다. 앱을 제거하면 Android가 이 폴더를 삭제합니다.</string>
     <string name="storage_place_choose_folder">폴더 선택</string>
-    <string name="storage_place_folder_note">선택한 폴더 안의 Kiyo 폴더에 저장하므로 다른 파일은 변경하지 않습니다.</string>
+    <string name="storage_place_folder_note">선택한 폴더 안의 FIZY 폴더에 저장하므로 다른 파일은 변경하지 않습니다.</string>
     <string name="storage_place_access_needed">%1$s에 저장하려면 모든 파일 접근 권한이 필요합니다. Android 설정에서 권한을 허용하세요.</string>
     <string name="storage_place_allow_access">접근 허용</string>
     <string name="storage_place_no_access">권한이 없어 여기에 저장할 수 없습니다. 권한을 허용하거나 다른 폴더를 선택하세요.</string>

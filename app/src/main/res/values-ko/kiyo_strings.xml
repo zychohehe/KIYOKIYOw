@@ -323,7 +323,7 @@
     <string name="scrobble_account">계정</string>
     <string name="scrobble_sign_in_title">%1$s에 로그인</string>
     <string name="scrobble_sign_in_desc">청취 기록, 통계 및 추천을 해당 서비스에 저장합니다</string>
-    <string name="scrobble_not_set_up">이 Kiyo 빌드에 설정되어 있지 않음</string>
+    <string name="scrobble_not_set_up">이 FIZY 빌드에 설정되어 있지 않음</string>
     <string name="scrobble_to">%1$s에 스크로블 전송</string>
     <string name="scrobble_signed_in_as">%1$s 계정으로 로그인됨</string>
     <string name="scrobble_paused_signed_in_as">일시중지됨 · %1$s 계정으로 로그인됨</string>
@@ -395,7 +395,7 @@
     <string name="karaoke">노래방</string>
     <string name="apple_music_style">Apple Music</string>
     <string name="apple_music_style_letter">Apple Music V2 (글자별)</string>
-    <string name="kiyo_1">kiyo (부드러운 움직임)</string>
+    <string name="kiyo_1">FIZY (부드러운 움직임)</string>
     <string name="apple_music_lyrics_blur">Apple Music 가사 흐림 효과</string>
     <string name="apple_music_lyrics_blur_desc">현재 재생하지 않는 가사 줄을 흐리게 표시해 집중도를 높입니다</string>
     <string name="lyrics_v2_fluid">가사 V2 (부드러운 움직임)</string>
@@ -425,14 +425,14 @@
     <string name="wrapped_total_artists_subtitle">명의 서로 다른 아티스트</string>
     <string name="wrapped_total_songs_title">감상한 곡</string>
     <string name="wrapped_total_songs_subtitle">개의 서로 다른 곡</string>
-    <string name="wrapped_intro_title">kiyo</string>
+    <string name="wrapped_intro_title">FIZY</string>
     <string name="wrapped_intro_subtitle">그동안 어떤 음악을 들었는지 돌아볼 시간입니다</string>
     <string name="wrapped_intro_button">시작하기!</string>
     <string name="wrapped_end_thanks">kiyo와 함께 음악을 들어 주셔서 감사합니다!</string>
     <string name="wrapped_end_create_playlist">연말 결산 재생목록 만들기</string>
     <string name="wrapped_end_creating_playlist">만드는 중…</string>
     <string name="wrapped_end_playlist_saved">재생목록 저장됨</string>
-    <string name="wrapped_logo_content_description">kiyo 로고</string>
+    <string name="wrapped_logo_content_description">FIZY 로고</string>
     <string name="wrapped_year">2025</string>
     <string name="wrapped_ready_title">연말 결산이 준비되었습니다!</string>
     <string name="wrapped_ready_subtitle">올해 좋아했던 음악을 만나 보세요.</string>
@@ -470,7 +470,7 @@
     <string name="eq_label_mid">중음</string>
     <string name="eq_label_treble">고음</string>
     <string name="eq_preset_flat">플랫</string>
-    <string name="eq_preset_kiyo_signature">kiyo 시그니처</string>
+    <string name="eq_preset_kiyo_signature">FIZY 시그니처</string>
     <string name="eq_preset_acoustic">어쿠스틱</string>
     <string name="eq_preset_spatial">3D 스테이지</string>
     <string name="eq_preset_bass_boost">저음 강화</string>
@@ -489,7 +489,7 @@
     <string name="eq_preset_dirac_game">Dirac 게임</string>
     <string name="eq_enable_title">kiyoEqualizer</string>
     <string name="eq_enable_summary">전문 오디오 처리 사용 여부를 전환합니다</string>
-    <string name="eq_label_kiyo">kiyo 시그니처</string>
+    <string name="eq_label_kiyo">FIZY 시그니처</string>
     <string name="eq_label_dolby">Dolby Atmos</string>
     <string name="eq_label_dirac">Dirac Audio</string>
     <string name="eq_reset">초기화</string>
@@ -507,7 +507,7 @@
     <string name="progress_percent">진행률 %s%%</string>
     <string name="listening_to_kiyo">kiyo에서 음악 감상 중</string>
     <string name="listen_on_youtube_music">YouTube Music에서 듣기</string>
-    <string name="visit_kiyo">kiyo 방문</string>
+    <string name="visit_kiyo">FIZY 방문</string>
     <string name="open">열기</string>
     <string name="failed_to_create_image">이미지를 만들지 못했습니다: %s</string>
     <string name="copied_title">제목 복사됨</string>
@@ -520,13 +520,13 @@
     <string name="error_copy_hint">개발자가 문제를 해결할 수 있도록 오류 정보를 복사하세요</string>
     <string name="album_art">앨범 아트</string>
     <string name="no_song_playing">재생 중인 곡 없음</string>
-    <string name="tap_to_open">누르면 kiyo 열기</string>
+    <string name="tap_to_open">누르면 FIZY 열기</string>
     <string name="previous">이전</string>
     <string name="play_pause">재생/일시중지</string>
     <string name="next">다음</string>
     <string name="like">좋아요</string>
     <string name="not_playing">재생 중인 곡 없음</string>
-    <string name="tap_to_play">누르면 kiyo 열기</string>
+    <string name="tap_to_play">누르면 FIZY 열기</string>
     <string name="widget_description">재생 제어 기능이 있는 음악 플레이어 위젯</string>
     <string name="queue_widget_description">재생 대기열을 미리 볼 수 있는 음악 플레이어</string>
     <string name="turntable_widget_description">재생 및 좋아요 버튼이 있는 원형 음악 위젯</string>
@@ -629,7 +629,7 @@
     <string name="crash_share_logs">로그 공유</string>
     <string name="copy_logs">로그 복사</string>
     <string name="crash_share_title">오류 보고서 공유</string>
-    <string name="crash_report_subject">kiyo 오류 보고서</string>
+    <string name="crash_report_subject">FIZY 오류 보고서</string>
     <string name="crash_close">닫기</string>
     <string name="crash_no_log">오류 로그가 없습니다</string>
     <string name="palette_dynamic">동적 색상</string>
@@ -715,8 +715,8 @@
     <string name="discord_rpc_preview">Rich Presence 미리보기</string>
     <string name="discord_presence">활동 상태</string>
     <string name="discord_connect_description">Discord에 로그인하여 듣고 있는 음악을 공유하세요</string>
-    <string name="discord_playing_kiyo">kiyo 플레이 중</string>
-    <string name="discord_watching_kiyo">kiyo 시청 중</string>
+    <string name="discord_playing_kiyo">FIZY 플레이 중</string>
+    <string name="discord_watching_kiyo">FIZY 시청 중</string>
     <string name="discord_competing_kiyo">kiyo에서 경쟁 중</string>
     <string name="discord_activity_name">활동 이름</string>
     <string name="discord_activity_name_description">사용자 지정 활동 이름 (비워 두면 기본값 사용)</string>
@@ -762,7 +762,7 @@
     <string name="telegram_channel">Telegram</string>
     <string name="welcome_to">환영합니다</string>
     <string name="welcome_lets_listen">음악을 들어 볼까요!</string>
-    <string name="welcome_finale">Kiyo Music에 오신 것을 환영합니다</string>
+    <string name="welcome_finale">FIZY Music에 오신 것을 환영합니다</string>
     <string name="welcome_start">시작하기</string>
     <string name="welcome_tap_anywhere">아무 곳이나 눌러 계속</string>
     <string name="welcome_preparing_subtitle">사용에 필요한 준비를 시작합니다.</string>
@@ -1062,7 +1062,7 @@
     <string name="recent_search_playlist">재생목록 · %1$s</string>
     <string name="recent_search_artist">아티스트</string>
     <string name="recent_search_remove">최근 검색에서 삭제</string>
-    <string name="floating_lyrics_open">Kiyo 열기</string>
+    <string name="floating_lyrics_open">FIZY 열기</string>
     <string name="floating_lyrics_close">닫기</string>
     <string name="floating_lyrics_never">다시 표시하지 않기</string>
     <string name="floating_lyrics_turned_off">플로팅 가사를 껐습니다. 설정에서 다시 켤 수 있습니다.</string>

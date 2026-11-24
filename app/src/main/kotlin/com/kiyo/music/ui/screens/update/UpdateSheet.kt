@@ -242,7 +242,7 @@ private fun ColumnScope.UpdateSheetContent(
             }
 
             Spacer(Modifier.height(14.dp))
-            Text("Kiyo", fontSize = 17.sp, fontWeight = FontWeight.Bold, letterSpacing = (-0.5).sp)
+            Text("FIZY", fontSize = 17.sp, fontWeight = FontWeight.Bold, letterSpacing = (-0.5).sp)
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Text(
                     installed,

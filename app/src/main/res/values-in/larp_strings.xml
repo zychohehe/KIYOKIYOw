@@ -49,7 +49,7 @@
     <string name="larp_skibidi_buffer">40 ms</string>
     <string name="larp_sixty_seven_title">Larper 67</string>
     <string name="larp_sixty_seven_dac">Chord Mojo 2</string>
-    <string name="larp_sixty_seven_lead">DAC portabel, langsung dari Kiyo</string>
+    <string name="larp_sixty_seven_lead">DAC portabel, langsung dari FIZY</string>
     <string name="larp_sixty_seven_power">600 mW</string>
     <string name="larp_sixty_seven_channels">Stereo, fase selaras</string>
     <string name="larp_sixty_seven_source">Master hi-res milik label sendiri</string>
@@ -57,7 +57,7 @@
     <string name="larp_sixty_seven_runs">Satu inti audio cadangan</string>
     <string name="larp_sixty_seven_effects">Tidak ada, fade pun tidak</string>
     <string name="larp_sixty_seven_hires">32-bit float, langsung tembus</string>
-    <string name="larp_sixty_seven_route">Kiyo ke DAC lewat USB asinkron</string>
+    <string name="larp_sixty_seven_route">FIZY ke DAC lewat USB asinkron</string>
     <string name="larp_sixty_seven_jitter">12 ps</string>
     <string name="larp_sixty_seven_buffer">10 ms</string>
     <string name="larp_brainrot_title">Larper brainrot</string>
@@ -66,24 +66,24 @@
     <string name="larp_brainrot_power">18 W</string>
     <string name="larp_brainrot_channels">Stereo, disetel dengan telinga</string>
     <string name="larp_brainrot_source">Meja mixing, langsung</string>
-    <string name="larp_brainrot_decoder">Tidak ada, Kiyo fasih membaca FLAC</string>
+    <string name="larp_brainrot_decoder">Tidak ada, FIZY fasih membaca FLAC</string>
     <string name="larp_brainrot_runs">Brainrot</string>
     <string name="larp_brainrot_effects">Tidak ada, sang artis menyetujui setiap bit</string>
     <string name="larp_brainrot_hires">64-bit float, berlapis emas</string>
-    <string name="larp_brainrot_route">Kiyo ke DAC lewat kabel perak</string>
+    <string name="larp_brainrot_route">FIZY ke DAC lewat kabel perak</string>
     <string name="larp_brainrot_jitter">1 ps</string>
     <string name="larp_brainrot_buffer">1 ms</string>
     <string name="larp_maxxing_title">Larper maxxing</string>
     <string name="larp_maxxing_dac">Wadax Atlantis Reference</string>
-    <string name="larp_maxxing_lead">Langsung dari Kiyo, tanpa dekoder</string>
+    <string name="larp_maxxing_lead">Langsung dari FIZY, tanpa dekoder</string>
     <string name="larp_maxxing_power">1.000.000 W</string>
     <string name="larp_maxxing_channels">Stereo, disetel dengan tangan</string>
     <string name="larp_maxxing_source">Pita master milik studio sendiri</string>
-    <string name="larp_maxxing_decoder">Tidak ada, Kiyo mengalirkannya mentah</string>
+    <string name="larp_maxxing_decoder">Tidak ada, FIZY mengalirkannya mentah</string>
     <string name="larp_maxxing_runs">Dopamin murni</string>
     <string name="larp_maxxing_effects">Tidak ada, setiap bit mendarat persis seperti yang diimpikan sang artis</string>
     <string name="larp_maxxing_hires">64-bit float, langsung tembus</string>
-    <string name="larp_maxxing_route">Kiyo ke DAC, tanpa dekoder di antaranya</string>
+    <string name="larp_maxxing_route">FIZY ke DAC, tanpa dekoder di antaranya</string>
     <string name="larp_maxxing_jitter">0 ps</string>
     <string name="larp_maxxing_buffer">0 ms, lagunya diputar sebelum kamu menekan putar</string>
 </resources>

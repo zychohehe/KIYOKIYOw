@@ -26,7 +26,7 @@
     <string name="car_pair_code">Kode pemasangan</string>
     <string name="car_pair_status">Status</string>
     <string name="car_pair_how">Cara memasangkan</string>
-    <string name="car_pair_steps">Di ponsel lain, buka Kiyo lalu masuk ke Pengaturan › Integrasi perangkat › Tambah perangkat, kemudian ketik kode ini. Kedua ponsel harus memakai Wi-Fi yang sama.</string>
+    <string name="car_pair_steps">Di ponsel lain, buka FIZY lalu masuk ke Pengaturan › Integrasi perangkat › Tambah perangkat, kemudian ketik kode ini. Kedua ponsel harus memakai Wi-Fi yang sama.</string>
     <string name="car_pair_waiting">Tidak terhubung. Menunggu ponsel untuk dipasangkan.</string>
     <string name="car_pair_connected">Terhubung ke %1$s</string>
     <string name="car_pair_getting_code">Menyiapkan kode…</string>

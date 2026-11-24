@@ -35,7 +35,7 @@
     <string name="mobile_network_warning">Tải bản cập nhật qua mạng di động hoặc khi chuyển vùng có thể phát sinh thêm cước phí.</string>
     <string name="update_size">Dung lượng bản cập nhật: %1$s MB</string>
     <string name="check_internet_connection">Hãy kiểm tra kết nối internet và thử lại.</string>
-    <string name="kiyo_music_version">kiyo MUSIC phiên bản %1$s</string>
+    <string name="kiyo_music_version">FIZY MUSIC phiên bản %1$s</string>
     <string name="last_checked">Kiểm tra lần cuối: %1$s</string>
     <string name="install">Cài đặt</string>
     <string name="check_for_update">Kiểm tra cập nhật</string>

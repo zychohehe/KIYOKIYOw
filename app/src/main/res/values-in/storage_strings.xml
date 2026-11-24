@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="storage_overall">Keseluruhan</string>
-    <string name="storage_legend_kiyo">Kiyo</string>
+    <string name="storage_legend_kiyo">FIZY</string>
     <string name="storage_legend_yours">Penyimpananmu</string>
     <string name="storage_free">%1$s tersisa</string>
-    <string name="storage_measuring">Menghitung seberapa besar ruang yang dipakai Kiyo…</string>
-    <string name="storage_uses">Kiyo memakai %1$s dari penyimpananmu (%2$s), yang terbagi menjadi</string>
-    <string name="storage_uses_drives">Kiyo memakai %1$s di %2$d drive, yang terbagi menjadi</string>
-    <string name="storage_breakdown_title">Pemakaian data aplikasi Kiyo</string>
+    <string name="storage_measuring">Menghitung seberapa besar ruang yang dipakai FIZY…</string>
+    <string name="storage_uses">FIZY memakai %1$s dari penyimpananmu (%2$s), yang terbagi menjadi</string>
+    <string name="storage_uses_drives">FIZY memakai %1$s di %2$d drive, yang terbagi menjadi</string>
+    <string name="storage_breakdown_title">Pemakaian data aplikasi FIZY</string>
     <string name="storage_legend_cache">Cache</string>
     <string name="storage_legend_downloads">Musik terunduh &amp; lokal</string>
     <string name="storage_legend_database">Basis data</string>
@@ -22,7 +22,7 @@
     <string name="storage_cache_off">Mati</string>
     <string name="storage_cache_mb">%1$d MB</string>
     <string name="storage_cache_gb">%1$d GB</string>
-    <string name="storage_cache_applies_later">Batas baru berlaku saat kamu membuka Kiyo berikutnya.</string>
+    <string name="storage_cache_applies_later">Batas baru berlaku saat kamu membuka FIZY berikutnya.</string>
     <string name="storage_remove_downloads">Hapus semua unduhan</string>
     <string name="storage_remove_downloads_title">Hapus semua unduhan?</string>
     <string name="storage_remove_downloads_message">Setiap lagu terunduh dihapus dari ponsel ini. Lagu tetap ada di pustakamu dan di-streaming lagi saat diputar, jadi perlu koneksi.</string>
@@ -41,14 +41,14 @@
     <string name="storage_place_card">Kartu memori</string>
     <string name="storage_place_sheet_downloads">Tempat unduhan disimpan</string>
     <string name="storage_place_sheet_cache">Tempat cache disimpan</string>
-    <string name="storage_place_note_downloads">Setiap lagu terunduh dipindahkan, dan liriknya ikut bersamanya. Kiyo dimulai ulang sekali untuk menyelesaikan.</string>
-    <string name="storage_place_note_cache">Cache dimulai dari awal di tempat baru. Kiyo dimulai ulang sekali untuk menyelesaikan.</string>
-    <string name="storage_place_card_note">Di kartu memori, Kiyo menyimpan ke foldernya sendiri, yang dihapus Android jika Kiyo dicopot.</string>
+    <string name="storage_place_note_downloads">Setiap lagu terunduh dipindahkan, dan liriknya ikut bersamanya. FIZY dimulai ulang sekali untuk menyelesaikan.</string>
+    <string name="storage_place_note_cache">Cache dimulai dari awal di tempat baru. FIZY dimulai ulang sekali untuk menyelesaikan.</string>
+    <string name="storage_place_card_note">Di kartu memori, FIZY menyimpan ke foldernya sendiri, yang dihapus Android jika FIZY dicopot.</string>
     <string name="storage_place_choose_folder">Pilih folder</string>
-    <string name="storage_place_folder_note">Kiyo menyimpan ke folder Kiyo di dalam folder yang kamu pilih, jadi tidak ada hal lain di dalamnya yang disentuh.</string>
-    <string name="storage_place_access_needed">Untuk menyimpan di %1$s, Kiyo memerlukan akses Semua file. Android memintanya di Pengaturan.</string>
+    <string name="storage_place_folder_note">FIZY menyimpan ke folder FIZY di dalam folder yang kamu pilih, jadi tidak ada hal lain di dalamnya yang disentuh.</string>
+    <string name="storage_place_access_needed">Untuk menyimpan di %1$s, FIZY memerlukan akses Semua file. Android memintanya di Pengaturan.</string>
     <string name="storage_place_allow_access">Izinkan akses</string>
-    <string name="storage_place_no_access">Kiyo tidak mendapat akses, jadi tidak bisa menyimpan di sana. Izinkan, atau pilih folder lain.</string>
+    <string name="storage_place_no_access">FIZY tidak mendapat akses, jadi tidak bisa menyimpan di sana. Izinkan, atau pilih folder lain.</string>
     <string name="storage_place_folder_unsupported">Folder itu tidak bisa dipakai. Pilih folder di ponsel ini atau kartu memori.</string>
     <string name="storage_place_free">%1$s tersisa dari %2$s</string>
     <string name="storage_place_here_now">Tersimpan di sini sekarang</string>
@@ -56,8 +56,8 @@
     <string name="storage_place_move">Pindahkan ke sini</string>
     <string name="storage_place_move_downloads_title">Pindahkan unduhan ke %1$s?</string>
     <string name="storage_place_move_cache_title">Pindahkan cache ke %1$s?</string>
-    <string name="storage_place_move_downloads_message">Unduhan dijeda saat %1$s disalin. Kiyo dimulai ulang setelah selesai, dan salinan lama dibersihkan.</string>
-    <string name="storage_place_move_cache_message">Cache yang ada sekarang dibersihkan dan Kiyo dimulai ulang, lalu lagu yang kamu putar disimpan di tempat baru.</string>
+    <string name="storage_place_move_downloads_message">Unduhan dijeda saat %1$s disalin. FIZY dimulai ulang setelah selesai, dan salinan lama dibersihkan.</string>
+    <string name="storage_place_move_cache_message">Cache yang ada sekarang dibersihkan dan FIZY dimulai ulang, lalu lagu yang kamu putar disimpan di tempat baru.</string>
     <string name="storage_place_move_action">Pindahkan dan mulai ulang</string>
     <string name="storage_export_sheet_title">Ekspor lagu terunduh</string>
     <string name="storage_export_note">Lagu disalin ke folder kiyo-preserve di tempat yang kamu pilih. Unduhanmu tetap di tempatnya.</string>
@@ -76,12 +76,12 @@
     <string name="storage_import_user_data">Impor data pengguna</string>
     <string name="storage_transfer_exporting">Mengekspor…</string>
     <string name="storage_transfer_exporting_percent">Mengekspor… %1$d%%</string>
-    <string name="storage_transfer_exported">Selesai diekspor! Impor file .zip di Kiyo pada ponsel yang lain</string>
+    <string name="storage_transfer_exported">Selesai diekspor! Impor file .zip di FIZY pada ponsel yang lain</string>
     <string name="storage_transfer_importing">Mengimpor…</string>
-    <string name="storage_transfer_importing_percent">Mengimpor… %1$d%%, Kiyo dimulai ulang setelah selesai</string>
+    <string name="storage_transfer_importing_percent">Mengimpor… %1$d%%, FIZY dimulai ulang setelah selesai</string>
     <string name="storage_transfer_restarting">Selesai, memulai ulang…</string>
     <string name="storage_import_title">Ganti pustakamu?</string>
-    <string name="storage_import_message">Semua yang ada di Kiyo sekarang diganti dengan isi ekspor, termasuk pustaka, riwayat, unduhan, dan pengaturanmu. Loginmu tetap seperti semula. Kiyo dimulai ulang sekali untuk menyelesaikan.</string>
+    <string name="storage_import_message">Semua yang ada di FIZY sekarang diganti dengan isi ekspor, termasuk pustaka, riwayat, unduhan, dan pengaturanmu. Loginmu tetap seperti semula. FIZY dimulai ulang sekali untuk menyelesaikan.</string>
     <string name="storage_import_action">Pilih file .zip</string>
     <plurals name="storage_export_done">
         <item quantity="other">%d lagu diekspor</item>

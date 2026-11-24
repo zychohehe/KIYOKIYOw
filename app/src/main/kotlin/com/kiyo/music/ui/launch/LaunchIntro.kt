@@ -340,7 +340,7 @@ fun LaunchIntroOverlay(state: LaunchIntroState, essentialsReady: Boolean) {
     Box(modifier = Modifier.fillMaxSize()) {
         // 3) wordmark under the mark: stays while it waits, melts away as the mark takes off
         androidx.compose.material3.Text(
-            text = "Kiyo Music",
+            text = "FIZY Music",
             color = Color.White,
             fontSize = 22.sp,
             fontWeight = FontWeight.ExtraBold,

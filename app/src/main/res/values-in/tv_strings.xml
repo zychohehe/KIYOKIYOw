@@ -2,9 +2,9 @@
 <resources>
     <string name="tv_hii">haii!</string>
     <string name="tv_tap_anything">Tekan tombol apa saja untuk melanjutkan</string>
-    <string name="tv_welcome">selamat datang\ndi Kiyo Music</string>
+    <string name="tv_welcome">selamat datang\ndi FIZY Music</string>
     <string name="tv_lets_sync">Ayo sinkronkan ke ponselmu</string>
-    <string name="tv_skip_phone">Pakai Kiyo tanpa ponsel</string>
+    <string name="tv_skip_phone">Pakai FIZY tanpa ponsel</string>
     <string name="tv_whats_your_name">Kami harus memanggilmu apa?</string>
     <string name="tv_continue">Lanjutkan</string>
     <string name="tv_whos_listening">Siapa yang mendengarkan?</string>
@@ -51,7 +51,7 @@
     <string name="tv_copy_to_tv">Salin dari ponselmu ke TV ini</string>
     <string name="tv_sync_from_phone">Sinkron Dari Ponsel</string>
     <string name="tv_same_wifi">Pastikan ponselmu berada di Wi-Fi yang sama dengan TV ini</string>
-    <string name="tv_pair_step_open">Buka Kiyo di ponselmu lalu masuk ke Pengaturan → Integrasi perangkat → Tambah perangkat</string>
+    <string name="tv_pair_step_open">Buka FIZY di ponselmu lalu masuk ke Pengaturan → Integrasi perangkat → Tambah perangkat</string>
     <string name="tv_pair_step_pick">Pilih %1$s dari daftar</string>
     <string name="tv_pair_step_code">Ketik kode di atas</string>
     <string name="tv_from_phone">Dari %1$s</string>
@@ -61,12 +61,12 @@
     <string name="tv_controlled_from">Dikontrol dari %1$s</string>
     <string name="tv_sync_looking">Mencari ponselmu…</string>
     <string name="tv_sync_syncing">Menyinkronkan pustakamu…</string>
-    <string name="tv_sync_away">Ponselmu tidak ada di sekitar. Buka Kiyo di ponsel itu, di Wi-Fi yang sama.</string>
+    <string name="tv_sync_away">Ponselmu tidak ada di sekitar. Buka FIZY di ponsel itu, di Wi-Fi yang sama.</string>
     <string name="tv_sync_unlinked">Ponselmu memutuskan TV ini. Pustaka tetap ada di sini.</string>
-    <string name="tv_sync_failed">Gagal menyinkronkan. Pastikan Kiyo sudah terbaru di keduanya lalu coba lagi.</string>
+    <string name="tv_sync_failed">Gagal menyinkronkan. Pastikan FIZY sudah terbaru di keduanya lalu coba lagi.</string>
     <string name="tv_sync_no_phone">Tidak ada ponsel yang terhubung</string>
     <string name="tv_sync_just_now">Baru saja disinkronkan</string>
-    <string name="tv_link_title">Kiyo di TV-mu</string>
+    <string name="tv_link_title">FIZY di TV-mu</string>
     <string name="tv_link_tap_to_unlink">Terhubung. Ketuk untuk memutuskan.</string>
     <string name="tv_link_found">TV di Wi-Fi ini</string>
     <string name="tv_link_enter_code">Ketik kode di %1$s</string>
@@ -74,14 +74,14 @@
     <string name="tv_link_pair">Hubungkan</string>
     <string name="tv_link_pairing">Menghubungkan…</string>
     <string name="tv_link_channel">Tautan TV</string>
-    <string name="tv_kiyo">Kiyo</string>
+    <string name="tv_kiyo">FIZY</string>
     <string name="tv_kiyo_version">Versi %1$s</string>
     <string name="tv_kiyo_link_phone">Hubungkan ponselmu untuk membawa pustakamu</string>
     <string name="tv_kiyo_phone_control">Ponsel bisa mengontrol TV ini</string>
     <string name="tv_on">Aktif</string>
     <string name="tv_off">Mati</string>
     <string name="tv_kiyo_updates">Pembaruan</string>
-    <string name="tv_kiyo_support">Dukung Kiyo</string>
+    <string name="tv_kiyo_support">Dukung FIZY</string>
     <string name="tv_kiyo_support_detail">Bantu menjaganya tetap berjalan</string>
     <string name="tv_playing_next">Diputar berikutnya</string>
     <string name="tv_queue_empty">Tidak ada yang antre setelah lagu ini</string>
@@ -94,7 +94,7 @@
     <string name="tv_menu_control">Kontrol %1$s</string>
     <string name="tv_menu_sent">Memutar di %1$s</string>
     <string name="tv_menu_next_sent">Diantrekan berikutnya di %1$s</string>
-    <string name="tv_menu_unreachable">Tidak bisa menjangkau %1$s. Pastikan Kiyo terbuka di sana.</string>
+    <string name="tv_menu_unreachable">Tidak bisa menjangkau %1$s. Pastikan FIZY terbuka di sana.</string>
     <string name="tv_menu_nothing_on">Tidak ada yang diputar</string>
     <string name="tv_link_open_now">Terbuka sekarang. Ketuk untuk memutuskan.</string>
     <string name="tv_link_control_title">Terbuka sekarang</string>
@@ -104,7 +104,7 @@
     <string name="tv_link_status_open">Terbuka sekarang</string>
     <string name="tv_link_status_open_synced">Terbuka sekarang · disinkronkan %1$s</string>
     <string name="tv_link_status_seen">Terakhir terbuka %1$s</string>
-    <string name="tv_link_status_waiting">Menunggu Kiyo dibuka di sana</string>
+    <string name="tv_link_status_waiting">Menunggu FIZY dibuka di sana</string>
     <string name="tv_link_status_connected">Terhubung ke %1$s</string>
     <string name="tv_link_status_connected_detail">Pustakamu selaras</string>
     <string name="tv_link_status_streaming">Streaming ke %1$s</string>

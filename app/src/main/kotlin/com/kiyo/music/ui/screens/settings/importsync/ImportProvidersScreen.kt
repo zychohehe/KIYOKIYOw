@@ -35,7 +35,7 @@ fun ImportProvidersScreen(
     // some file managers label .csv as text/plain or octet-stream, so don't filter too hard
     val backupPicker =
         rememberLauncherForActivityResult(ActivityResultContracts.OpenDocument()) { uri ->
-            if (uri != null) viewModel.loadFile(uri, sourceLabel = "Kiyo backup")
+            if (uri != null) viewModel.loadFile(uri, sourceLabel = "FIZY backup")
         }
 
     SubSettingsScaffold(
@@ -74,7 +74,7 @@ fun ImportProvidersScreen(
                 listOf(
                     SettingsItem(
                         title = { Text(stringResource(R.string.import_kiyo_backup_title)) },
-                        highlightKey = "Kiyo backup",
+                        highlightKey = "FIZY backup",
                         descriptionText = stringResource(R.string.import_kiyo_backup_desc),
                         icon = painterResource(R.drawable.backup),
                         iconShape = CircleShape,

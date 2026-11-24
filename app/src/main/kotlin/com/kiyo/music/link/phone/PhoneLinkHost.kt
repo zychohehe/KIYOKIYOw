@@ -150,7 +150,7 @@ class PhoneLinkHost @Inject constructor(
         advert = LinkAdvert(
             context,
             LinkWire.PhoneServiceType,
-            "Kiyo ${LinkIdentity.name(context)}",
+            "FIZY ${LinkIdentity.name(context)}",
             port,
             mapOf(
                 LinkWire.AttrId to LinkIdentity.id(context),

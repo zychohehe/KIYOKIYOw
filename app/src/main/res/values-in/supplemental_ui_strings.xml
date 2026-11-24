@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="supplemental_support_enjoying">Suka dengan Kiyo Music?</string>
-    <string name="supplemental_support_title">Dukung pengembangan Kiyo!</string>
-    <string name="supplemental_support_body">terima kasih sudah mencoba! btw, Kiyo Music akan selalu gratis, selamanya milikmu! &lt;3\n\nAkan sangat membantu kami kalau kamu mendukung pengembangnya, sekecil apa pun itu!! &lt;3\nmengikuti TikTok developer saja sudah cukup. dan terima kasih lagi!</string>
+    <string name="supplemental_support_enjoying">Suka dengan FIZY Music?</string>
+    <string name="supplemental_support_title">Dukung pengembangan FIZY!</string>
+    <string name="supplemental_support_body">terima kasih sudah mencoba! btw, FIZY Music akan selalu gratis, selamanya milikmu! &lt;3\n\nAkan sangat membantu kami kalau kamu mendukung pengembangnya, sekecil apa pun itu!! &lt;3\nmengikuti TikTok developer saja sudah cukup. dan terima kasih lagi!</string>
     <string name="supplemental_support_donate">Gabung channel!</string>
     <string name="supplemental_support_star">Ikuti TikTok!</string>
     <string name="supplemental_support_dismiss">usir para pengemis ini, Tidak!</string>
@@ -26,7 +26,7 @@
     <string name="supplemental_install_here">Pasang di sini</string>
     <string name="supplemental_update_open_web">Buka web</string>
     <string name="supplemental_update_snooze">ingatkan nanti</string>
-    <string name="supplemental_install_permission">Izinkan \"Pasang aplikasi tidak dikenal\" untuk kiyo, lalu ketuk Pasang di sini lagi.</string>
+    <string name="supplemental_install_permission">Izinkan \"Pasang aplikasi tidak dikenal\" untuk FIZY, lalu ketuk Pasang di sini lagi.</string>
     <string name="supplemental_featured_playlist">Playlist Pilihan</string>
     <string name="supplemental_featured_songs">Lagu pilihan</string>
     <string name="supplemental_artist_new_releases">Rilis baru mereka</string>
@@ -51,8 +51,8 @@
     <plurals name="supplemental_song_count">
         <item quantity="other">%1$d lagu</item>
     </plurals>
-    <string name="update_downloading_title">Mengunduh Kiyo %1$s</string>
-    <string name="update_ready_title">Kiyo %1$s siap dipasang</string>
+    <string name="update_downloading_title">Mengunduh FIZY %1$s</string>
+    <string name="update_ready_title">FIZY %1$s siap dipasang</string>
     <string name="update_ready_text">Ketuk untuk memasang pembaruan</string>
     <string name="update_skip_version">lewati versi ini</string>
 </resources>

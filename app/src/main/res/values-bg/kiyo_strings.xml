@@ -223,7 +223,7 @@
     <string name="enable_scrobbling">Активиране на скробълинг</string>
     <string name="lastfm_now_playing">Изпращане на данни за текущата песен</string>
     <string name="last_fm_send_likes">Изпращане на харесвания/нехаресвания</string>
-    <string name="last_fm_send_likes_description">Добавяне/премахване на любимо в Last.fm, когато харесате/премахнете песен в kiyo</string>
+    <string name="last_fm_send_likes_description">Добавяне/премахване на любимо в Last.fm, когато харесате/премахнете песен в FIZY</string>
     <string name="logging_in">Влизане…</string>
     <string name="scrobbling_configuration">Конфигурация на скробълинга</string>
     <string name="scrobble_min_track_duration">Песни от Scrobble, по-дълги от</string>

@@ -2,10 +2,10 @@
 <resources>
     <string name="about_support_me">Dukung developer ya :3 \u2192</string>
     <string name="about_app">Tentang aplikasi</string>
-    <string name="about_kiyo_music_version">Kiyo Music | %1$s</string>
-    <string name="about_app_description">Kiyo Music adalah aplikasi musik tapi\nlumayan keren.</string>
+    <string name="about_kiyo_music_version">FIZY Music | %1$s</string>
+    <string name="about_app_description">FIZY Music adalah aplikasi musik tapi\nlumayan keren.</string>
     <string name="about_actions">Aksi</string>
-    <string name="about_github">Github Kiyo Music \u2192</string>
+    <string name="about_github">Github FIZY Music \u2192</string>
     <string name="about_meet_lead_dev">Kenali pengembang utama</string>
     <string name="about_we_wont_exist">Kami tidak akan ada tanpa mereka</string>
     <string name="about_and_more">Dan lainnya \u2192</string>
@@ -28,7 +28,7 @@
     <string name="update_status_failed">Gagal memeriksa pembaruan</string>
     <string name="update_status_offline">Offline?</string>
     <string name="update_action_try_again">COBA LAGI</string>
-    <string name="update_install_permission_error">Izinkan \"Pasang aplikasi tidak dikenal\" untuk kiyo, lalu ketuk Pasang di sini lagi.</string>
+    <string name="update_install_permission_error">Izinkan \"Pasang aplikasi tidak dikenal\" untuk FIZY, lalu ketuk Pasang di sini lagi.</string>
     <string name="update_back_desc">Kembali</string>
     <string name="update_changelog">Catatan perubahan</string>
     <string name="update_to_be_installed">Akan Dipasang -</string>
@@ -102,6 +102,6 @@
     <string name="about_version_label">Versi %1$s</string>
     <string name="about_app_tagline">Pemutar musik yang bersih dan cepat. Gratis, tanpa iklan.</string>
     <string name="about_developer">Developer</string>
-    <string name="about_developer_role">Developer Kiyo Music</string>
+    <string name="about_developer_role">Developer FIZY Music</string>
     <string name="about_follow_tiktok">Ikuti di TikTok</string>
 </resources>

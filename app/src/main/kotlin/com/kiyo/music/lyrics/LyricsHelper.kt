@@ -20,6 +20,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.SupervisorJob
 import kotlinx.coroutines.async
+import kotlinx.coroutines.isActive
 import kotlinx.coroutines.awaitAll
 import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.withContext
@@ -545,7 +546,8 @@ constructor(
     ) {
         currentLyricsJob?.cancel()
 
-        val cacheKey = "$songArtists-$songTitle".replace(" ", "")
+        // keyed by the media id: a live or remix version with the same title and artist is a different recording
+        val cacheKey = "$mediaId|$songArtists|$songTitle"
         cache.get(cacheKey)?.let { results ->
             results.forEach {
                 callback(it)
@@ -577,13 +579,17 @@ constructor(
                             allResult += result
                             callback(result)
                         }
+                    } catch (e: CancellationException) {
+                        // the song changed: stop asking providers, this result is not for the song anymore
+                        throw e
                     } catch (e: Exception) {
 
                         reportException(e)
                     }
                 }
             }
-            cache.put(cacheKey, allResult)
+            // only a finished search is cached; a cancelled one would replay partial lyrics on every later play
+            if (isActive) cache.put(cacheKey, allResult)
         }
 
         currentLyricsJob?.join()

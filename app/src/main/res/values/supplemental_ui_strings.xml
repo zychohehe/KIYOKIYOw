@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="supplemental_support_enjoying">Enjoying Kiyo Music?</string>
-    <string name="supplemental_support_title">Support Kiyo’s development!</string>
-    <string name="supplemental_support_body">thanks for trying it out! btw, Kiyo Music will always be free, forever yours! &lt;3\n\nIt would be very useful for us if you support the developer, no matter how small it is!! &lt;3\nfollowing the developer on TikTok is enough. and thank you again!</string>
+    <string name="supplemental_support_enjoying">Enjoying FIZY Music?</string>
+    <string name="supplemental_support_title">Support FIZY’s development!</string>
+    <string name="supplemental_support_body">thanks for trying it out! btw, FIZY Music will always be free, forever yours! &lt;3\n\nIt would be very useful for us if you support the developer, no matter how small it is!! &lt;3\nfollowing the developer on TikTok is enough. and thank you again!</string>
     <string name="supplemental_support_donate">Join channel!</string>
     <string name="supplemental_support_star">Follow on TikTok!</string>
     <string name="supplemental_support_dismiss">get these beggar outta here, No!</string>
@@ -26,7 +26,7 @@
     <string name="supplemental_install_here">Install here</string>
     <string name="supplemental_update_open_web">Open the web</string>
     <string name="supplemental_update_snooze">remind me later</string>
-    <string name="supplemental_install_permission">Allow \"Install unknown apps\" for kiyo, then tap Install here again.</string>
+    <string name="supplemental_install_permission">Allow \"Install unknown apps\" for FIZY, then tap Install here again.</string>
     <string name="supplemental_featured_playlist">Featured Playlist</string>
     <string name="supplemental_featured_songs">Featured songs</string>
     <string name="supplemental_artist_new_releases">New from them</string>
@@ -53,8 +53,8 @@
         <item quantity="one">%1$d song</item>
         <item quantity="other">%1$d songs</item>
     </plurals>
-    <string name="update_downloading_title">Downloading Kiyo %1$s</string>
-    <string name="update_ready_title">Kiyo %1$s is ready to install</string>
+    <string name="update_downloading_title">Downloading FIZY %1$s</string>
+    <string name="update_ready_title">FIZY %1$s is ready to install</string>
     <string name="update_ready_text">Tap to install the update</string>
     <string name="update_skip_version">skip this version</string>
 </resources>

@@ -21,7 +21,7 @@
     <string name="onb_import">가져오기</string>
     <string name="onb_import_desc">Apple Music, Spotify, Tidal, YouTube Music 등 지원 서비스에서 음악, 재생목록 및 앨범 가져오기</string>
     <string name="onb_import_backup_title">백업에서 가져오기</string>
-    <string name="onb_import_backup_desc">Kiyo 백업이 있는 경우</string>
+    <string name="onb_import_backup_desc">FIZY 백업이 있는 경우</string>
     <string name="onb_all_set">준비 완료!</string>
     <string name="onb_bringing_over">음악을 옮기는 중</string>
     <string name="onb_restart_once">마무리를 위해 Kiyo가 한 번 다시 시작됩니다. 곧 만나요!</string>
@@ -72,7 +72,7 @@
     <string name="onb_sync_push_plays_title">재생 기록을 YouTube에 전송</string>
     <string name="onb_sync_push_plays_desc">여기에서 재생한 곡이 YouTube 기록에 표시됩니다</string>
     <string name="onb_sync_bring_history_title">YouTube 기록 가져오기</string>
-    <string name="onb_sync_bring_history_desc">다른 기기의 재생 내역을 Kiyo 기록에 추가합니다</string>
+    <string name="onb_sync_bring_history_desc">다른 기기의 재생 내역을 FIZY 기록에 추가합니다</string>
     <string name="onb_profile_title">프로필을 만들어 보세요!</string>
     <string name="onb_never_store">Kiyo는 사용자 데이터를 온라인에 저장하지 않습니다!</string>
     <string name="onb_username_prompt">사용자 이름은 무엇인가요?</string>

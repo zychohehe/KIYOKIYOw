@@ -24,6 +24,6 @@
     <string name="bedside_lock_ask_allow">Izinkan</string>
     <string name="bedside_lock_ask_later">Nanti saja</string>
     <string name="bedside_lock_blocked">Ponselmu memblokir ini</string>
-    <string name="bedside_lock_blocked_caption">Ketuk untuk mengaktifkan \"Tampilkan di layar kunci\" untuk Kiyo</string>
+    <string name="bedside_lock_blocked_caption">Ketuk untuk mengaktifkan \"Tampilkan di layar kunci\" untuk FIZY</string>
     <string name="bedside_lock_blocked_tag">PERBAIKI</string>
 </resources>

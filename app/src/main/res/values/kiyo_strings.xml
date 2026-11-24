@@ -371,14 +371,14 @@
     <string name="scrobble_account">Account</string>
     <string name="scrobble_sign_in_title">Sign in to %1$s</string>
     <string name="scrobble_sign_in_desc">Keep your listening history, stats and recommendations there</string>
-    <string name="scrobble_not_set_up">Not set up in this build of Kiyo</string>
+    <string name="scrobble_not_set_up">Not set up in this build of FIZY</string>
     <string name="scrobble_to">Scrobble to %1$s</string>
     <string name="scrobble_signed_in_as">Signed in as %1$s</string>
     <string name="scrobble_paused_signed_in_as">Paused. Signed in as %1$s</string>
     <string name="scrobble_open_profile">Open your profile</string>
     <string name="scrobble_open_profile_desc">Your scrobbles and stats on %1$s</string>
     <string name="scrobble_sign_out">Sign out</string>
-    <string name="scrobble_sign_out_desc">Kiyo stops scrobbling to %1$s</string>
+    <string name="scrobble_sign_out_desc">FIZY stops scrobbling to %1$s</string>
     <string name="scrobble_while_listening">While you listen</string>
     <string name="scrobble_now_playing">Now Playing</string>
     <string name="scrobble_now_playing_desc">Show the song you\'re on right now on your profile</string>
@@ -390,10 +390,10 @@
     </plurals>
     <string name="scrobble_plays_waiting_desc">They go out on their own once you\'re online. Tap to send now</string>
     <string name="scrobble_all_sent">All sent</string>
-    <string name="scrobble_send_later">Couldn\'t send them yet. Kiyo keeps trying whenever you\'re online.</string>
+    <string name="scrobble_send_later">Couldn\'t send them yet. FIZY keeps trying whenever you\'re online.</string>
     <string name="scrobble_signed_in">Signed in to %1$s as %2$s. Songs you play are scrobbled from now on.</string>
-    <string name="scrobble_signed_out">%1$s signed Kiyo out. Sign in again in Settings → Integrations to keep scrobbling.</string>
-    <string name="scrobble_sign_in_body">Use your %1$s username and password. Kiyo only keeps the sign-in key %1$s sends back, never your password.</string>
+    <string name="scrobble_signed_out">%1$s signed FIZY out. Sign in again in Settings → Integrations to keep scrobbling.</string>
+    <string name="scrobble_sign_in_body">Use your %1$s username and password. FIZY only keeps the sign-in key %1$s sends back, never your password.</string>
     <string name="scrobble_username_hint">Your %1$s username</string>
     <string name="scrobble_password_hint">Your %1$s password</string>
     <string name="scrobble_sign_in_button">Sign in</string>
@@ -408,7 +408,7 @@
     <string name="enable_scrobbling">Enable scrobbling</string>
     <string name="lastfm_now_playing">Send Now Playing</string>
     <string name="last_fm_send_likes">Send Likes/Unlikes</string>
-    <string name="last_fm_send_likes_description">Love/Unlove songs in Last.fm when they are Liked/Unliked in kiyo</string>
+    <string name="last_fm_send_likes_description">Love/Unlove songs in Last.fm when they are Liked/Unliked in FIZY</string>
     <string name="logging_in">Logging in…</string>
 
     <string name="scrobbling_configuration">Scrobbling Configuration</string>
@@ -449,7 +449,7 @@
     <string name="karaoke">Karaoke</string>
     <string name="apple_music_style">Apple Music</string>
     <string name="apple_music_style_letter">Apple Music V2 (Letter by Letter)</string>
-    <string name="kiyo_1">kiyo (Fluid)</string>
+    <string name="kiyo_1">FIZY (Fluid)</string>
     <string name="apple_music_lyrics_blur">Apple Music Lyrics Blur</string>
     <string name="apple_music_lyrics_blur_desc">Apply blur to inactive lyrics lines for a premium focus effect</string>
     <string name="lyrics_v2_fluid">Lyrics V2 (Fluid)</string>
@@ -479,19 +479,19 @@
     <string name="wrapped_total_artists_subtitle">unique artists</string>
     <string name="wrapped_total_songs_title">You listened to</string>
     <string name="wrapped_total_songs_subtitle">unique songs</string>
-    <string name="wrapped_intro_title">kiyo</string>
+    <string name="wrapped_intro_title">FIZY</string>
     <string name="wrapped_intro_subtitle">it\'s time to see what you\'ve been listening to</string>
     <string name="wrapped_intro_button">let\'s go!</string>
-    <string name="wrapped_end_thanks">Thanks for listening with kiyo!</string>
+    <string name="wrapped_end_thanks">Thanks for listening with FIZY!</string>
     <string name="wrapped_end_create_playlist">Create Your Wrapped Playlist</string>
     <string name="wrapped_end_creating_playlist">Creating...</string>
     <string name="wrapped_end_playlist_saved">Playlist Saved</string>
-    <string name="wrapped_logo_content_description">kiyo Logo</string>
+    <string name="wrapped_logo_content_description">FIZY Logo</string>
     <string name="wrapped_year">2025</string>
     <string name="wrapped_ready_title">YOUR WRAPPED IS READY!</string>
     <string name="wrapped_ready_subtitle">Time to see what you loved this year.</string>
     <string name="wrapped_thank_you">Thank you for listening</string>
-    <string name="wrapped_special_thanks">Special thanks to kiyodh for creating kiyo</string>
+    <string name="wrapped_special_thanks">Special thanks to kiyodh for creating FIZY</string>
     <string name="wrapped_close">Close wrapped</string>
     <string name="wrapped_playlist_title">Your %s Wrapped</string>
     <string name="wrapped_create_playlist">Create playlist</string>
@@ -530,7 +530,7 @@
     <string name="eq_label_mid">Mids</string>
     <string name="eq_label_treble">Treble</string>
     <string name="eq_preset_flat">Flat</string>
-    <string name="eq_preset_kiyo_signature">kiyo Signature</string>
+    <string name="eq_preset_kiyo_signature">FIZY Signature</string>
     <string name="eq_preset_acoustic">Acoustic</string>
     <string name="eq_preset_spatial">3D Stage</string>
     <string name="eq_preset_bass_boost">Bass Boost</string>
@@ -549,7 +549,7 @@
     <string name="eq_preset_dirac_game">Dirac Game</string>
     <string name="eq_enable_title">kiyoEqualizer</string>
     <string name="eq_enable_summary">Toggle professional audio processing</string>
-    <string name="eq_label_kiyo">kiyo Signature</string>
+    <string name="eq_label_kiyo">FIZY Signature</string>
     <string name="eq_label_dolby">Dolby Atmos</string>
     <string name="eq_label_dirac">Dirac Audio</string>
     <string name="eq_reset">Reset</string>
@@ -567,9 +567,9 @@
     <string name="plays">plays</string>
     <string name="casting_to">Casting to %s</string>
     <string name="progress_percent">Progress %s%%</string>
-    <string name="listening_to_kiyo">Listening to kiyo</string>
+    <string name="listening_to_kiyo">Listening to FIZY</string>
     <string name="listen_on_youtube_music">Listen on YouTube Music</string>
-    <string name="visit_kiyo">Visit kiyo</string>
+    <string name="visit_kiyo">Visit FIZY</string>
     <string name="open">Open</string>
     <string name="failed_to_create_image">Failed to create image: %s</string>
     <string name="copied_title">Copied Title</string>
@@ -586,13 +586,13 @@
     <!-- Widget strings -->
     <string name="album_art">Album art</string>
     <string name="no_song_playing">No song playing</string>
-    <string name="tap_to_open">Tap to open kiyo</string>
+    <string name="tap_to_open">Tap to open FIZY</string>
     <string name="previous">Previous</string>
     <string name="play_pause">Play/Pause</string>
     <string name="next">Next</string>
     <string name="like">Like</string>
     <string name="not_playing">No song playing</string>
-    <string name="tap_to_play">Tap to open kiyo</string>
+    <string name="tap_to_play">Tap to open FIZY</string>
     <string name="widget_description">Music player widget with playback controls</string>
     <string name="queue_widget_description">Music player with queue preview</string>
     <string name="turntable_widget_description">Circular music widget with play and like controls</string>
@@ -704,7 +704,7 @@
     <string name="crash_share_logs">Share Logs</string>
     <string name="copy_logs">Copy Logs</string>
     <string name="crash_share_title">Share crash report</string>
-    <string name="crash_report_subject">kiyo Crash Report</string>
+    <string name="crash_report_subject">FIZY Crash Report</string>
     <string name="crash_close">Close</string>
     <string name="crash_no_log">No crash log available</string>
 
@@ -756,7 +756,7 @@
     <string name="delete_from_history">Delete from history</string>
     <string name="re_listen">Re-listen</string>
     <string name="hold_to_recognize">Hold search icon to recognize music</string>
-    <string name="play_on_app">Play on kiyo</string>
+    <string name="play_on_app">Play on FIZY</string>
     <string name="recognized_track">Recognized Track</string>
 
     <!-- CSV Import Strings -->
@@ -795,14 +795,14 @@
     <string name="discord_clear_on_pause">Clear status when paused</string>
     <string name="discord_clear_on_pause_desc">Takes the song off your profile as soon as you pause, and puts it back when you play again.</string>
     <string name="discord_login_note">Opens Discord\'s own login page in your browser. Your password stays with Discord.</string>
-    <string name="discord_permissions_note">Discord\'s page also lists your friends and invites, because they come bundled with status sharing. Kiyo only reads your name and picture, and shows what you\'re playing.</string>
+    <string name="discord_permissions_note">Discord\'s page also lists your friends and invites, because they come bundled with status sharing. FIZY only reads your name and picture, and shows what you\'re playing.</string>
     <string name="discord_button_text_variables">Variables: {song_name}, {artist_name}, {album_name}</string>
     <string name="discord_rpc_preview">Rich Presence Preview</string>
     <string name="discord_presence">Presence</string>
     <string name="discord_connect_description">Sign in with Discord to share what you\'re listening to</string>
-    <string name="discord_playing_kiyo">Playing kiyo</string>
-    <string name="discord_watching_kiyo">Watching kiyo</string>
-    <string name="discord_competing_kiyo">Competing in kiyo</string>
+    <string name="discord_playing_kiyo">Playing FIZY</string>
+    <string name="discord_watching_kiyo">Watching FIZY</string>
+    <string name="discord_competing_kiyo">Competing in FIZY</string>
     <string name="discord_activity_name">Activity name</string>
     <string name="discord_activity_name_description">Custom name for the activity (leave empty for default)</string>
     <string name="discord_advanced_mode">Advanced mode</string>
@@ -863,7 +863,7 @@
     <!-- Onboarding -->
     <string name="welcome_to">Welcome to</string>
     <string name="welcome_lets_listen">Let\'s start listening!</string>
-    <string name="welcome_finale">Welcome to Kiyo Music</string>
+    <string name="welcome_finale">Welcome to FIZY Music</string>
     <string name="welcome_start">Get started</string>
     <string name="welcome_tap_anywhere">Tap anywhere to continue</string>
     <!-- "welcome" in twenty languages drifting behind the welcome page, the same in every language on purpose -->
@@ -893,7 +893,7 @@
 
     <string name="perm_required">Required</string>
     <string name="perm_permissions">Permissions</string>
-    <string name="perm_intro_text">These permissions are required for kiyo to function correctly. Please grant them to proceed.</string>
+    <string name="perm_intro_text">These permissions are required for FIZY to function correctly. Please grant them to proceed.</string>
 
     <string name="perm_notif_title">Notifications</string>
     <string name="perm_notif_desc">Know immediately when your music is playing and control it from the notification bar.</string>
@@ -903,7 +903,7 @@
 
     <string name="feat_discover">Discover</string>
     <string name="feat_features">Features</string>
-    <string name="feat_intro">Explore everything kiyo has to offer for your music journey.</string>
+    <string name="feat_intro">Explore everything FIZY has to offer for your music journey.</string>
 
     <string name="feat_lyrics_title">Smart Lyrics</string>
     <string name="feat_lyrics_desc">Enjoy synchronized, word-by-word lyrics for millions of songs.</string>
@@ -927,7 +927,7 @@
     <string name="welcome_update_status">Updated</string>
     <string name="welcome_update_intro">Ensuring you have the latest features and security improvements.</string>
     <string name="welcome_checking_updates">Checking for updates…</string>
-    <string name="welcome_up_to_date">kiyo is up to date!</string>
+    <string name="welcome_up_to_date">FIZY is up to date!</string>
     <string name="welcome_update_available">New version is available: %s</string>
     <string name="welcome_everything_ready">Everything is now up to date</string>
     <string name="commits_title">Commits</string>
@@ -1171,8 +1171,8 @@
     <!-- crossmix: the dj-style transition and how the listener can shape it -->
     <string name="crossmix_desc">DJ-style: reads each song\'s tempo, beats, key, energy and where its voice is, then picks the transition that fits and locks the two on the beat, so two voices never sing over each other</string>
     <string name="crossmix_style_title">Transition</string>
-    <string name="crossmix_style_desc">Let Kiyo pick the one that fits each pair, or hear the same one every time</string>
-    <string name="crossmix_style_auto">Let Kiyo choose</string>
+    <string name="crossmix_style_desc">Let FIZY pick the one that fits each pair, or hear the same one every time</string>
+    <string name="crossmix_style_auto">Let FIZY choose</string>
     <string name="crossmix_style_choose">Choose a transition</string>
     <string name="crossmix_length_title">Length</string>
     <string name="crossmix_length_desc">How long the two songs play together. Long blends need two songs that lock on the beat.</string>
@@ -1211,7 +1211,7 @@
     <string name="speed_only_this_song_detail">%1$s keeps this speed and pitch. Other songs play as usual.</string>
     <string name="discord_custom_pick">Choose a picture</string>
     <string name="discord_custom_change">Change picture</string>
-    <string name="discord_custom_note">Discord only shows pictures from the web, so Kiyo puts yours on a free file host and shows it from there.</string>
+    <string name="discord_custom_note">Discord only shows pictures from the web, so FIZY puts yours on a free file host and shows it from there.</string>
     <string name="discord_custom_failed">Couldn\'t use that picture. Try another one.</string>
     <string name="search_in_playlist">Search in this playlist…</string>
     <string name="search_in_album">Search in this album…</string>
@@ -1230,11 +1230,11 @@
     <string name="recent_search_playlist">Playlist · %1$s</string>
     <string name="recent_search_artist">Artist</string>
     <string name="recent_search_remove">Remove from recent searches</string>
-    <string name="floating_lyrics_open">Open Kiyo</string>
+    <string name="floating_lyrics_open">Open FIZY</string>
     <string name="floating_lyrics_close">Close</string>
     <string name="floating_lyrics_never">Don\'t show again</string>
     <string name="floating_lyrics_turned_off">Floating lyrics are off. You can turn them back on in Settings.</string>
-    <string name="floating_lyrics_permission">Let Kiyo show over other apps so the lyrics can float</string>
+    <string name="floating_lyrics_permission">Let FIZY show over other apps so the lyrics can float</string>
     <string name="swipe_action_library">Add or remove from library</string>
     <string name="swipe_action_details">View details</string>
     <string name="menu_ai_translation">AI translation</string>

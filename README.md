@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="docs/assets/img/logo.svg" alt="Kiyo logo" width="96" height="96" />
+<img src="docs/assets/img/logo.svg" alt="FIZY logo" width="96" height="96" />
 
-# Kiyo · 清
+# FIZY · 清
 
 🌸 <sub>きよ · 澄んだ音、静かな時間</sub> 🌸
 
@@ -48,11 +48,11 @@ open source, packed with features, and it doesn't collect your data.
 </div>
 
 > [!WARNING]
-> Kiyo is still in beta, expect some bugs. Reporting them is super useful!
+> FIZY is still in beta, expect some bugs. Reporting them is super useful!
 
 ---
 
-## What's new in Kiyo 5.6.0
+## What's new in FIZY 5.6.0
 
 <sub>New look · Los Angeles</sub>
 
@@ -64,20 +64,20 @@ open source, packed with features, and it doesn't collect your data.
 
 ---
 
-## What's new in Kiyo 5.5.0
+## What's new in FIZY 5.5.0
 
 <sub>新着 · shinchaku</sub>
 
-- **A new name.** The app is now **Kiyo**, renamed everywhere you can see it.
+- **A new name.** The app is now **FIZY**, renamed everywhere you can see it.
 - **Japanese vibes.** A vermilion (朱色) icon with the white **K** stamp, and a little Japanese in the welcome line.
 - **A new logo.** A clean **K** mark, used for the launcher icon, themed icon, splash screen, navigation and notifications.
-- **A new package id.** Kiyo installs as `com.kiyo.music`, so it sits next to the old app as a separate install.
+- **A new package id.** FIZY installs as `com.kiyo.music`, so it sits next to the old app as a separate install.
 - **A cleaner profile.** The developer card now just says *developer*, with a fresh avatar.
 - **Plain version numbers.** Versions show only the number (like `5.5.0`), without the `build` text.
 - **Smoother scrolling.** Lists and grids across the app share one glide-style fling, so a flick coasts further and eases out evenly. The feel is tuned by a single value, `GlideFriction`.
 
 > [!NOTE]
-> Because the package id changed, Kiyo does not share data with the old app. Make a backup in the old app first if you want to move your library.
+> Because the package id changed, FIZY does not share data with the old app. Make a backup in the old app first if you want to move your library.
 
 ---
 
@@ -106,12 +106,12 @@ open source, packed with features, and it doesn't collect your data.
 1. On your phone, open the [latest release](https://github.com/zychohehe/Mochy-Music/releases/latest).
 2. Download the `.apk` that matches your phone. Not sure? Pick **arm64**, that is almost every phone from the last 8 years. The **universal** one works everywhere but is bigger.
 3. Open the downloaded file. Android will ask you to allow installs from your browser or file manager, say yes (you can turn it off again after).
-4. Open Kiyo. You are done, no account needed to start listening.
+4. Open FIZY. You are done, no account needed to start listening.
 
 Updating works the same way: install the new apk over the old one and your library stays.
 
 > [!TIP]
-> Only download Kiyo from the releases page of this repo. A random mediafire or telegram link could be a modified app, and then your logins would not be safe, pls avoid those.
+> Only download FIZY from the releases page of this repo. A random mediafire or telegram link could be a modified app, and then your logins would not be safe, pls avoid those.
 
 > [!NOTE]
 > Android 7 is supported unofficially.
@@ -164,12 +164,12 @@ Updating works the same way: install the new apk over the old one and your libra
 <summary><b>Is it safe to log in?</b> (read this before signing in)</summary>
 <br/>
 
-You never have to log in to use Kiyo. Search, play, lyrics and downloads work without an account. Signing in is only for syncing your YouTube Music library, importing playlists from Spotify / Apple Music / Tidal, and Discord status.
+You never have to log in to use FIZY. Search, play, lyrics and downloads work without an account. Signing in is only for syncing your YouTube Music library, importing playlists from Spotify / Apple Music / Tidal, and Discord status.
 
 **How the sign-in works**
-- Kiyo opens the real login page of the service (for example accounts.google.com or open.spotify.com) inside the app. You type your password into **their** page, not into a Kiyo form.
+- FIZY opens the real login page of the service (for example accounts.google.com or open.spotify.com) inside the app. You type your password into **their** page, not into a FIZY form.
 - After you log in, the app keeps the session token or cookie that the service gives out, so you stay signed in. Your password is not what gets saved.
-- That session stays on your phone, in the app's private storage. Kiyo has no account system of its own and does not run a server that collects logins.
+- That session stays on your phone, in the app's private storage. FIZY has no account system of its own and does not run a server that collects logins.
 - The tokens are meant to be used only to talk to the service you signed in to (for example Spotify's own site to read your playlists).
 - The app is open source under GPL-3.0, so you do not have to take my word for it, you can read exactly what it does with them :)
 
@@ -277,7 +277,7 @@ Use **debug** while you are playing around, it builds much faster. A debug build
 
 ### Optional keys
 
-Kiyo builds fine without these, only the matching feature is switched off. Put them in `local.properties` (it is never committed):
+FIZY builds fine without these, only the matching feature is switched off. Put them in `local.properties` (it is never committed):
 
 ```properties
 LASTFM_API_KEY=...
@@ -310,12 +310,12 @@ Found a bug or have an idea? Open an [issue](https://github.com/zychohehe/Mochy-
 
 ## Disclaimer
 
-Kiyo is an independent, unofficial project made for personal and educational use. It is provided as is, without warranty of any kind.
+FIZY is an independent, unofficial project made for personal and educational use. It is provided as is, without warranty of any kind.
 
-- Kiyo is a fully open source project that is created purely for educationa and personal use. thats why, we dont sell this software, or monetize it. we do not have any intent to add commercial values in the future. thanks!
-- And were deeply respect the hardwork of artist musicians ajd contwnt creators. without them there is also no kiyo: i strongly suggest that you, as user, subscribe to Apple music or youtube premium, to support the creators you listen. I do not intend to hurt creator with this app.
+- FIZY is a fully open source project that is created purely for educationa and personal use. thats why, we dont sell this software, or monetize it. we do not have any intent to add commercial values in the future. thanks!
+- And were deeply respect the hardwork of artist musicians ajd contwnt creators. without them there is also no FIZY: i strongly suggest that you, as user, subscribe to Apple music or youtube premium, to support the creators you listen. I do not intend to hurt creator with this app.
 - It is **not affiliated with, endorsed by, or sponsored by** YouTube, YouTube Music, Google, Spotify, Apple, Last.fm, Shazam, Discord or any other service it can connect to. All names, logos and brands belong to their respective owners.
-- Kiyo does not host, store or distribute any music. Everything is fetched from third-party services when you ask for it, and those services can change or stop working at any time.
+- FIZY does not host, store or distribute any music. Everything is fetched from third-party services when you ask for it, and those services can change or stop working at any time.
 - You are responsible for how you use the app, including the terms of service of the accounts and services you connect and the copyright laws where you live.
 - Importing from other services (Spotify, etc.) uses your own account. Don't share your login data or tokens with anyone.
 - Importing music MAY need your own account with its password. WE'RE NEVER see your password.
@@ -334,7 +334,7 @@ Forks are welcome, that's what open source is for! Just two asks:
 
 ---
 
-## These incredible project helped kiyo a lot! check them out too :3
+## These incredible project helped FIZY a lot! check them out too :3
 
 - **ViviMusic** by [vivizzz007Z](https://github.com/vivizzz007Z) )[Their repo](https://github.com/vivizzz007/vivi-music)) -- For the base app. This app is a fork from this project.
 - **Metrolist** by [Mostafa Alagamy](https://github.com/mostafaalagamy) ([Repository](https://github.com/mostafaalagamy/Metrolist)) -- For the base framework.
@@ -350,7 +350,7 @@ Forks are welcome, that's what open source is for! Just two asks:
 
 ---
 
-## Open source APIs kiyo talks to!!
+## Open source APIs FIZY talks to!!
 
 These are the open source apis and server we get gets its lyrics, streams and data from. They r free for everyone because of these good people, so go give them a star!
 

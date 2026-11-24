@@ -2,9 +2,9 @@
 <resources>
     <string name="tv_hii">안녕하세요!</string>
     <string name="tv_tap_anything">아무 버튼이나 눌러 계속하세요</string>
-    <string name="tv_welcome">Kiyo Music에\n오신 것을 환영합니다</string>
+    <string name="tv_welcome">FIZY Music에\n오신 것을 환영합니다</string>
     <string name="tv_lets_sync">휴대전화와 동기화해 보세요</string>
-    <string name="tv_skip_phone">휴대전화 없이 Kiyo 사용</string>
+    <string name="tv_skip_phone">휴대전화 없이 FIZY 사용</string>
     <string name="tv_whats_your_name">어떤 이름으로 부를까요?</string>
     <string name="tv_continue">계속</string>
     <string name="tv_whos_listening">누가 듣고 있나요?</string>
@@ -85,7 +85,7 @@
         <item quantity="one">이 TV로 곡 1개를 복사하는 중…</item>
         <item quantity="other">이 TV로 %d곡을 복사하는 중…</item>
     </plurals>
-    <string name="tv_link_title">TV에서 사용하는 Kiyo</string>
+    <string name="tv_link_title">TV에서 사용하는 FIZY</string>
     <string name="tv_link_tap_to_unlink">연결됨. 탭하여 연결을 해제하세요.</string>
     <string name="tv_link_found">이 Wi-Fi의 TV</string>
     <string name="tv_link_enter_code">%1$s에 표시된 코드를 입력하세요</string>
@@ -93,14 +93,14 @@
     <string name="tv_link_pair">연결</string>
     <string name="tv_link_pairing">연결 중…</string>
     <string name="tv_link_channel">TV 연결</string>
-    <string name="tv_kiyo">Kiyo</string>
+    <string name="tv_kiyo">FIZY</string>
     <string name="tv_kiyo_version">버전 %1$s</string>
     <string name="tv_kiyo_link_phone">휴대전화를 연결해 보관함을 가져오세요</string>
     <string name="tv_kiyo_phone_control">휴대전화에서 이 TV 제어</string>
     <string name="tv_on">켜짐</string>
     <string name="tv_off">꺼짐</string>
     <string name="tv_kiyo_updates">업데이트</string>
-    <string name="tv_kiyo_support">Kiyo 후원</string>
+    <string name="tv_kiyo_support">FIZY 후원</string>
     <string name="tv_kiyo_support_detail">개발이 계속될 수 있도록 도와주세요</string>
     <string name="tv_playing_next">다음 재생</string>
     <string name="tv_queue_empty">이 곡 다음에 대기 중인 곡이 없습니다</string>

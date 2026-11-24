@@ -42,7 +42,7 @@
     <string name="song_edit_year">Tahun</string>
     <string name="song_edit_year_hint">Tahun rilis</string>
     <string name="song_edit_video">Video</string>
-    <string name="song_edit_video_auto">Ditemukan oleh Kiyo</string>
+    <string name="song_edit_video_auto">Ditemukan oleh FIZY</string>
     <string name="song_edit_video_picked">Dipilih olehmu</string>
     <string name="song_edit_video_none">Tanpa video</string>
     <string name="song_edit_saving">Menyimpan…</string>
@@ -53,7 +53,7 @@
     <string name="video_pick_title">Pilih video</string>
     <string name="video_pick_subtitle">Videonya salah? Atau tidak ada?</string>
     <string name="video_pick_search">Cari video YouTube</string>
-    <string name="video_pick_auto">Biarkan Kiyo mencarinya</string>
+    <string name="video_pick_auto">Biarkan FIZY mencarinya</string>
     <string name="video_pick_auto_desc">Video resmi, jika ada</string>
     <string name="video_pick_none">Tanpa video</string>
     <string name="video_pick_none_desc">Lagu ini hanya menampilkan sampulnya</string>

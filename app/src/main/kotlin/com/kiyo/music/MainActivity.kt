@@ -1587,7 +1587,7 @@ class MainActivity : ComponentActivity() {
                 }
             }
             com.kiyo.music.ui.component.TopToaster.show(
-                if (done == 0) "Couldn't import that" else "Imported $done song${if (done != 1) "s" else ""} to Kiyo",
+                if (done == 0) "Couldn't import that" else "Imported $done song${if (done != 1) "s" else ""} to FIZY",
             )
         }
         return true

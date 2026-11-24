@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_app">앱 정보</string>
-    <string name="about_kiyo_music_version">Kiyo Music | %1$s</string>
-    <string name="about_app_description">Kiyo Music은 조금 멋진\n음악 앱입니다.</string>
+    <string name="about_kiyo_music_version">FIZY Music | %1$s</string>
+    <string name="about_app_description">FIZY Music은 조금 멋진\n음악 앱입니다.</string>
     <string name="about_actions">작업</string>
     <string name="about_support_me">후원해 주세요 :3 \u2192</string>
-    <string name="about_github">Kiyo Music GitHub \u2192</string>
+    <string name="about_github">FIZY Music GitHub \u2192</string>
     <string name="about_meet_lead_dev">대표 개발자 소개</string>
     <string name="about_we_wont_exist">이분들이 있어 Kiyo가 존재합니다</string>
     <string name="about_and_more">더보기 \u2192</string>

@@ -199,7 +199,7 @@
     <string name="ps_action_download">Unduh</string>
     <string name="ps_action_add_to_playlist">Tambah ke playlist</string>
     <string name="ps_extras_screen_can_sleep">Layar bisa tidur lagi</string>
-    <string name="ps_extras_screen_stays_on">Layar tetap menyala selama Kiyo terbuka</string>
+    <string name="ps_extras_screen_stays_on">Layar tetap menyala selama FIZY terbuka</string>
     <string name="ps_extras_download_removed">Unduhan dihapus</string>
     <string name="ps_extras_download_stopped">Unduhan dihentikan</string>
     <string name="ps_extras_downloading">Mengunduh \"%1$s\"</string>

@@ -127,7 +127,7 @@ private fun ColumnScope.AboutSheetContent(popup: PopupSheetState) {
             AboutBannerVideo(modifier = Modifier.fillMaxWidth())
             Spacer(Modifier.height(16.dp))
             Text(
-                text = "Kiyo Music",
+                text = "FIZY Music",
                 fontSize = 32.sp,
                 lineHeight = 36.sp,
                 fontWeight = FontWeight.Bold,

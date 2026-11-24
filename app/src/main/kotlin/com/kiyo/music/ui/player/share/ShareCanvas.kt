@@ -99,7 +99,7 @@ internal fun KiyoMark(color: Color, size: Float = 14f) {
             modifier = Modifier.size((size + 2f).dp),
         )
         Spacer(Modifier.width(6.dp))
-        Text("Kiyo", style = shareText(size, color = color, tracking = -0.4f))
+        Text("FIZY", style = shareText(size, color = color, tracking = -0.4f))
     }
 }
 

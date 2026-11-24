@@ -16,7 +16,7 @@
     <string name="experimental_force_yt_blur_desc">Menimpa bawaan 120 px; bisa menambah beban GPU</string>
     <string name="experimental_force_recap_title">Paksa tampilkan rekap bulanan</string>
     <string name="experimental_force_recap_desc">Buka rekap lebih awal</string>
-    <string name="experimental_force_recap_detail">Buka rekap di balik kartu Kiyo sekarang, sebelum tanggal 3 atau 10 lagu</string>
+    <string name="experimental_force_recap_detail">Buka rekap di balik kartu FIZY sekarang, sebelum tanggal 3 atau 10 lagu</string>
     <string name="experimental_big_disc_title">Gaya sampul piringan besar</string>
     <string name="experimental_big_disc_desc">Belum selesai — piringan raksasa yang keluar dari layar</string>
     <string name="experimental_music_haptics_title">Haptik musik</string>
@@ -40,7 +40,7 @@
     <string name="cipher_status_not_loaded">Belum dimuat</string>
     <string name="cipher_status_stale">Usang — disegarkan pada pemutaran berikutnya</string>
     <string name="cipher_status_ready">Siap</string>
-    <string name="cipher_card_description">YouTube menandatangani URL stream-nya dengan skrip pemutar yang berubah secara berkala. kiyo menyimpan skrip itu di cache dan mengunduhnya ulang secara otomatis.</string>
+    <string name="cipher_card_description">YouTube menandatangani URL stream-nya dengan skrip pemutar yang berubah secara berkala. FIZY menyimpan skrip itu di cache dan mengunduhnya ulang secara otomatis.</string>
     <string name="cipher_player_id">ID pemutar</string>
     <string name="cipher_last_updated">Terakhir diperbarui</string>
     <string name="cipher_script_size">Ukuran skrip</string>
@@ -107,10 +107,10 @@
     <string name="discord_no_browser_toast">Tidak ada browser untuk membuka halaman login Discord.</string>
     <string name="discord_settings_title">Discord</string>
     <string name="discord_subtitle_rich_presence">Status aktivitas di profilmu</string>
-    <string name="discord_status_not_configured">Belum disiapkan di build Kiyo ini</string>
+    <string name="discord_status_not_configured">Belum disiapkan di build FIZY ini</string>
     <string name="discord_status_signing_in">Sedang masuk…</string>
     <string name="discord_status_login_below">Masuk di bawah untuk mengaktifkannya</string>
-    <string name="discord_status_off">Mati, jadi profilmu tidak menampilkan apa pun dari Kiyo</string>
+    <string name="discord_status_off">Mati, jadi profilmu tidak menampilkan apa pun dari FIZY</string>
     <string name="discord_status_live">Ada di profilmu sekarang</string>
     <string name="discord_status_connecting">Menghubungkan ke Discord…</string>
     <string name="discord_status_retrying">Tidak bisa menjangkau Discord. Mencoba lagi…</string>
@@ -147,7 +147,7 @@
     <string name="discord_cd_close">Tutup</string>
     <string name="discord_spin_full_turn">Satu putaran penuh</string>
     <string name="discord_spin_smoothness">Kehalusan</string>
-    <string name="discord_spin_note">Berputar terus. Discord hanya bisa menampilkan gambar dari web, jadi Kiyo membuat GIF dari sampulnya dan menaruhnya di host file gratis (uguu.se, yang menghapusnya setelah tiga jam). Putaran yang lebih lambat dan halus membuat GIF lebih besar yang butuh waktu sedikit lebih lama untuk tampil; sampul diam menggantikannya sementara. 50 fps adalah yang paling halus yang bisa diputar GIF.</string>
+    <string name="discord_spin_note">Berputar terus. Discord hanya bisa menampilkan gambar dari web, jadi FIZY membuat GIF dari sampulnya dan menaruhnya di host file gratis (uguu.se, yang menghapusnya setelah tiga jam). Putaran yang lebih lambat dan halus membuat GIF lebih besar yang butuh waktu sedikit lebih lama untuk tampil; sampul diam menggantikannya sementara. 50 fps adalah yang paling halus yang bisa diputar GIF.</string>
     <string name="discord_placeholder_list_title">Daftar placeholder</string>
     <string name="discord_placeholder_example_title">Misalnya, nama aktivitas ini</string>
     <string name="discord_placeholder_shows_up_as">tampil sebagai</string>
@@ -159,7 +159,7 @@
     <string name="discord_image_artwork">Sampul musik</string>
     <string name="discord_image_artist">Gambar artis</string>
     <string name="discord_image_playback_status">Status pemutaran</string>
-    <string name="discord_image_app_logo">Logo Kiyo</string>
+    <string name="discord_image_app_logo">Logo FIZY</string>
     <string name="discord_image_spinning_artist">Gambar artis berputar</string>
     <string name="discord_image_spinning_artwork">Sampul musik berputar</string>
     <string name="discord_image_custom">Gambarmu sendiri</string>
@@ -168,7 +168,7 @@
     <string name="discord_image_canvas_or_apple">Spotify Canvas atau Sampul Animasi Apple Music</string>
     <string name="discord_canvas_smoothness">Kehalusan</string>
     <string name="discord_canvas_size">Ukuran gambar</string>
-    <string name="discord_canvas_note">Discord tidak bisa memutar video, jadi Kiyo membuat GIF berulang darinya dan menaruhnya di host file gratis (uguu.se, yang menghapusnya setelah tiga jam). fps lebih tinggi dan gambar lebih besar membuat GIF lebih besar yang butuh waktu lebih lama untuk tampil, dan sampul diam menggantikannya sementara. GIF di atas 4 MB kehilangan setiap frame selang-seling. Jika lagu berakhir sebelum selesai, GIF terus dibuat di latar belakang agar siap lain kali.</string>
+    <string name="discord_canvas_note">Discord tidak bisa memutar video, jadi FIZY membuat GIF berulang darinya dan menaruhnya di host file gratis (uguu.se, yang menghapusnya setelah tiga jam). fps lebih tinggi dan gambar lebih besar membuat GIF lebih besar yang butuh waktu lebih lama untuk tampil, dan sampul diam menggantikannya sementara. GIF di atas 4 MB kehilangan setiap frame selang-seling. Jika lagu berakhir sebelum selesai, GIF terus dibuat di latar belakang agar siap lain kali.</string>
     <string name="discord_canvas_idle">Progres muncul di sini saat GIF sedang dibuat</string>
     <string name="discord_canvas_making">Membuat GIF untuk %1$s</string>
     <string name="discord_canvas_ready">GIF siap untuk %1$s</string>
@@ -186,11 +186,11 @@
     <string name="discord_target_spotify">Spotify</string>
     <string name="discord_target_apple_music">Apple Music</string>
     <string name="discord_target_tidal">Tidal</string>
-    <string name="discord_target_kiyo">Kiyo di GitHub</string>
+    <string name="discord_target_kiyo">FIZY di GitHub</string>
     <string name="discord_ph_name">Nama lagu</string>
     <string name="discord_ph_artist">Nama artis</string>
     <string name="discord_ph_album">Album</string>
-    <string name="discord_ph_app">Kiyo</string>
+    <string name="discord_ph_app">FIZY</string>
     <string name="discord_ph_quality">Format dan bitrate, seperti OPUS · 160 kbps</string>
     <string name="discord_ph_apple">Logo Apple (hanya perangkat Apple yang bisa menampilkannya)</string>
     <string name="discord_enable_rich_presence">Aktifkan status aktivitas</string>

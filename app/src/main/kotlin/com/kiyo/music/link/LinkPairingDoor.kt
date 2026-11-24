@@ -52,7 +52,7 @@ internal class LinkPairingDoor(
         advert = LinkAdvert(
             context,
             LinkWire.PairServiceType,
-            "Kiyo $name",
+            "FIZY $name",
             port,
             mapOf(
                 LinkWire.AttrId to LinkIdentity.id(context),
