@@ -138,7 +138,7 @@
     <string name="modules_file_not_signed">This module runs its own code, so it has to be signed with the same key as your FIZY, and this copy isn\'t. Get the one made for your build of FIZY.</string>
     <string name="modules_code_broken">This module\'s code didn\'t start. It may be made for a different version of FIZY.</string>
     <string name="modules_github_no_release">That GitHub project hasn\'t published a release yet. Ask whoever made it to publish one with the module\'s .zip attached.</string>
-    <string name="modules_github_no_module">The newest release has no module in it. FIZY looks for a .zip with \"kiyomodule\" in its name, like glass.kiyomodule.zip.</string>
+    <string name="modules_github_no_module">The newest release has no module in it. FIZY looks for a .zip with \"fizymodule\" in its name, like glass.fizymodule.zip.</string>
     <string name="skin_customise_row">Customise %1$s</string>
     <string name="skin_customise_title">Customise</string>
     <string name="skin_audio_lossy">Lossy</string>
@@ -194,7 +194,7 @@
     <string name="module_browser_fetch_failed">Couldn\'t download %1$s. Try again in a bit.</string>
     <string name="module_browser_locked_note">%1$s is a paid module. Get it on FIZY\'s Bar, then come back and add it.</string>
     <string name="module_browser_sign_out">Sign out of the browser</string>
-    <!-- buttons and notes on a module's own pages, and on pages a module shows in place of Kiyo's -->
+    <!-- buttons and notes on a module's own pages, and on pages a module shows in place of FIZY's -->
     <string name="module_page_play">Play</string>
     <string name="module_page_shuffle">Shuffle</string>
     <string name="module_page_original">Open FIZY\'s page</string>

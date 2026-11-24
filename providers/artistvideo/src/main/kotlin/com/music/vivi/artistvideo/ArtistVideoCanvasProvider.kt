@@ -1,4 +1,4 @@
-package com.kiyo.music.artistvideo
+package com.fizy.music.artistvideo
 
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body

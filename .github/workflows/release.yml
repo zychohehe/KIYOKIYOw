@@ -185,9 +185,9 @@ jobs:
             echo "::warning title=Fallback signing key::KEYSTORE_BASE64 secret not set, so this release is signed with the public fallback key. Add KEYSTORE_BASE64, STORE_PASSWORD, KEY_ALIAS and KEY_PASSWORD in Settings > Secrets > Actions for an official release. Changing the key later makes existing installs unable to update in place."
             echo "No secrets set, using the fallback key in .github/signing (same key every build, so updates install over each other)"
             base64 -d .github/signing/release.keystore.b64 > app/keystore/release.keystore
-            echo "STORE_PASSWORD=mochyfork" >> "$GITHUB_ENV"
-            echo "KEY_ALIAS=mochy"          >> "$GITHUB_ENV"
-            echo "KEY_PASSWORD=mochyfork"   >> "$GITHUB_ENV"
+            echo "STORE_PASSWORD=fizyfork" >> "$GITHUB_ENV"
+            echo "KEY_ALIAS=FIZY"          >> "$GITHUB_ENV"
+            echo "KEY_PASSWORD=fizyfork"   >> "$GITHUB_ENV"
           fi
 
       - name: Build release APK
@@ -214,7 +214,7 @@ jobs:
         run: |
           mkdir -p dist
           APK=$(ls app/build/outputs/apk/universalFoss/release/*.apk | head -1)
-          cp "$APK" "dist/Kiyo_v${{ needs.meta.outputs.version }}_build${{ needs.meta.outputs.build }}_universal.apk"
+          cp "$APK" "dist/Fizy_v${{ needs.meta.outputs.version }}_build${{ needs.meta.outputs.build }}_universal.apk"
           ls -lh dist
 
       # archive: false uploads the APK as it is, so the Actions page gives you the .apk itself and not a zip around it

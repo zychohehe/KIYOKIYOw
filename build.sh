@@ -28,7 +28,7 @@ CUSTOM_BUILD_INFO=""
 IS_CUSTOM_BUILD=false
 NIGHTLY_NUMBER=""
 
-BETA_NOTICE_FILE="app/src/main/kotlin/com/kiyo/music/ui/screens/beta/BetaNoticeScreen.kt"
+BETA_NOTICE_FILE="app/src/main/kotlin/com/fizy/music/ui/screens/beta/BetaNoticeScreen.kt"
 
 cleanup() {
     # a nightly's fourth number only lives for its own build
@@ -180,12 +180,12 @@ if [ "$SKIP_BUILD" = false ]; then
 
     # update beta notice
     if [ -f "$BETA_NOTICE_FILE" ]; then
-        NOTICE_TITLE="kiyo build #$BUILD_ATTEMPT $VARIANT"
+        NOTICE_TITLE="fizy build #$BUILD_ATTEMPT $VARIANT"
         if [ -n "$CUSTOM_DATE" ]; then
-            NOTICE_TITLE="kiyo build #$BUILD_ATTEMPT $VARIANT ($CUSTOM_DATE)"
+            NOTICE_TITLE="fizy build #$BUILD_ATTEMPT $VARIANT ($CUSTOM_DATE)"
         fi
-        sed_in_place -e "s/text = \"Kiyo DEV PREV\"/text = \"$NOTICE_TITLE\"/g" "$BETA_NOTICE_FILE"
-        sed_in_place -e "s/text = \"kiyo build #[0-9]* .*\"/text = \"$NOTICE_TITLE\"/g" "$BETA_NOTICE_FILE"
+        sed_in_place -e "s/text = \"Fizy DEV PREV\"/text = \"$NOTICE_TITLE\"/g" "$BETA_NOTICE_FILE"
+        sed_in_place -e "s/text = \"fizy build #[0-9]* .*\"/text = \"$NOTICE_TITLE\"/g" "$BETA_NOTICE_FILE"
         sed_in_place -e "s/text = \"[0-9]*\.[0-9]*\.[0-9]*DEV\"/text = \"$BASE_VERSION build#$BUILD_ATTEMPT\"/g" "$BETA_NOTICE_FILE"
         sed_in_place -e "s/text = \"[0-9]*\.[0-9]*\.[0-9]* build#[0-9]*\"/text = \"$BASE_VERSION build#$BUILD_ATTEMPT\"/g" "$BETA_NOTICE_FILE"
     fi
@@ -239,30 +239,30 @@ if [ "$PUBLISH_RELEASE" = true ]; then
         fi
     }
 
-    format_apk "*universal-${FLAVOR}-release.apk" "kiyo-$VERSION_LABEL-universal.apk"
-    format_apk "*arm64-${FLAVOR}-release.apk" "kiyo-$VERSION_LABEL-arm64-v8a.apk"
-    format_apk "*armeabi-${FLAVOR}-release.apk" "kiyo-$VERSION_LABEL-armeabi-v7a.apk"
-    format_apk "*x86_64-${FLAVOR}-release.apk" "kiyo-$VERSION_LABEL-x86_64.apk"
-    format_apk "*x86-${FLAVOR}-release.apk" "kiyo-$VERSION_LABEL-x86.apk"
+    format_apk "*universal-${FLAVOR}-release.apk" "fizy-$VERSION_LABEL-universal.apk"
+    format_apk "*arm64-${FLAVOR}-release.apk" "fizy-$VERSION_LABEL-arm64-v8a.apk"
+    format_apk "*armeabi-${FLAVOR}-release.apk" "fizy-$VERSION_LABEL-armeabi-v7a.apk"
+    format_apk "*x86_64-${FLAVOR}-release.apk" "fizy-$VERSION_LABEL-x86_64.apk"
+    format_apk "*x86-${FLAVOR}-release.apk" "fizy-$VERSION_LABEL-x86.apk"
 
     if [ -z "$CHANGELOG_TEXT" ]; then
-        CHANGELOG_TEXT="kiyo $VERSION_LABEL ($BUILD_ATTEMPT)"
+        CHANGELOG_TEXT="fizy $VERSION_LABEL ($BUILD_ATTEMPT)"
     fi
 
     # a nightly is its own prerelease, tagged by its version, so the app's nightly channel can tell them apart
     if [ -n "$NIGHTLY_NUMBER" ]; then
         TAG="nightly-$VERSION_LABEL"
-        TITLE="Kiyo $VERSION_LABEL nightly ($BUILD_ATTEMPT)"
+        TITLE="Fizy $VERSION_LABEL nightly ($BUILD_ATTEMPT)"
         echo "Publishing nightly prerelease: '$TITLE'..."
         git tag -f "$TAG" main 2>/dev/null || true
         git push -f origin "$TAG" 2>/dev/null || true
         if gh release view "$TAG" >/dev/null 2>&1; then
             gh release edit "$TAG" --title "$TITLE" --notes "$CHANGELOG_TEXT" --prerelease
-            gh release upload "$TAG" "$OUTPUT_DIR"/kiyo-"$VERSION_LABEL"-*.apk --clobber
+            gh release upload "$TAG" "$OUTPUT_DIR"/fizy-"$VERSION_LABEL"-*.apk --clobber
         else
-            gh release create "$TAG" "$OUTPUT_DIR"/kiyo-"$VERSION_LABEL"-*.apk --title "$TITLE" --notes "$CHANGELOG_TEXT" --prerelease
+            gh release create "$TAG" "$OUTPUT_DIR"/fizy-"$VERSION_LABEL"-*.apk --title "$TITLE" --notes "$CHANGELOG_TEXT" --prerelease
         fi
-        echo "Nightly published to https://github.com/zychohehe/Mochy-Music/releases/tag/$TAG"
+        echo "Nightly published to https://github.com/zychohehe/KIYOKIYO/releases/tag/$TAG"
         PUBLISH_RELEASE=false
     fi
 fi
@@ -273,17 +273,17 @@ if [ "$PUBLISH_RELEASE" = true ]; then
     git tag -f dev main 2>/dev/null || true
     git push -f origin dev 2>/dev/null || true
 
-    TITLE="kiyo $BASE_VERSION ($BUILD_ATTEMPT)"
+    TITLE="fizy $BASE_VERSION ($BUILD_ATTEMPT)"
     echo "Publishing GitHub release: '$TITLE'..."
 
     if gh release view dev >/dev/null 2>&1; then
         gh release edit dev --title "$TITLE" --notes "$CHANGELOG_TEXT" --prerelease
-        gh release upload dev "$OUTPUT_DIR"/kiyo-"$BASE_VERSION"-*.apk --clobber
+        gh release upload dev "$OUTPUT_DIR"/fizy-"$BASE_VERSION"-*.apk --clobber
     else
-        gh release create dev "$OUTPUT_DIR"/kiyo-"$BASE_VERSION"-*.apk --title "$TITLE" --notes "$CHANGELOG_TEXT" --prerelease
+        gh release create dev "$OUTPUT_DIR"/fizy-"$BASE_VERSION"-*.apk --title "$TITLE" --notes "$CHANGELOG_TEXT" --prerelease
     fi
 
-    echo "Release successfully published to https://github.com/zychohehe/Mochy-Music/releases/tag/dev"
+    echo "Release successfully published to https://github.com/zychohehe/KIYOKIYO/releases/tag/dev"
 fi
 
 # install and launch
@@ -304,11 +304,11 @@ if [ "$INSTALL_ON_DEVICES" = true ]; then
     else
         DEVICES=$(adb devices | grep -v "^List" | grep -w "device" | cut -f1)
         
-        PACKAGE_NAME="com.kiyo.music"
+        PACKAGE_NAME="com.fizy.music"
         if [ "$VARIANT" == "debug" ]; then
-            PACKAGE_NAME="com.kiyo.music.debug"
+            PACKAGE_NAME="com.fizy.music.debug"
         elif [ "$VARIANT" == "profileable" ]; then
-            PACKAGE_NAME="com.kiyo.music.profileable"
+            PACKAGE_NAME="com.fizy.music.profileable"
         fi
 
         if [ -z "$DEVICES" ]; then

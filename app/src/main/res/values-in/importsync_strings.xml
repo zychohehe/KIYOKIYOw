@@ -86,8 +86,8 @@
     <string name="import_link_youtube_desc">Playlist dan album, lagu yang tepat, tanpa pencarian</string>
     <string name="import_link_soundcloud_desc">Playlist dan album publik</string>
     <string name="import_providers_file_header">Dari file</string>
-    <string name="import_kiyo_backup_title">Cadangan FIZY</string>
-    <string name="import_kiyo_backup_desc">CSV dari Ekspor ke CSV FIZY. Memulihkan lagu yang tepat</string>
+    <string name="import_fizy_backup_title">Cadangan FIZY</string>
+    <string name="import_fizy_backup_desc">CSV dari Ekspor ke CSV FIZY. Memulihkan lagu yang tepat</string>
     <string name="import_tunemymusic_csv_desc">Playlist privat, lagu yang disukai, dan setiap layanan lainnya</string>
     <string name="import_providers_other_header">Layanan lain</string>
     <string name="import_other_services_title">Amazon Music, SoundCloud, Pandora…</string>

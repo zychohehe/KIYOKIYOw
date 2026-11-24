@@ -12,7 +12,7 @@
     <string name="onb_selected">Selected</string>
 
     <!-- welcome -->
-    <string name="onb_welcome_title">Welcome to\nkiyo!</string>
+    <string name="onb_welcome_title">Welcome to\nfizy!</string>
     <string name="onb_welcome_subtitle">A way to listen and own your\nmusic, differently.</string>
 
     <!-- photo cropper -->
@@ -121,7 +121,7 @@
 
     <!-- hello / done -->
     <string name="onb_hello">Hello!</string>
-    <string name="onb_welcome_to_kiyo">welcome to FIZY!</string>
+    <string name="onb_welcome_to_fizy">welcome to FIZY!</string>
     <string name="onb_all_good">You\'re good to go</string>
     <string name="onb_done_subtitle">Your music is waiting for you.</string>
 

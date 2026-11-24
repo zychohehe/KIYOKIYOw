@@ -2,7 +2,7 @@
 <resources>
     <string name="about_support_me">Dukung developer ya :3 \u2192</string>
     <string name="about_app">Tentang aplikasi</string>
-    <string name="about_kiyo_music_version">FIZY Music | %1$s</string>
+    <string name="about_fizy_music_version">FIZY Music | %1$s</string>
     <string name="about_app_description">FIZY Music adalah aplikasi musik tapi\nlumayan keren.</string>
     <string name="about_actions">Aksi</string>
     <string name="about_github">Github FIZY Music \u2192</string>

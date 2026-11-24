@@ -134,10 +134,10 @@
     <string name="module_items_nothing">Tidak ada apa pun di dalamnya yang bisa dipakai %1$s.</string>
     <string name="module_items_broken">Isinya rusak, jadi tidak bisa dijalankan. Minta salinan yang sudah diperbaiki kepada pembuatnya.</string>
     <string name="module_items_too_big">Itu terlalu besar untuk diterima %1$s.</string>
-    <string name="modules_file_not_signed">Modul ini menjalankan kodenya sendiri, jadi harus ditandatangani dengan kunci yang sama dengan Kiyo-mu, dan salinan ini tidak. Dapatkan yang dibuat untuk build Kiyo-mu.</string>
+    <string name="modules_file_not_signed">Modul ini menjalankan kodenya sendiri, jadi harus ditandatangani dengan kunci yang sama dengan FIZY-mu, dan salinan ini tidak. Dapatkan yang dibuat untuk build FIZY-mu.</string>
     <string name="modules_code_broken">Kode modul ini tidak mau berjalan. Mungkin dibuat untuk versi FIZY yang berbeda.</string>
     <string name="modules_github_no_release">Proyek GitHub itu belum merilis apa pun. Minta pembuatnya merilis satu dengan .zip modul terlampir.</string>
-    <string name="modules_github_no_module">Rilis terbaru tidak berisi modul. FIZY mencari file .zip dengan \"kiyomodule\" di namanya, seperti glass.kiyomodule.zip.</string>
+    <string name="modules_github_no_module">Rilis terbaru tidak berisi modul. FIZY mencari file .zip dengan \"fizymodule\" di namanya, seperti glass.fizymodule.zip.</string>
     <string name="skin_customise_row">Sesuaikan %1$s</string>
     <string name="skin_customise_title">Sesuaikan</string>
     <string name="skin_audio_lossy">Lossy</string>

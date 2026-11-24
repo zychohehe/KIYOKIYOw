@@ -10,7 +10,7 @@
     <string name="local_import_pick_folder_hint">Untuk lagu sebanyak ini, tambahkan foldernya saja. Android hanya menyimpan akses untuk sekitar 500 file satuan, lalu yang terlama berhenti bisa diputar.</string>
     <string name="local_missing_remove">Hapus</string>
     <plurals name="local_import_skipped_formats">
-        <item quantity="other">%1$d file yang belum bisa diputar Kiyo dilewati (WMA, AIFF, APE, WavPack, atau DSD)</item>
+        <item quantity="other">%1$d file yang belum bisa diputar FIZY dilewati (WMA, AIFF, APE, WavPack, atau DSD)</item>
     </plurals>
     <plurals name="local_missing_files">
         <item quantity="other">File dari %1$d lagu sudah tidak ada di ponselmu</item>

@@ -1,4 +1,4 @@
-package com.kiyo.music.canvas
+package com.fizy.music.canvas
 
 import java.text.Normalizer
 import kotlin.math.abs

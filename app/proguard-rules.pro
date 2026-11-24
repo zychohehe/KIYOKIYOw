@@ -6,20 +6,20 @@
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
 # WEB_REMIX Streaming - WebView JavaScript interfaces
--keepclassmembers class com.kiyo.music.utils.sabr.EjsNTransformSolver$SolverWebView {
+-keepclassmembers class com.fizy.music.utils.sabr.EjsNTransformSolver$SolverWebView {
     @android.webkit.JavascriptInterface public *;
 }
--keepclassmembers class com.kiyo.music.utils.cipher.CipherWebView {
+-keepclassmembers class com.fizy.music.utils.cipher.CipherWebView {
     @android.webkit.JavascriptInterface public *;
 }
--keepclassmembers class com.kiyo.music.utils.potoken.PoTokenWebView {
+-keepclassmembers class com.fizy.music.utils.potoken.PoTokenWebView {
     @android.webkit.JavascriptInterface public *;
 }
 
 # Keep streaming utility classes
--keep class com.kiyo.music.utils.cipher.** { *; }
--keep class com.kiyo.music.utils.sabr.** { *; }
--keep class com.kiyo.music.utils.potoken.** { *; }
+-keep class com.fizy.music.utils.cipher.** { *; }
+-keep class com.fizy.music.utils.sabr.** { *; }
+-keep class com.fizy.music.utils.potoken.** { *; }
 
 # Keep coroutine continuation for WebView callbacks
 -keepclassmembers class * {
@@ -123,11 +123,11 @@
 
 ## Queue Persistence Rules
 # Keep queue-related classes to prevent serialization issues in release builds
--keep class com.kiyo.music.models.PersistQueue { *; }
--keep class com.kiyo.music.models.PersistPlayerState { *; }
--keep class com.kiyo.music.models.QueueData { *; }
--keep class com.kiyo.music.models.QueueType { *; }
--keep class com.kiyo.music.playback.queues.** { *; }
+-keep class com.fizy.music.models.PersistQueue { *; }
+-keep class com.fizy.music.models.PersistPlayerState { *; }
+-keep class com.fizy.music.models.QueueData { *; }
+-keep class com.fizy.music.models.QueueType { *; }
+-keep class com.fizy.music.playback.queues.** { *; }
 
 # Keep serialization methods for queue persistence
 -keepclassmembers class * implements java.io.Serializable {
@@ -141,7 +141,7 @@
 -keep interface com.yalantis.ucrop** { *; }
 
 ## Google Cast Rules
--keep class com.kiyo.music.cast.** { *; }
+-keep class com.fizy.music.cast.** { *; }
 -keep class com.google.android.gms.cast.** { *; }
 -keep class androidx.mediarouter.** { *; }
 
@@ -149,14 +149,14 @@
 -dontwarn com.google.re2j.**
 
 # Vibra fingerprint library
--keep class com.kiyo.music.recognition.VibraSignature { *; }
--keepclassmembers class com.kiyo.music.recognition.VibraSignature {
+-keep class com.fizy.music.recognition.VibraSignature { *; }
+-keepclassmembers class com.fizy.music.recognition.VibraSignature {
     native <methods>;
 }
 
 ## Modules from a zip
-# a zip module's own code reaches kiyo only through these, by their original names
--keep class com.kiyo.music.module.bridge.shared.** { *; }
+# a zip module's own code reaches fizy only through these, by their original names
+-keep class com.fizy.music.module.bridge.shared.** { *; }
 
 ## Kotlin Reflection Fix
 -keep class kotlin.Metadata { *; }

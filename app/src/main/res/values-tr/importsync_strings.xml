@@ -85,8 +85,8 @@
     <string name="import_link_deezer_desc">Herkese açık çalma listeleri ve albümler, her uzunlukta</string>
     <string name="import_link_youtube_desc">Çalma listeleri ve albümler, tam şarkılar, arama yok</string>
     <string name="import_providers_file_header">Dosyadan</string>
-    <string name="import_kiyo_backup_title">FIZY yedeği</string>
-    <string name="import_kiyo_backup_desc">FIZY CSV\'sine aktar seçeneğinden gelen bir CSV. Tam şarkıları geri yükler</string>
+    <string name="import_fizy_backup_title">FIZY yedeği</string>
+    <string name="import_fizy_backup_desc">FIZY CSV\'sine aktar seçeneğinden gelen bir CSV. Tam şarkıları geri yükler</string>
     <string name="import_tunemymusic_csv_desc">Özel çalma listeleri, beğenilen şarkılar ve diğer tüm servisler</string>
     <string name="import_providers_other_header">Diğer servisler</string>
     <string name="import_other_services_title">Amazon Music, SoundCloud, Pandora…</string>

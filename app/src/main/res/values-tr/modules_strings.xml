@@ -137,7 +137,7 @@
     <string name="modules_file_not_signed">Bu modül kendi kodunu çalıştırıyor, bu yüzden senin FIZY\'nle aynı anahtarla imzalanmış olmalı, bu kopya değil. FIZY\'nin senin derlemen için yapılmış olanını al.</string>
     <string name="modules_code_broken">Bu modülün kodu başlamadı. Farklı bir FIZY sürümü için yapılmış olabilir.</string>
     <string name="modules_github_no_release">O GitHub projesi henüz bir sürüm yayınlamamış. Yapan kişiden modülün .zip dosyasını içeren bir sürüm yayınlamasını iste.</string>
-    <string name="modules_github_no_module">En yeni sürümde modül yok. FIZY adında \"kiyomodule\" geçen bir .zip arar, örneğin glass.kiyomodule.zip.</string>
+    <string name="modules_github_no_module">En yeni sürümde modül yok. FIZY adında \"fizymodule\" geçen bir .zip arar, örneğin glass.fizymodule.zip.</string>
     <string name="skin_customise_row">%1$s kişiselleştir</string>
     <string name="skin_customise_title">Kişiselleştir</string>
     <string name="skin_audio_lossy">Kayıplı</string>

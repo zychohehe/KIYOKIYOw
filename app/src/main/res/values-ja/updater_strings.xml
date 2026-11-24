@@ -32,7 +32,7 @@
     <string name="mobile_network_warning">モバイルネットワーク経由、またはローミング中にアップデートをダウンロードすると、追加料金が発生する場合があります</string>
     <string name="update_size">更新容量: %1$s MB</string>
     <string name="check_internet_connection">ネット接続を確認してください</string>
-    <string name="kiyo_music_version">FIZY MUSIC バージョン %1$s</string>
+    <string name="fizy_music_version">FIZY MUSIC バージョン %1$s</string>
     <string name="install">インストール</string>
     <string name="check_for_update">更新チェック</string>
     <string name="no_changelog_available">利用可能なアップデートはありません</string>

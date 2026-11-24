@@ -167,7 +167,7 @@
     <string name="discord_target_spotify">Spotify</string>
     <string name="discord_target_apple_music">Apple Music</string>
     <string name="discord_target_tidal">Tidal</string>
-    <string name="discord_target_kiyo">GitHub\'da FIZY</string>
+    <string name="discord_target_fizy">GitHub\'da FIZY</string>
     <string name="discord_ph_name">Şarkı adı</string>
     <string name="discord_ph_artist">Sanatçı adı</string>
     <string name="discord_ph_album">Albüm</string>

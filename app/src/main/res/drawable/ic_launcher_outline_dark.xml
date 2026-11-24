@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- the outline mark in dark strokes for light icon backgrounds, ic_launcher_monochrome recoloured -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
     android:height="108dp"
-    android:viewportWidth="292"
-    android:viewportHeight="292">
-    <group
-        android:translateX="28.5"
-        android:translateY="28.5">
-        <path
-            android:pathData="M96 70H136C151.464 70 164 82.536 164 98V138C164 153.464 151.464 166 136 166H96C80.536 166 68 153.464 68 138V98C68 82.536 80.536 70 96 70Z"
-            android:fillColor="#00000000"
-            android:strokeColor="#212121"
-            android:strokeWidth="19"
-            android:strokeLineJoin="round" />
-        <path
-            android:pathData="M96 100V136L124 118Z"
-            android:fillColor="#00000000"
-            android:strokeColor="#212121"
-            android:strokeWidth="11"
-            android:strokeLineCap="round"
-            android:strokeLineJoin="round" />
-        <path
-            android:pathData="M138 104Q147 118 138 132"
-            android:fillColor="#00000000"
-            android:strokeColor="#212121"
-            android:strokeWidth="11"
-            android:strokeLineCap="round"
-            android:strokeLineJoin="round" />
-    </group>
+    android:viewportWidth="1474"
+    android:viewportHeight="1474">
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M442.5,897.5L442.5,912.5L448.5,926.5L459.5,937.5L475.5,943.5L492.5,942.5L531.5,926.5L592.5,908.5L654.5,897.5L700.5,893.5L767.5,894.5L809.5,899.5L839.5,905.5L875.5,915.5L904.5,926.5L931.5,939.5L952.5,952.5L967.5,958.5L984.5,958.5L1001.5,950.5L1010.5,940.5L1016.5,923.5L1013.5,904.5L1007.5,894.5L1000.5,887.5L973.5,870.5L940.5,854.5L895.5,838.5L861.5,829.5L810.5,820.5L750.5,815.5L704.5,815.5L651.5,819.5L593.5,828.5L550.5,838.5L502.5,853.5L461.5,870.5L451.5,878.5ZM405.5,769.5L408.5,785.5L414.5,795.5L423.5,803.5L437.5,809.5L458.5,808.5L522.5,783.5L582.5,767.5L633.5,758.5L698.5,752.5L758.5,752.5L786.5,754.5L833.5,760.5L868.5,767.5L908.5,778.5L939.5,789.5L974.5,805.5L1004.5,822.5L1016.5,825.5L1033.5,823.5L1046.5,816.5L1054.5,807.5L1060.5,793.5L1060.5,778.5L1056.5,767.5L1048.5,756.5L1016.5,735.5L964.5,711.5L912.5,694.5L860.5,682.5L807.5,674.5L749.5,670.5L685.5,671.5L631.5,676.5L567.5,687.5L516.5,700.5L466.5,717.5L427.5,734.5L421.5,738.5L410.5,751.5ZM368.5,624.5L370.5,639.5L377.5,652.5L391.5,664.5L410.5,669.5L425.5,667.5L486.5,642.5L556.5,622.5L622.5,610.5L705.5,603.5L792.5,605.5L850.5,612.5L887.5,619.5L937.5,632.5L967.5,642.5L1011.5,660.5L1043.5,677.5L1057.5,681.5L1073.5,680.5L1088.5,673.5L1099.5,661.5L1104.5,648.5L1104.5,632.5L1101.5,622.5L1087.5,605.5L1067.5,592.5L1040.5,578.5L986.5,556.5L941.5,542.5L874.5,527.5L808.5,518.5L743.5,514.5L678.5,515.5L621.5,520.5L574.5,527.5L500.5,544.5L441.5,564.5L388.5,589.5L381.5,595.5L373.5,606.5Z" />
 </vector>

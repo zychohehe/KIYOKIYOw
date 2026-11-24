@@ -6,7 +6,7 @@ SimpMusic, KuGou, LRCLIB, Musixmatch, Genius, Megalobiz) and their parsers were 
 https://github.com/kushagrasinghx/BitChord
 
 Beatcord is GPL-3.0, like Mochy. The package was renamed to `com.music.beatlyrics`, the YouTube
-sources were left out (Kiyo has its own), and `Http.kt` is a small replacement for Beatcord's
+sources were left out (Fizy has its own), and `Http.kt` is a small replacement for Beatcord's
 app-wide HTTP client. Everything else is unchanged.
 
 The lyrics themselves belong to their owners and are fetched live from third-party services.

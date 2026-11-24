@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FIZY logo: the waves from the new brand artwork -->
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/fizy_foreground"
+    android:gravity="center"/>

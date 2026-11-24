@@ -1,4 +1,4 @@
-package com.kiyo.music.artistvideo
+package com.fizy.music.artistvideo
 
 import android.view.TextureView
 import android.view.ViewGroup

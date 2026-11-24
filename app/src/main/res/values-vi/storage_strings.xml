@@ -57,7 +57,7 @@
     <string name="storage_place_move_cache_message">Bộ nhớ đệm hiện tại sẽ bị xóa và FIZY khởi động lại, sau đó các bài hát bạn phát sẽ được giữ ở nơi mới.</string>
     <string name="storage_place_move_action">Chuyển và khởi động lại</string>
     <string name="storage_export_sheet_title">Xuất bài hát đã tải xuống</string>
-    <string name="storage_export_note">Chúng được sao chép vào thư mục kiyo-preserve ở nơi bạn chọn. Các bài đã tải xuống vẫn ở nguyên chỗ cũ.</string>
+    <string name="storage_export_note">Chúng được sao chép vào thư mục fizy-preserve ở nơi bạn chọn. Các bài đã tải xuống vẫn ở nguyên chỗ cũ.</string>
     <string name="storage_export_layout_playlists">Nhạc và danh sách phát</string>
     <string name="storage_export_layout_playlists_detail">Mỗi danh sách phát và bài hát đã thích có một thư mục, phần còn lại nằm trong Music</string>
     <string name="storage_export_layout_albums">Album</string>

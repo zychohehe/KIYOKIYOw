@@ -84,7 +84,7 @@
     <string name="onb_card_id_of">KİMLİK KARTI</string>
     <string name="onb_card_of_name">%1$s KARTI</string>
     <string name="onb_hello">Merhaba!</string>
-    <string name="onb_welcome_to_kiyo">FIZY\'ye hoş geldin!</string>
+    <string name="onb_welcome_to_fizy">FIZY\'ye hoş geldin!</string>
     <string name="onb_all_good">Her şey hazır</string>
     <string name="onb_warning">Uyarı</string>
     <string name="onb_blur_warning_body">Telefonun bulanıklıkları çalıştırmak için fazla zayıf olabilir. Bulanıklık kapatılsın mı? Bunu her zaman Ayarlar\'dan değiştirebilirsin.</string>

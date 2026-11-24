@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_app">Uygulama hakkında</string>
-    <string name="about_kiyo_music_version">FIZY Music | %1$s</string>
+    <string name="about_fizy_music_version">FIZY Music | %1$s</string>
     <string name="about_app_description">FIZY Music bir müzik uygulaması ama\nbiraz da havalı.</string>
     <string name="about_actions">Eylemler</string>
     <string name="about_support_me">Lütfen beni destekle :3 →</string>

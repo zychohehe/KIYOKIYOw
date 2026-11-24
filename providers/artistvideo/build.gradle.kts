@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.kiyo.music.artistvideo"
+    namespace = "com.fizy.music.artistvideo"
     compileSdk = 37
 
     defaultConfig {

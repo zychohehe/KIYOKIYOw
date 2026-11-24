@@ -2,7 +2,7 @@
 <resources>
     <!-- usage at the top of the page -->
     <string name="storage_overall">Overall</string>
-    <string name="storage_legend_kiyo">FIZY</string>
+    <string name="storage_legend_fizy">FIZY</string>
     <string name="storage_legend_yours">Your storage</string>
     <string name="storage_free">%1$s free</string>
     <string name="storage_measuring">Working out how much room FIZY takes…</string>
@@ -66,7 +66,7 @@
     <string name="storage_place_move_action">Move and restart</string>
 
     <string name="storage_export_sheet_title">Export downloaded songs</string>
-    <string name="storage_export_note">They\'re copied into a kiyo-preserve folder wherever you pick. Your downloads stay where they are.</string>
+    <string name="storage_export_note">They\'re copied into a fizy-preserve folder wherever you pick. Your downloads stay where they are.</string>
     <string name="storage_export_layout_playlists">Music and playlists</string>
     <string name="storage_export_layout_playlists_detail">A folder for each playlist and your liked songs, the rest go in Music</string>
     <string name="storage_export_layout_albums">Albums</string>

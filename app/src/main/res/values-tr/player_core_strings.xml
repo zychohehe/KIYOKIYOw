@@ -184,7 +184,7 @@
     <string name="pc_stat_speed">Hız</string>
     <string name="pc_stat_pitch">Perde</string>
     <string name="pc_stat_semitones">%1$s yarım ton</string>
-    <string name="pc_stat_rs_kiyo">FIZY hi-fi, pencereli sinc (Kaiser)</string>
+    <string name="pc_stat_rs_fizy">FIZY hi-fi, pencereli sinc (Kaiser)</string>
     <string name="pc_stat_passband">Geçirme bandı</string>
     <string name="pc_stat_flat_to">%1$s değerine kadar düz</string>
     <string name="pc_stat_stopband">−%1$d dB durdurma bandı, 32-bit float</string>

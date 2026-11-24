@@ -152,7 +152,7 @@
     <string name="discord_image_spinning_artist">Ảnh nghệ sĩ xoay tròn</string>
     <string name="discord_image_spinning_artwork">Bìa bài hát xoay tròn</string>
     <string name="discord_image_custom">Ảnh của bạn</string>
-    <string name="discord_target_kiyo">FIZY trên GitHub</string>
+    <string name="discord_target_fizy">FIZY trên GitHub</string>
     <string name="discord_ph_name">Tên bài hát</string>
     <string name="discord_ph_artist">Tên nghệ sĩ</string>
     <string name="discord_ph_quality">Định dạng và tốc độ bit, ví dụ: OPUS · 160 kbps</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="storage_overall">Keseluruhan</string>
-    <string name="storage_legend_kiyo">FIZY</string>
+    <string name="storage_legend_fizy">FIZY</string>
     <string name="storage_legend_yours">Penyimpananmu</string>
     <string name="storage_free">%1$s tersisa</string>
     <string name="storage_measuring">Menghitung seberapa besar ruang yang dipakai FIZY…</string>
@@ -60,7 +60,7 @@
     <string name="storage_place_move_cache_message">Cache yang ada sekarang dibersihkan dan FIZY dimulai ulang, lalu lagu yang kamu putar disimpan di tempat baru.</string>
     <string name="storage_place_move_action">Pindahkan dan mulai ulang</string>
     <string name="storage_export_sheet_title">Ekspor lagu terunduh</string>
-    <string name="storage_export_note">Lagu disalin ke folder kiyo-preserve di tempat yang kamu pilih. Unduhanmu tetap di tempatnya.</string>
+    <string name="storage_export_note">Lagu disalin ke folder fizy-preserve di tempat yang kamu pilih. Unduhanmu tetap di tempatnya.</string>
     <string name="storage_export_layout_playlists">Musik dan playlist</string>
     <string name="storage_export_layout_playlists_detail">Satu folder untuk setiap playlist dan lagu yang kamu sukai, sisanya masuk ke Music</string>
     <string name="storage_export_layout_albums">Album</string>

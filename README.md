@@ -17,19 +17,19 @@ open source, packed with features, and it doesn't collect your data.
 
 <p align="center">
 
-<a href="https://github.com/zychohehe/Mochy-Music/releases">
-    <img src="https://shieldcn.dev/github/downloads/zychohehe/Mochy-Music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=fab387" alt="Downloads">
+<a href="https://github.com/zychohehe/KIYOKIYO/releases">
+    <img src="https://shieldcn.dev/github/downloads/zychohehe/KIYOKIYO.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=fab387" alt="Downloads">
 </a>
-  <a href="https://github.com/zychohehe/Mochy-Music/stargazers">
-    <img src="https://shieldcn.dev/github/stars/zychohehe/Mochy-Music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=f9e2af" alt="Stars">
+  <a href="https://github.com/zychohehe/KIYOKIYO/stargazers">
+    <img src="https://shieldcn.dev/github/stars/zychohehe/KIYOKIYO.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=f9e2af" alt="Stars">
   </a>
-  <a href="https://github.com/zychohehe/Mochy-Music/network/members">
-    <img src="https://shieldcn.dev/github/forks/zychohehe/Mochy-Music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=89b4fa" alt="Forks">
-      <a href="https://github.com/zychohehe/Mochy-Music/releases">
+  <a href="https://github.com/zychohehe/KIYOKIYO/network/members">
+    <img src="https://shieldcn.dev/github/forks/zychohehe/KIYOKIYO.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=89b4fa" alt="Forks">
+      <a href="https://github.com/zychohehe/KIYOKIYO/releases">
     <img src="https://shieldcn.dev/badge/Android-8.0%2B-313244.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logo=android&logoColor=94e2d5" alt="Android 8.0+">
   </a>
-  <a href="https://github.com/zychohehe/Mochy-Music/releases/latest">
-    <img src="https://shieldcn.dev/github/release/zychohehe/Mochy-Music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=cba6f7" alt="Release">
+  <a href="https://github.com/zychohehe/KIYOKIYO/releases/latest">
+    <img src="https://shieldcn.dev/github/release/zychohehe/KIYOKIYO.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=cba6f7" alt="Release">
   </a>
   <a href="https://www.figma.com/board/NWTElXRZ21LaaJotjuOe8D/Untitled?node-id=0-1&t=bMsq80RJXYybjXsh-1">
     <img src="https://shieldcn.dev/badge/Roadmap-View-313244.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=b4befe" alt="Roadmap">
@@ -43,7 +43,7 @@ open source, packed with features, and it doesn't collect your data.
 
 <br/>
 
-[**Install**](#install) &nbsp;·&nbsp; [**What's new**](#whats-new-in-kiyo-560) &nbsp;·&nbsp; [**Features**](#features) &nbsp;·&nbsp; [**Preview**](#preview) &nbsp;·&nbsp; [**FAQ**](#faq) &nbsp;·&nbsp; [**Build**](#build-it-yourself)
+[**Install**](#install) &nbsp;·&nbsp; [**What's new**](#whats-new-in-fizy-560) &nbsp;·&nbsp; [**Features**](#features) &nbsp;·&nbsp; [**Preview**](#preview) &nbsp;·&nbsp; [**FAQ**](#faq) &nbsp;·&nbsp; [**Build**](#build-it-yourself)
 
 </div>
 
@@ -71,7 +71,7 @@ open source, packed with features, and it doesn't collect your data.
 - **A new name.** The app is now **FIZY**, renamed everywhere you can see it.
 - **Japanese vibes.** A vermilion (朱色) icon with the white **K** stamp, and a little Japanese in the welcome line.
 - **A new logo.** A clean **K** mark, used for the launcher icon, themed icon, splash screen, navigation and notifications.
-- **A new package id.** FIZY installs as `com.kiyo.music`, so it sits next to the old app as a separate install.
+- **A new package id.** FIZY installs as `com.fizy.music`, so it sits next to the old app as a separate install.
 - **A cleaner profile.** The developer card now just says *developer*, with a fresh avatar.
 - **Plain version numbers.** Versions show only the number (like `5.5.0`), without the `build` text.
 - **Smoother scrolling.** Lists and grids across the app share one glide-style fling, so a flick coasts further and eases out evenly. The feel is tuned by a single value, `GlideFriction`.
@@ -103,7 +103,7 @@ open source, packed with features, and it doesn't collect your data.
 
 <sub>インストール</sub>
 
-1. On your phone, open the [latest release](https://github.com/zychohehe/Mochy-Music/releases/latest).
+1. On your phone, open the [latest release](https://github.com/zychohehe/KIYOKIYO/releases/latest).
 2. Download the `.apk` that matches your phone. Not sure? Pick **arm64**, that is almost every phone from the last 8 years. The **universal** one works everywhere but is bigger.
 3. Open the downloaded file. Android will ask you to allow installs from your browser or file manager, say yes (you can turn it off again after).
 4. Open FIZY. You are done, no account needed to start listening.
@@ -248,8 +248,8 @@ You only need this if you want to change the code. If you just want to use the a
 ### Steps
 
 ```bash
-git clone https://github.com/zychohehe/Mochy-Music.git
-cd Mochy-Music
+git clone https://github.com/zychohehe/KIYOKIYO.git
+cd KIYOKIYO
 ```
 
 1. Open the folder in Android Studio once and let it finish syncing. This also creates `local.properties` with your SDK path.
@@ -273,7 +273,7 @@ Handy options (see `./build.sh --help` for all of them):
 | `./build.sh -fd --release` | F-Droid flavor, without the self-update permission |
 | `./build.sh -k` | stops stuck Gradle builds |
 
-Use **debug** while you are playing around, it builds much faster. A debug build installs next to the real app (`com.kiyo.music.debug`), so it will not touch your normal install, but it is a bit slower to run.
+Use **debug** while you are playing around, it builds much faster. A debug build installs next to the real app (`com.fizy.music.debug`), so it will not touch your normal install, but it is a bit slower to run.
 
 ### Optional keys
 
@@ -292,7 +292,7 @@ Never commit your keys. Libre.fm works without any key.
 - `Unresolved reference` or Hilt errors that make no sense: delete the `build/` folders and `.gradle/`, then build again.
 - Stuck or weird Gradle: `./build.sh -k`, then try again.
 - Wrong Java: make sure Gradle uses JDK 21 (Android Studio → Settings → Build Tools → Gradle → Gradle JDK).
-- Still stuck? Open an [issue](https://github.com/zychohehe/Mochy-Music/issues) with the error text.
+- Still stuck? Open an [issue](https://github.com/zychohehe/KIYOKIYO/issues) with the error text.
 
 Want to send a fix? Read [CONTRIBUTING](.github/CONTRIBUTING.md) first.
 
@@ -304,7 +304,7 @@ A guide for building modules is on its way.
 
 ## Help and bug reports
 
-Found a bug or have an idea? Open an [issue](https://github.com/zychohehe/Mochy-Music/issues), and check [CONTRIBUTING](.github/CONTRIBUTING.md) first.
+Found a bug or have an idea? Open an [issue](https://github.com/zychohehe/KIYOKIYO/issues), and check [CONTRIBUTING](.github/CONTRIBUTING.md) first.
 
 ---
 
@@ -370,16 +370,16 @@ This build is a fork of [Mochy Music](https://github.com/realidkroo/Mochy-Music)
 
 ## Releases
 
-Every push to `main` builds a signed release APK and publishes it on the [Releases page](https://github.com/zychohehe/Mochy-Music/releases) automatically. See `.github/workflows/release.yml`.
+Every push to `main` builds a signed release APK and publishes it on the [Releases page](https://github.com/zychohehe/KIYOKIYO/releases) automatically. See `.github/workflows/release.yml`.
 
 ---
 ## Star History
 
-<a href="https://www.star-history.com/?repos=zychohehe%2FMochy-Music&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=zychohehe%2FKIYOKIYO&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zychohehe/Mochy-Music&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zychohehe/Mochy-Music&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zychohehe/Mochy-Music&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zychohehe/KIYOKIYO&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zychohehe/KIYOKIYO&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zychohehe/KIYOKIYO&type=date&legend=top-left" />
  </picture>
 </a>
 

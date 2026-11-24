@@ -1,4 +1,4 @@
-package com.kiyo.music.canvas
+package com.fizy.music.canvas
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable

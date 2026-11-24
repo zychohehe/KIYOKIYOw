@@ -19,12 +19,12 @@ plugins {
 }
 
 extensions.configure<ApplicationExtension> {
-    namespace = "com.kiyo.music"
+    namespace = "com.fizy.music"
     compileSdk = 37
     ndkVersion = "27.0.12077973"
 
     defaultConfig {
-        applicationId = "com.kiyo.music"
+        applicationId = "com.fizy.music"
         minSdk = 24
         targetSdk = 37
         // CI passes -PbuildNumber / -PversionCodeOverride so every automatic release is newer than the last
@@ -61,14 +61,14 @@ extensions.configure<ApplicationExtension> {
         buildConfigField("String", "LIBREFM_API_KEY", "\"$libreFmKey\"")
         buildConfigField("String", "LIBREFM_SECRET", "\"$libreFmSecret\"")
 
-        // The Discord app Kiyo signs in through (Developer Portal → your app → Application ID).
+        // The Discord app Fizy signs in through (Developer Portal → your app → Application ID).
         // Discord sends the login back to discord-<id>:/authorize/callback, so the manifest needs it too.
         // Without one, the Discord page says so instead of opening a login that can't come back.
         val discordClientId = localProperties.getProperty("DISCORD_CLIENT_ID")
             ?: System.getenv("DISCORD_CLIENT_ID") ?: ""
         buildConfigField("String", "DISCORD_CLIENT_ID", "\"$discordClientId\"")
         manifestPlaceholders["discordRedirectScheme"] =
-            if (discordClientId.isNotBlank()) "discord-$discordClientId" else "kiyo-discord-unset"
+            if (discordClientId.isNotBlank()) "discord-$discordClientId" else "fizy-discord-unset"
 
         // the dropbox and microsoft apps cloud backups sign in through (setup in docs/notes/backup.md), a blank one shows "not set up"
         val dropboxAppKey = localProperties.getProperty("DROPBOX_APP_KEY") ?: System.getenv("DROPBOX_APP_KEY") ?: ""
@@ -473,7 +473,7 @@ dependencies {
     implementation(libs.ktor.client.okhttp)
     implementation(libs.ktor.client.content.negotiation)
     implementation(libs.ktor.serialization.json)
-    // finds song streams first, with kiyo's own client walk as the backup (YTPlayerUtils)
+    // finds song streams first, with fizy's own client walk as the backup (YTPlayerUtils)
     implementation(libs.innertubex)
 
     // Protobuf for message serialization (lite version for Android)

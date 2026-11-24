@@ -40,7 +40,7 @@
     <string name="cipher_status_not_loaded">불러오지 않음</string>
     <string name="cipher_status_stale">오래됨 · 다음 재생 시 갱신됩니다</string>
     <string name="cipher_status_ready">준비됨</string>
-    <string name="cipher_card_description">YouTube는 주기적으로 변경되는 플레이어 스크립트로 스트림 URL에 서명합니다. Kiyo는 이 스크립트를 캐시하고 자동으로 다시 다운로드합니다.</string>
+    <string name="cipher_card_description">YouTube는 주기적으로 변경되는 플레이어 스크립트로 스트림 URL에 서명합니다. FIZY는 이 스크립트를 캐시하고 자동으로 다시 다운로드합니다.</string>
     <string name="cipher_player_id">플레이어 ID</string>
     <string name="cipher_last_updated">마지막 업데이트</string>
     <string name="cipher_script_size">스크립트 크기</string>
@@ -147,7 +147,7 @@
     <string name="discord_cd_close">닫기</string>
     <string name="discord_spin_full_turn">한 바퀴 회전 시간</string>
     <string name="discord_spin_smoothness">부드러움</string>
-    <string name="discord_spin_note">계속 회전합니다. Discord는 웹의 이미지만 표시할 수 있으므로 Kiyo가 아트워크를 GIF로 만들어 무료 파일 호스트인 uguu.se에 업로드합니다. 파일은 3시간 후 삭제됩니다. 더 느리고 부드러운 회전은 GIF 크기가 커져 표시되는 데 조금 더 걸립니다. 그동안 정지 이미지를 표시합니다. GIF가 지원하는 최대 부드러움은 50 fps입니다.</string>
+    <string name="discord_spin_note">계속 회전합니다. Discord는 웹의 이미지만 표시할 수 있으므로 FIZY가 아트워크를 GIF로 만들어 무료 파일 호스트인 uguu.se에 업로드합니다. 파일은 3시간 후 삭제됩니다. 더 느리고 부드러운 회전은 GIF 크기가 커져 표시되는 데 조금 더 걸립니다. 그동안 정지 이미지를 표시합니다. GIF가 지원하는 최대 부드러움은 50 fps입니다.</string>
     <string name="discord_placeholder_list_title">자리표시자 목록</string>
     <string name="discord_placeholder_example_title">예를 들어 이 활동 이름은</string>
     <string name="discord_placeholder_shows_up_as">다음과 같이 표시됩니다</string>
@@ -167,7 +167,7 @@
     <string name="discord_target_spotify">Spotify</string>
     <string name="discord_target_apple_music">Apple Music</string>
     <string name="discord_target_tidal">Tidal</string>
-    <string name="discord_target_kiyo">GitHub의 FIZY</string>
+    <string name="discord_target_fizy">GitHub의 FIZY</string>
     <string name="discord_ph_name">곡 이름</string>
     <string name="discord_ph_artist">아티스트 이름</string>
     <string name="discord_ph_album">앨범</string>

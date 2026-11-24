@@ -9,7 +9,7 @@
     <string name="onb_skip">Lewati</string>
     <string name="onb_stop">Berhenti</string>
     <string name="onb_selected">Dipilih</string>
-    <string name="onb_welcome_title">Selamat datang di\nkiyo!</string>
+    <string name="onb_welcome_title">Selamat datang di\nfizy!</string>
     <string name="onb_welcome_subtitle">Cara mendengarkan dan memiliki\nmusikmu, dengan cara berbeda.</string>
     <string name="onb_adjust_photo">Atur foto profilmu</string>
     <string name="onb_select_new_image">Pilih gambar baru</string>
@@ -86,7 +86,7 @@
     <string name="onb_card_id_of">KARTU ID MILIK</string>
     <string name="onb_card_of_name">KARTU %1$s</string>
     <string name="onb_hello">Halo!</string>
-    <string name="onb_welcome_to_kiyo">selamat datang di FIZY!</string>
+    <string name="onb_welcome_to_fizy">selamat datang di FIZY!</string>
     <string name="onb_all_good">Kamu siap berangkat</string>
     <string name="onb_done_subtitle">Musikmu sudah menunggumu.</string>
     <string name="onb_warning">Peringatan</string>

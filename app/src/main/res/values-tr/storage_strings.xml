@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="storage_overall">Genel</string>
-    <string name="storage_legend_kiyo">FIZY</string>
+    <string name="storage_legend_fizy">FIZY</string>
     <string name="storage_legend_yours">Depolaman</string>
     <string name="storage_free">%1$s boş</string>
     <string name="storage_measuring">FIZY\'nin ne kadar yer kapladığı hesaplanıyor…</string>
@@ -60,7 +60,7 @@
     <string name="storage_place_move_cache_message">Şu anki önbelleğin temizlenir ve FIZY yeniden başlar, sonra çaldığın şarkılar yeni yerde tutulur.</string>
     <string name="storage_place_move_action">Taşı ve yeniden başlat</string>
     <string name="storage_export_sheet_title">İndirilen şarkıları dışa aktar</string>
-    <string name="storage_export_note">Seçtiğin yerin içindeki bir kiyo-preserve klasörüne kopyalanırlar. İndirmelerin olduğu yerde kalır.</string>
+    <string name="storage_export_note">Seçtiğin yerin içindeki bir fizy-preserve klasörüne kopyalanırlar. İndirmelerin olduğu yerde kalır.</string>
     <string name="storage_export_layout_playlists">Müzik ve çalma listeleri</string>
     <string name="storage_export_layout_playlists_detail">Her çalma listesi ve beğenilen şarkıların için bir klasör, gerisi Müzik\'e gider</string>
     <string name="storage_export_layout_albums">Albümler</string>

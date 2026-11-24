@@ -9,7 +9,7 @@
     <string name="onb_skip">Bỏ qua</string>
     <string name="onb_stop">Dừng</string>
     <string name="onb_selected">Đã chọn</string>
-    <string name="onb_welcome_title">Chào mừng đến\nkiyo!</string>
+    <string name="onb_welcome_title">Chào mừng đến\nfizy!</string>
     <string name="onb_welcome_subtitle">Một cách khác để nghe và\nsở hữu âm nhạc của bạn.</string>
     <string name="onb_adjust_photo">Chỉnh ảnh hồ sơ của bạn</string>
     <string name="onb_select_new_image">Chọn ảnh mới</string>
@@ -81,7 +81,7 @@
     <string name="onb_card_id_of">THẺ CỦA</string>
     <string name="onb_card_of_name">THẺ CỦA %1$s</string>
     <string name="onb_hello">Xin chào!</string>
-    <string name="onb_welcome_to_kiyo">chào mừng đến với FIZY!</string>
+    <string name="onb_welcome_to_fizy">chào mừng đến với FIZY!</string>
     <string name="onb_all_good">Bạn đã sẵn sàng</string>
     <string name="onb_warning">Cảnh báo</string>
     <string name="onb_blur_warning_body">Điện thoại của bạn có thể quá yếu để chạy hiệu ứng làm mờ. Bạn có muốn tắt làm mờ không? Bạn luôn có thể đổi lại trong Cài đặt.</string>

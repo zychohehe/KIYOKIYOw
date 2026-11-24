@@ -2,7 +2,7 @@
 <resources>
     <!-- About Sheet -->
     <string name="about_app">About app</string>
-    <string name="about_kiyo_music_version">FIZY Music | %1$s</string>
+    <string name="about_fizy_music_version">FIZY Music | %1$s</string>
     <string name="about_app_description">FIZY Music is a music app but\nkinda cool.</string>
     <string name="about_actions">Actions</string>
     <string name="about_support_me">Support the developer please :3 \u2192</string>
